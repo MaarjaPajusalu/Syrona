@@ -461,7 +461,9 @@ load_comparison <- function(d1_name, d2_name) {
   tables <- list()
   for (f in csv_files) {
     name <- tools::file_path_sans_ext(basename(f))
-    tables[[name]] <- utils::read.csv(f, stringsAsFactors = FALSE) |> tibble::as_tibble()
+    # readr::read_csv is ~5-10x faster than utils::read.csv on these files.
+    # Numeric columns come back as double (readr default). Fine for joins.
+    tables[[name]] <- readr::read_csv(f, show_col_types = FALSE, progress = FALSE)
   }
 
   # Backwards compatibility: map old unprefixed names

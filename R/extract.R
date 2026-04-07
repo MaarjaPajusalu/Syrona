@@ -1079,7 +1079,11 @@ load_dataset <- function(dataset_name) {
   tables <- list()
   for (f in csv_files) {
     name <- tools::file_path_sans_ext(basename(f))
-    tbl <- utils::read.csv(f, stringsAsFactors = FALSE) |> tibble::as_tibble()
+    # readr::read_csv is ~5-10x faster than utils::read.csv on these files.
+    # Numeric columns come back as double (readr default). That is fine:
+    # dplyr joins compare numerically, and the existing code does not rely
+    # on storage.mode.
+    tbl <- readr::read_csv(f, show_col_types = FALSE, progress = FALSE)
     if (nrow(tbl) == 0 && name %in% names(col_types)) {
       for (col in names(col_types[[name]])) {
         if (col %in% names(tbl)) {

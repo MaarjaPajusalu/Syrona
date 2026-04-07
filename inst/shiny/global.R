@@ -75,6 +75,11 @@ if (is.null(DATA_DIR)) {
       break
     }
   }
+  # Propagate the discovered path so load_dataset() and load_comparison()
+  # (which read getOption("syrona.data_dir", ".")) use the same base as
+  # everything above. Without this, flat-shiny mode worked only by
+  # coincidence of getwd() happening to equal DATA_DIR.
+  options(syrona.data_dir = DATA_DIR)
 }
 message("[syrona] DATA_DIR = ", DATA_DIR)
 
