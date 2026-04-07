@@ -8,8 +8,27 @@ Syrona extracts prevalence tables from OMOP CDM databases (conditions, procedure
 
 ```r
 # install.packages("remotes")
-remotes::install_github("your-org/syrona")
+remotes::install_github("MaarjaPajusalu/Syrona")
 ```
+
+## Demo data (paper supplement)
+
+Four pre-extracted OMOP datasets and two pre-computed comparisons ship at
+the repo root under `data/` so the dashboard can be launched immediately
+from a clone:
+
+```r
+# Clone the repo, then in R:
+setwd("path/to/Syrona")
+library(syrona)
+run_app()
+```
+
+The `data/` folder is excluded from the R package build (`.Rbuildignore`),
+so `remotes::install_github` installs the code only. Installed users who
+want the dashboard with the demo data should clone the repo instead of
+installing, or point `run_app(data_dir = ...)` at their own extracted
+datasets.
 
 ## Quick start
 
