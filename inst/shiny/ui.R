@@ -220,7 +220,7 @@ fluidPage(
         else { bar.style.display = 'none'; this.textContent = '\u25B6 Sex & Age group'; }
         return false;
       ", "\u25B6 Sex & Age group"),
-      info_icon("Filter by sex and age group. Deselecting a subgroup removes it from the meta-analysis, not just from display.")
+      info_icon("Filter by sex and age group. Deselecting a subgroup only hides it from the visualization. The meta-analysis itself was computed in the comparison step before the app started, so the underlying pooled estimates do not change.")
     ),
     div(id = "strata_bar", class = "strata-bar", style = "display: none;",
       checkboxGroupInput("f_sex", NULL,
