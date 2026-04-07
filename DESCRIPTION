@@ -9,6 +9,8 @@ Description: Extracts stratified prevalence tables from OMOP CDM databases
     paired datasets, and synthesizes them via random-effects meta-analysis
     at multiple aggregation levels (year, age group, sex).
 License: MIT + file LICENSE
+URL: https://github.com/MaarjaPajusalu/Syrona
+BugReports: https://github.com/MaarjaPajusalu/Syrona/issues
 Encoding: UTF-8
 RoxygenNote: 7.3.3
 Imports:
