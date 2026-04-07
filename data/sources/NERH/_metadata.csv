@@ -1,0 +1,2 @@
+"dataset_name","db_path","extracted_at","n_conditions","n_condition_prevalence_rows","n_rare_conditions","n_procedures","n_procedure_prevalence_rows","n_drugs","n_drug_prevalence_rows","age_clamp_max","k_anonymity"
+"PERHEvents",NA,"2026-03-26 09:59:45",3732,54971,2295,1432,42595,97,667,80,5

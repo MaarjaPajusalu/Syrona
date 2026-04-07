@@ -1,0 +1,14 @@
+# R session files
+.RData
+.Rhistory
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Package build artifacts
+*.tar.gz
+*.Rcheck/
+
+# pkgdown site (rebuilt from source)
+docs/

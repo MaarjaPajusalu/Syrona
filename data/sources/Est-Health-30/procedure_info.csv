@@ -1,0 +1,2168 @@
+"concept_id","concept_name","concept_code","vocabulary_id","concept_class_id","n_patients_total","n_records_total"
+4187078,"Electrocardiographic monitoring","46825001","SNOMED","Procedure",299752,1604529
+4064522,"Medical examination for suspected condition","171397002","SNOMED","Procedure",295497,998457
+4163872,"Plain X-ray of chest","399208008","SNOMED","Procedure",279028,792072
+4075112,"Emergency examination for triage","245581009","SNOMED","Procedure",209666,469483
+4063398,"Driver license medical examination","171351004","SNOMED","Procedure",208551,283872
+46272790,"Plain X-ray of limb","711220000","SNOMED","Procedure",207184,595306
+4259495,"Slit lamp fundus examination","410455004","SNOMED","Procedure",203624,981348
+4098814,"Refraction assessment","252886007","SNOMED","Procedure",200430,796784
+4030176,"Chromosome analysis, cytogenetic procedure AND/OR molecular biology method","108261007","SNOMED","Procedure",200048,641104
+4305221,"US scan of abdomen and pelvis","418394000","SNOMED","Procedure",192903,408093
+4238738,"Physical therapy procedure","91251008","SNOMED","Procedure",176287,1498662
+44791515,"Radiology of two body areas","284591000000104","SNOMED","Procedure",173052,647861
+37016877,"Plain X-ray of upper limb","713023004","SNOMED","Procedure",170900,414848
+4158569,"Emergency procedure","373110003","SNOMED","Procedure",170373,305285
+4163903,"CT without contrast","399331006","SNOMED","Procedure",141165,263960
+4088561,"Indirect encounter","185316007","SNOMED","Procedure",141073,754560
+1072956,"Plain X-ray of spine","1290640000","SNOMED","Procedure",131726,234759
+4027510,"Transvaginal echography","13205008","SNOMED","Procedure",131279,757405
+4004517,"Ambulatory surgery","110468005","SNOMED","Procedure",122557,192576
+4013636,"Magnetic resonance imaging","113091000","SNOMED","Procedure",121121,239619
+4230911,"Echocardiography","40701008","SNOMED","Procedure",111370,226934
+4334402,"Examination of ear under microscope","232207003","SNOMED","Procedure",109377,289580
+4244986,"CT of brain without contrast","396205005","SNOMED","Procedure",105985,179993
+40480861,"Evaluation of biopsy specimen","441817003","SNOMED","Procedure",104830,192733
+1073730,"CT with contrast","1331946003","SNOMED","Procedure",104532,245103
+4014506,"Hematoxylin and eosin stain method","104210008","SNOMED","Procedure",104519,191227
+4205771,"Ultrasonography of soft tissue","438527007","SNOMED","Procedure",101857,169812
+4155446,"Plain X-ray of head","370142005","SNOMED","Procedure",99449,165348
+40484883,"Evaluation of surgical biopsy specimen","442709002","SNOMED","Procedure",98540,148568
+40484651,"Analysis using real time PCR","444076003","SNOMED","Procedure",95376,214061
+4144375,"Active immunization","33879002","SNOMED","Procedure",93634,227248
+4088016,"Child examination","243788004","SNOMED","Procedure",93506,906793
+4254477,"Counseling","409063005","SNOMED","Procedure",93399,328770
+4294382,"Esophagogastroduodenoscopy","76009000","SNOMED","Procedure",85857,145905
+4194672,"Specialized medical examination","79206001","SNOMED","Procedure",82891,113963
+4322820,"Supply of spectacles","7128000","SNOMED","Procedure",81066,199069
+4064788,"Medical counseling","171014001","SNOMED","Procedure",78637,209144
+40488365,"Insertion of indwelling catheter into urinary bladder","446583004","SNOMED","Procedure",75460,120267
+4324693,"Mammography","71651007","SNOMED","Procedure",71400,162296
+4257824,"Insertion of catheter into urinary bladder","410024004","SNOMED","Procedure",70921,115202
+4306780,"Gynecologic examination","83607001","SNOMED","Procedure",69600,148388
+4075360,"Surgical debridement of wound","225148005","SNOMED","Procedure",67543,89675
+37016875,"Plain X-ray of pelvis","713021002","SNOMED","Procedure",66118,121754
+4303663,"CT angiography with contrast","418272005","SNOMED","Procedure",64698,98387
+4328969,"Ultrasound angiography of artery","431201002","SNOMED","Procedure",59344,93667
+4312604,"Puncture procedure","85921004","SNOMED","Procedure",59013,146454
+4202517,"Endoscopic biopsy","53767003","SNOMED","Procedure",58560,88988
+4108844,"Application of plaster cast","180289009","SNOMED","Procedure",58427,79939
+4178367,"Radiographic imaging procedure","363680008","SNOMED","Procedure",57544,164356
+44783407,"Destruction of tissue of skin","699498007","SNOMED","Procedure",57327,187813
+4263508,"Ophthalmic examination and evaluation","36228007","SNOMED","Procedure",55986,97493
+4065062,"Health examination of sub-group","171413000","SNOMED","Procedure",55021,297301
+4140473,"Holter extended electrocardiographic recording","427047002","SNOMED","Procedure",53801,84834
+4194260,"Endoscopy of pharynx","392102003","SNOMED","Procedure",53794,99566
+4291344,"Immunoblot assay","37310002","SNOMED","Procedure",53244,89052
+1244366,"Therapeutic diathermy","1287433006","SNOMED","Procedure",52055,64120
+4026128,"Ultrasound study of eye","19731001","SNOMED","Procedure",51580,94760
+44807049,"Attention to sutures","824091000000105","SNOMED","Procedure",51190,80801
+4083110,"US scan of thyroid","241455000","SNOMED","Procedure",49944,103599
+4061660,"Preventive procedure","169443000","SNOMED","Procedure",49386,59484
+4077697,"Screening mammography","24623002","SNOMED","Procedure",48200,95541
+4261497,"Ultrasonography of abdomen","45036003","SNOMED","Procedure",47821,72101
+4147588,"Excision of lesion of skin","35646002","SNOMED","Procedure",47236,79238
+4250598,"Contraception care management","408969000","SNOMED","Procedure",44569,146068
+4036803,"General examination of patient","162673000","SNOMED","Procedure",44481,73514
+4301351,"Surgical procedure","387713003","SNOMED","Procedure",43898,68722
+4237359,"Ultrasound examination of joint","91672001","SNOMED","Procedure",42321,58678
+4044347,"Ultrasound phlebography","129108007","SNOMED","Procedure",41235,63111
+4159965,"Implantation of posterior chamber intraocular lens","373415004","SNOMED","Procedure",38095,63976
+4064518,"School admission medical examination","171387006","SNOMED","Procedure",38083,42683
+4187207,"Phacoemulsification of cataract with intraocular lens implantation","415089008","SNOMED","Procedure",37901,63519
+4223363,"Aspiration of cataract by phacoemulsification","84149000","SNOMED","Procedure",37821,63284
+4249893,"Colonoscopy","73761001","SNOMED","Procedure",37579,80479
+4183687,"History and physical examination, administrative","55804002","SNOMED","Procedure",37207,54007
+37153789,"Digital dermatoscopy of skin","1237126002","SNOMED","Procedure",36796,64340
+4297516,"Endoscopy of stomach","386831001","SNOMED","Procedure",36667,51898
+4088889,"Individual psychotherapy","18512000","SNOMED","Procedure",36408,234505
+4016212,"Child 1 year examination","170254004","SNOMED","Procedure",35624,38917
+4015555,"Child 3 month examination","170250008","SNOMED","Procedure",35379,39036
+4295019,"Child 2 year examination","401140000","SNOMED","Procedure",34897,37385
+4152021,"Ultrasound scan - obstetric","268445003","SNOMED","Procedure",34700,200554
+4063911,"Ocular fundus photography","20067007","SNOMED","Procedure",34621,95132
+4198856,"MRI with contrast","51619007","SNOMED","Procedure",31551,50196
+45763862,"Ultrasonography of urinary bladder for post-void residual volume","700387001","SNOMED","Procedure",31541,66410
+4166132,"Examination of optic disc","274795007","SNOMED","Procedure",31012,78802
+4297232,"Postnatal maternal examination","384634009","SNOMED","Procedure",30604,76834
+4004241,"Endoscopic biopsy of stomach","10077008","SNOMED","Procedure",30394,39295
+4264054,"Ultrasonography of breast","47079000","SNOMED","Procedure",30277,50064
+4013574,"Computed perimetry","103753003","SNOMED","Procedure",30250,88752
+4082233,"Assisted exercise in pool","182623007","SNOMED","Procedure",29485,304726
+4304575,"Ultrasound angiography","419698000","SNOMED","Procedure",28604,40938
+4143660,"Suture of skin of head or neck","265681006","SNOMED","Procedure",28188,32276
+4056681,"Plain X-ray","168537006","SNOMED","Procedure",27493,55289
+4071507,"Normal delivery procedure","177184002","SNOMED","Procedure",26960,39644
+4022110,"Developing a treatment plan","225292002","SNOMED","Procedure",26934,45899
+4160269,"Application of upper extremity splint","430354007","SNOMED","Procedure",26393,34227
+4105083,"Endoscopy of nose","25570002","SNOMED","Procedure",26223,43904
+44788943,"Speech assessment","196731000000103","SNOMED","Procedure",26053,50290
+4170107,"Obstetric Doppler ultrasonography","418090003","SNOMED","Procedure",25904,90654
+4327129,"Endorectal ultrasonography","429820004","SNOMED","Procedure",25857,52658
+40484969,"Fine needle aspiration biopsy using imaging guidance","442787002","SNOMED","Procedure",25780,39633
+4213005,"Closure of skin by suture","391906003","SNOMED","Procedure",24688,27929
+4088217,"Administration of medication","18629005","SNOMED","Procedure",24007,128824
+4074298,"Intrauterine contraceptive device procedure","176837007","SNOMED","Procedure",23925,39101
+4275113,"Insertion of intrauterine contraceptive device","65200003","SNOMED","Procedure",23831,61014
+40487881,"Full mouth plain X-ray of teeth","446463003","SNOMED","Procedure",23692,30988
+4187379,"Psychologic cognitive testing and assessment","4719001","SNOMED","Procedure",23635,36000
+4032377,"Psychologic AND/OR psychiatric procedure AND/OR service","108310004","SNOMED","Procedure",23123,46928
+4164278,"Catheterization","45211000","SNOMED","Procedure",22865,32440
+4179815,"Electromyography","42803009","SNOMED","Procedure",22795,30569
+4305581,"Application of dressing","3895009","SNOMED","Procedure",22041,78483
+4276031,"Flow cytometry","64444005","SNOMED","Procedure",21932,73417
+44808909,"Multidisciplinary cancer case management","842911000000105","SNOMED","Procedure",21057,36167
+40480642,"Core needle biopsy using ultrasound guidance","444704008","SNOMED","Procedure",20954,27350
+4181917,"Electroencephalogram","54550000","SNOMED","Procedure",20667,32252
+4208393,"Tooth extraction","55162003","SNOMED","Procedure",20104,48905
+4052413,"Central venous cannula insertion","233527006","SNOMED","Procedure",19491,28333
+4086677,"Pelvic echography","24848001","SNOMED","Procedure",19378,29925
+4311405,"Biopsy","86273004","SNOMED","Procedure",19137,23611
+4108316,"Incision and drainage of abscess","284181007","SNOMED","Procedure",18820,23325
+4057900,"Plain X-ray of abdomen","168702005","SNOMED","Procedure",18800,26209
+4079602,"Application of plaster cast to lower limb","239674003","SNOMED","Procedure",18531,25157
+4189586,"Colposcopy","392003006","SNOMED","Procedure",18211,62895
+4138836,"Angiography of cerebral arteries","3258003","SNOMED","Procedure",18171,22270
+4284837,"Indirect laryngoscopy","673005","SNOMED","Procedure",17822,23578
+4070719,"Tonsillectomy","173422009","SNOMED","Procedure",17820,35312
+4062856,"Examination for suspected cardiovascular disease","171405001","SNOMED","Procedure",17324,24088
+4142645,"Angiography of coronary artery","33367005","SNOMED","Procedure",16793,21712
+4179713,"Endoscopic procedure","363687006","SNOMED","Procedure",16320,25436
+4119985,"Removal of suture from skin","302415002","SNOMED","Procedure",16109,19690
+4014477,"History and physical examination, sports participation","103736005","SNOMED","Procedure",16076,37853
+4160270,"Application of lower extremity splint","430362004","SNOMED","Procedure",15611,19629
+4037672,"Ultrasonography","16310003","SNOMED","Procedure",15587,26767
+4063519,"Examination for suspected mental disorder","171398007","SNOMED","Procedure",15520,47850
+4046267,"Reduction procedure","122469009","SNOMED","Procedure",15279,17894
+4301600,"Direct laryngoscopy","78121007","SNOMED","Procedure",14910,21990
+4003875,"Adenoid excision","119954001","SNOMED","Procedure",14761,29589
+44808983,"Mental health care and treatment planning","861361000000109","SNOMED","Procedure",14675,41511
+4206479,"Repair of obstetrical laceration of perineum","55669006","SNOMED","Procedure",14607,18460
+4273629,"Chemotherapy","367336001","SNOMED","Procedure",13550,385734
+4082989,"Magnetic resonance imaging (MRI) of vessels","241663008","SNOMED","Procedure",13524,15252
+4062353,"Psychosexual counseling","171023003","SNOMED","Procedure",13357,25220
+4198105,"Nerve conduction study","51110005","SNOMED","Procedure",13172,15399
+1072986,"Plain X-ray of dentition","1290850002","SNOMED","Procedure",12875,21116
+4216854,"Incision of skin of trunk","71965007","SNOMED","Procedure",12489,14649
+40489328,"Colonoscopy and biopsy of colon","446745002","SNOMED","Procedure",12343,15529
+4067028,"Removal of foreign body from cornea","172426003","SNOMED","Procedure",12137,26102
+4103962,"Injection of knee joint","300024006","SNOMED","Procedure",12060,25691
+42872494,"Electrodesiccation of lesion of skin","450485008","SNOMED","Procedure",11857,42327
+4327322,"Biopsy of soft tissue","75016008","SNOMED","Procedure",11852,24105
+4040401,"Procedure on skin","118718002","SNOMED","Procedure",11843,17089
+1075179,"Plain X-ray of musculoskeletal system","1293132006","SNOMED","Procedure",11803,20257
+4074865,"Curettage of uterus","176820000","SNOMED","Procedure",11685,23512
+4262407,"Control of hemorrhage of nose","35807001","SNOMED","Procedure",11595,19561
+42872674,"Excision of lesion of skin of head","450665004","SNOMED","Procedure",11565,13651
+42872675,"Excision of lesion of skin of neck","450666003","SNOMED","Procedure",11565,13651
+4005223,"Needling of secondary cataract","12163000","SNOMED","Procedure",11551,14139
+4175471,"Cervical biopsy","50796003","SNOMED","Procedure",11541,24776
+4176113,"Cryotherapy of skin","49987006","SNOMED","Procedure",11481,42099
+4015846,"Quarantine","170497006","SNOMED","Procedure",11269,17075
+4052532,"Hysteroscopy","233545006","SNOMED","Procedure",11211,14297
+4028987,"Arthroscopy","13714004","SNOMED","Procedure",11125,13672
+4266507,"DNA analysis","62302004","SNOMED","Procedure",11114,13097
+4305063,"Transurethral cystoscopy","386745004","SNOMED","Procedure",11065,36991
+4116186,"Central venous cannula insertion via jugular vein","302776009","SNOMED","Procedure",11060,14809
+4217766,"Resection of polyp","82035006","SNOMED","Procedure",11001,13623
+4186393,"Mycobacterial microscopy","414788003","SNOMED","Procedure",10816,24050
+4032404,"Bronchoscopy","10847001","SNOMED","Procedure",10600,18036
+37018340,"Induced termination of pregnancy","714812005","SNOMED","Procedure",10571,14851
+4091870,"Rhinomanometry","252553002","SNOMED","Procedure",10347,15125
+4103530,"Suture of skin wound of limb","28961007","SNOMED","Procedure",10289,10890
+4085730,"Antibiotic therapy","281789004","SNOMED","Procedure",10244,20352
+4163971,"Laparoscopic cholecystectomy","45595009","SNOMED","Procedure",9934,19631
+4042323,"Procedure on skin of upper extremity","118722007","SNOMED","Procedure",9902,17231
+4062771,"Examination for suspected neoplasm","171399004","SNOMED","Procedure",9812,15274
+4197122,"Turbinectomy","51302004","SNOMED","Procedure",9774,10486
+4048626,"Submucous resection of nasal turbinate","232483003","SNOMED","Procedure",9743,10665
+4288538,"CT of brain with contrast","396207002","SNOMED","Procedure",9491,15078
+4115153,"Medical termination of pregnancy","285409006","SNOMED","Procedure",9430,12435
+4128362,"Injection into shoulder joint","290035003","SNOMED","Procedure",9427,16874
+42872923,"Nasopharyngolaryngoscopy","450918007","SNOMED","Procedure",9142,14077
+4074869,"Introduction of abortifacient into uterine cavity","176849008","SNOMED","Procedure",9034,11341
+4302819,"Massage physiotherapy","387854002","SNOMED","Procedure",8935,112617
+4171571,"Proctoscopy","42238002","SNOMED","Procedure",8767,15978
+4295950,"Patient counseling management","385720006","SNOMED","Procedure",8708,20402
+4184832,"Percutaneous transluminal angioplasty of coronary artery using imaging guidance with contrast","41339005","SNOMED","Procedure",8679,16595
+4031973,"Repair of hernia of anterior abdominal wall","238192002","SNOMED","Procedure",8617,9271
+4028920,"Family psychotherapy procedure","108313002","SNOMED","Procedure",8523,33584
+4080499,"Dressing of wound","182531007","SNOMED","Procedure",8490,92929
+4181025,"Fluoroscopy guided percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery using fluoroscopic guidance with contrast","429639007","SNOMED","Procedure",8423,10700
+1242725,"Radiotherapy","1287742003","SNOMED","Procedure",8381,11407
+4043031,"Procedure on skin of trunk","118721000","SNOMED","Procedure",8381,14001
+4291347,"Removal of foreign body from head","37470006","SNOMED","Procedure",8341,10233
+4183058,"Fitting of hearing aid","43362002","SNOMED","Procedure",8336,20312
+4163403,"Psychologic evaluation or test procedure","45392008","SNOMED","Procedure",8284,9460
+4176717,"Flexible fiberoptic laryngoscopy","49077009","SNOMED","Procedure",8243,11703
+4015701,"Cesarean section","11466000","SNOMED","Procedure",8186,9877
+37312440,"Lower uterine segment cesarean section","788180009","SNOMED","Procedure",8135,9776
+4189015,"Polysomnography","60554003","SNOMED","Procedure",8122,8924
+4231924,"Application of short arm cast","438409006","SNOMED","Procedure",8116,9215
+4021506,"Examination of ear","225670007","SNOMED","Procedure",8046,10132
+4134565,"Hearing examination","398171003","SNOMED","Procedure",8046,10132
+4140707,"Endoscopic excision of lesion of uterus","265065000","SNOMED","Procedure",7812,8767
+604177,"Flexible bronchoscopy","69621000052107","SNOMED","Procedure",7701,12971
+4154104,"Laser iridotomy","371345007","SNOMED","Procedure",7688,10312
+4195288,"Fluoroscopy","44491008","SNOMED","Procedure",7668,9221
+4061132,"US brain scan","169237004","SNOMED","Procedure",7662,9448
+4209537,"Colonoscopic polypectomy","311774002","SNOMED","Procedure",7519,8815
+4254204,"Artificial rupture of membranes","408816000","SNOMED","Procedure",7515,8416
+4124557,"Endoscopic partial meniscectomy of knee","303864007","SNOMED","Procedure",7485,8603
+4026040,"Hearing aid procedure","225680006","SNOMED","Procedure",7464,15501
+4155794,"Nuclear medicine procedure","371572003","SNOMED","Procedure",7399,9888
+4028217,"Operation on skin of upper extremity","13350008","SNOMED","Procedure",7321,8012
+4321878,"Core needle biopsy","9911007","SNOMED","Procedure",7276,8318
+4154603,"Removal of implant","284101009","SNOMED","Procedure",7220,8233
+4303413,"First aid","386308007","SNOMED","Procedure",7220,12842
+4196155,"Ultrasonography of myocardium for tissue strain rate","431343007","SNOMED","Procedure",7150,8289
+4035290,"Application of below knee plaster cast","239676001","SNOMED","Procedure",7022,7950
+35622113,"Fluoroscopy using contrast","763454007","SNOMED","Procedure",7008,9997
+4199675,"Insertion of drain using ultrasound guidance","432273003","SNOMED","Procedure",7000,11090
+4081731,"Biopsy of skin","240977001","SNOMED","Procedure",6851,8014
+4067257,"Cauterization of internal nose","172812000","SNOMED","Procedure",6818,9912
+4140161,"Operation on retinal membrane","426534009","SNOMED","Procedure",6658,8248
+4019824,"Transesophageal echocardiography","105376000","SNOMED","Procedure",6596,8875
+4278515,"Biopsy of prostate","65575008","SNOMED","Procedure",6562,9014
+4087381,"Sigmoidoscopy","24420007","SNOMED","Procedure",6527,7908
+4093926,"Change of dressing, major","25988003","SNOMED","Procedure",6493,15291
+4114775,"Exploration of wound of skin","302438004","SNOMED","Procedure",6493,15291
+4012330,"Suture of obstetric laceration of vagina","112926007","SNOMED","Procedure",6413,7140
+4052415,"Central venous cannula insertion via subclavian vein","233530004","SNOMED","Procedure",6388,8076
+4162299,"Autopsy examination","29240004","SNOMED","Procedure",6380,6425
+35608046,"CT of heart with contrast","764579002","SNOMED","Procedure",6322,6972
+4196362,"Genetic counseling","79841006","SNOMED","Procedure",6316,9798
+4140012,"Desiccation of lesion of skin of head and/or neck using electrical energy","426349002","SNOMED","Procedure",6181,13398
+4196355,"Endoscopy of ovary and fallopian tube","79820000","SNOMED","Procedure",6152,6542
+4332517,"Biopsy of lower limb","430233003","SNOMED","Procedure",6143,11485
+4202558,"Removal of uterine foreign body","315305006","SNOMED","Procedure",6132,7117
+4083211,"Cardiac CT","241547009","SNOMED","Procedure",6106,6509
+4195307,"Repair of inguinal hernia","44558001","SNOMED","Procedure",6096,6651
+4289590,"Destructive procedure of lesion on skin of trunk","695009","SNOMED","Procedure",6094,11131
+4028875,"Incision and drainage of lower extremity","128988001","SNOMED","Procedure",6074,6871
+4286023,"Grafting of nasal septum","68538002","SNOMED","Procedure",6065,6175
+4160183,"Tympanocentesis","398324004","SNOMED","Procedure",6019,8657
+4233227,"Orthopantogram","89846007","SNOMED","Procedure",5986,6985
+4043025,"Procedure on upper extremity","118702008","SNOMED","Procedure",5954,10497
+4218109,"Removal of internal fixation device","72010008","SNOMED","Procedure",5948,6692
+4140397,"Local anesthetic nerve block","265778005","SNOMED","Procedure",5930,11407
+4266232,"Incision and drainage of skin","61301009","SNOMED","Procedure",5877,6552
+4233678,"Application of dressing for burn","90660004","SNOMED","Procedure",5876,24065
+4343794,"Internal fixation of fracture","239293007","SNOMED","Procedure",5875,6330
+4030087,"Nasal septoplasty","13529000","SNOMED","Procedure",5817,5909
+4196378,"Flexible fiberoptic sigmoidoscopy","44441009","SNOMED","Procedure",5775,7055
+4075473,"Incision of skin of head or neck","177593005","SNOMED","Procedure",5761,6451
+37204555,"Child 15 year examination","783260003","SNOMED","Procedure",5732,5868
+4068181,"Angiography of eye using fluorescein","172581008","SNOMED","Procedure",5711,9539
+43531163,"Microscopic examination of specimen from prostate","608862004","SNOMED","Procedure",5705,12025
+4077763,"Removal of foreign body from soft tissue","18994009","SNOMED","Procedure",5674,5932
+4166080,"Decompression of median nerve","47534009","SNOMED","Procedure",5651,10176
+4080549,"Lumbar puncture","277762005","SNOMED","Procedure",5613,8908
+4141448,"External beam radiation therapy procedure","33195004","SNOMED","Procedure",5592,37954
+4256346,"Dressing change/wound care case management","410330006","SNOMED","Procedure",5569,19079
+44807107,"Dressing of leg ulcer","805211000000103","SNOMED","Procedure",5569,19079
+4080807,"Application of bandage","182555002","SNOMED","Procedure",5498,7131
+4070329,"Cryotherapy to lesion of skin of head or neck","177328008","SNOMED","Procedure",5402,12116
+4012329,"Repair of obstetric laceration of vulva","112925006","SNOMED","Procedure",5398,6069
+4214428,"Incision of skin","41447009","SNOMED","Procedure",5391,5857
+4065058,"Examination for suspected tuberculosis","171400006","SNOMED","Procedure",5370,7928
+4120998,"Operation on skin wound","302437009","SNOMED","Procedure",5369,5754
+4171863,"Fine needle biopsy","48635004","SNOMED","Procedure",5344,7300
+4150671,"Destruction of lesion of cervix","31197001","SNOMED","Procedure",5328,6019
+4311671,"Episiotomy","85548006","SNOMED","Procedure",5320,5596
+4185738,"Radical excision of skin lesion","44166002","SNOMED","Procedure",5291,6790
+40488431,"Interrogation of cardiac pacemaker","448150008","SNOMED","Procedure",5272,26687
+4134857,"Prosthetic arthroplasty of hip","398010007","SNOMED","Procedure",5222,6105
+4334592,"Photocoagulation to retina","231762005","SNOMED","Procedure",5208,23816
+44806220,"Intravitreal injection","800481000000101","SNOMED","Procedure",5168,60441
+4150970,"Medical induction of labor","31208007","SNOMED","Procedure",5164,5688
+4165535,"Continuous positive airway pressure ventilation treatment","47545007","SNOMED","Procedure",5111,7667
+42872445,"Positron emission tomography with computed tomography","450436003","SNOMED","Procedure",5032,8720
+4296166,"Group psychotherapy","76168009","SNOMED","Procedure",5017,31673
+4160914,"Nuclear medicine imaging procedure","373205008","SNOMED","Procedure",4984,5955
+4178834,"Paracentesis of skin","363258002","SNOMED","Procedure",4965,7795
+4085189,"Biopsy of thyroid","24788003","SNOMED","Procedure",4960,8580
+604986,"Intravitreal injection of anti-vascular endothelial growth factor","1004045004","SNOMED","Procedure",4923,57982
+4181912,"Cone biopsy of cervix","54535009","SNOMED","Procedure",4923,5319
+4332514,"Biopsy of upper limb","430223006","SNOMED","Procedure",4923,7927
+4154990,"Excision of lesion of skin of lower extremity","371328002","SNOMED","Procedure",4847,5435
+4076441,"Closed reduction of fracture of elbow","179166006","SNOMED","Procedure",4816,5085
+4185541,"Excision of varicose vein","559008","SNOMED","Procedure",4815,5791
+4002377,"Hand injection","119650007","SNOMED","Procedure",4756,8032
+4101113,"Intra-articular injection","27813003","SNOMED","Procedure",4756,8032
+44790187,"Injection of wrist joint","198171000000104","SNOMED","Procedure",4756,8032
+40481840,"Arthroplasty","442095009","SNOMED","Procedure",4755,5261
+4087575,"Operation on anus","24265000","SNOMED","Procedure",4749,5567
+4143663,"Removal of nail plate","265698006","SNOMED","Procedure",4607,5726
+4150538,"Suction evacuation of retained products of conception","310604000","SNOMED","Procedure",4464,5529
+4243973,"Laparoscopic appendectomy","6025007","SNOMED","Procedure",4463,8835
+4043011,"Three dimensional treatment planning for external beam radiation therapy","118641002","SNOMED","Procedure",4380,4673
+4014990,"Child 3 year examination","170281004","SNOMED","Procedure",4352,4456
+4195757,"Operation on uterus","79876008","SNOMED","Procedure",4267,4531
+4202832,"Intubation","52765003","SNOMED","Procedure",4226,4558
+4321906,"Nursing procedure","9632001","SNOMED","Procedure",4217,10366
+4138870,"Cemented prosthetic total arthroplasty of knee joint","265170009","SNOMED","Procedure",4203,5320
+4154120,"Excision of lesion of skin of upper extremity","371411001","SNOMED","Procedure",4189,4592
+4241075,"Injection","59108006","SNOMED","Procedure",4173,4861
+37153529,"Injection of drug or medicament into joint","1217554008","SNOMED","Procedure",4095,6420
+4083066,"Drainage of pleural cavity","278296000","SNOMED","Procedure",4075,5369
+4321430,"Removal of foreign body from external auditory canal","9655003","SNOMED","Procedure",4055,5128
+4010253,"Nasal sinus endoscopy","112790001","SNOMED","Procedure",4025,9516
+4144430,"Diagnostic puncture of sternum","265155008","SNOMED","Procedure",3955,6667
+4119988,"Removal of foreign body from skin","302421003","SNOMED","Procedure",3948,4098
+761970,"Chondrectomy of knee joint","25100001000004104","SNOMED","Procedure",3908,4407
+4297706,"Replacement of device","384728007","SNOMED","Procedure",3908,13839
+4299523,"Angiography","77343006","SNOMED","Procedure",3882,5993
+4301559,"Removal of ear wax","385904005","SNOMED","Procedure",3862,5204
+4145042,"Thrombolytic therapy","426347000","SNOMED","Procedure",3857,6825
+4311039,"Prosthetic arthroplasty of knee joint","392238003","SNOMED","Procedure",3842,4739
+4080918,"Chalazion removal","238514005","SNOMED","Procedure",3739,5531
+4198190,"Appendectomy","80146002","SNOMED","Procedure",3720,6902
+4304943,"Endoscopic retrograde cholangiopancreatography","386718000","SNOMED","Procedure",3718,14522
+4034458,"Operation on intervertebral disc","239540005","SNOMED","Procedure",3655,4118
+4241102,"Temporary transcutaneous pacing","59218006","SNOMED","Procedure",3647,7194
+40480729,"Screening colonoscopy","444783004","SNOMED","Procedure",3635,3867
+4274801,"Photocoagulation","64879003","SNOMED","Procedure",3626,11952
+4313889,"Endoscopy","423827005","SNOMED","Procedure",3619,4023
+4174208,"Bone marrow aspiration procedure","49401003","SNOMED","Procedure",3612,6136
+44790501,"Implantation of dual chamber cardiac pacemaker system","232991000000106","SNOMED","Procedure",3610,3811
+4047494,"Biopsy of breast","122548005","SNOMED","Procedure",3604,9989
+4035289,"Application of plaster cast to upper limb","239666004","SNOMED","Procedure",3561,4275
+4106463,"Internal fixation using plate","257835007","SNOMED","Procedure",3517,3611
+4144525,"Injection of joint of ankle","34333007","SNOMED","Procedure",3516,5948
+4195651,"Cleaning of skin wound of head or neck","314124008","SNOMED","Procedure",3460,5058
+4246197,"Excision of vein","60941001","SNOMED","Procedure",3412,4076
+4353741,"Cardioversion","250980009","SNOMED","Procedure",3406,6853
+4343108,"Needle biopsy of prostate","236258004","SNOMED","Procedure",3398,4024
+4297250,"Termination of pregnancy","386639001","SNOMED","Procedure",3393,4155
+4019646,"Stripping of the long saphenous vein","175830001","SNOMED","Procedure",3353,3728
+4039589,"Hot mud treatment","229574004","SNOMED","Procedure",3346,25305
+4222885,"Isolation technique","40174006","SNOMED","Procedure",3314,4538
+4199599,"In vitro fertilization","52637005","SNOMED","Procedure",3310,18359
+4275569,"Release of tenosynovitis","64926009","SNOMED","Procedure",3304,3792
+4032241,"Analysis of electronic device used in cardiovascular system","108231004","SNOMED","Procedure",3290,12983
+4058035,"Double contrast barium meal","168844005","SNOMED","Procedure",3180,3751
+4031456,"Puncture and drainage of pleural cavity","238354008","SNOMED","Procedure",3150,5518
+4076188,"Arthroscopic synovectomy knee joint","179394007","SNOMED","Procedure",3132,3476
+4141919,"Insertion of pleural tube drain","264957007","SNOMED","Procedure",3128,4113
+4072862,"Oocyte recovery","177037000","SNOMED","Procedure",3117,9588
+4213288,"Insertion of catheter into artery","392247006","SNOMED","Procedure",3107,3681
+4031174,"Injection of hip joint","14381006","SNOMED","Procedure",3053,5427
+4240305,"Thoracentesis","91602002","SNOMED","Procedure",2990,4693
+4167089,"Emergency cesarean section","274130007","SNOMED","Procedure",2989,3152
+37167470,"Paracentesis of urinary bladder","1264533007","SNOMED","Procedure",2981,9997
+4201639,"Laparoscopic salpingectomy","315059002","SNOMED","Procedure",2978,3021
+4036943,"Laparoscopic sterilization","16226000","SNOMED","Procedure",2964,3012
+4107444,"Internal fixation using intramedullary nail","257836008","SNOMED","Procedure",2963,3284
+4119836,"Excision of skin of head and neck","25757008","SNOMED","Procedure",2947,3073
+4219551,"Laser procedure","416376001","SNOMED","Procedure",2945,6319
+4082987,"Cardiac MRI","241620005","SNOMED","Procedure",2940,3287
+4299733,"Endometrial biopsy","386802000","SNOMED","Procedure",2934,3497
+4120443,"Bone marrow sampling","234326005","SNOMED","Procedure",2928,3786
+4327048,"Embryo transfer","75456002","SNOMED","Procedure",2926,8915
+4262320,"Tympanostomy","397862008","SNOMED","Procedure",2891,3080
+4042650,"Procedure on lower extremity","118710009","SNOMED","Procedure",2883,6835
+4238814,"Operation on bone","57168000","SNOMED","Procedure",2871,3587
+44790511,"Transfer of embryo to uterus","233111000000108","SNOMED","Procedure",2866,8666
+4151765,"Removal of eye suture","315602003","SNOMED","Procedure",2829,3798
+4314406,"Mechanical vitrectomy by pars plana approach","87021001","SNOMED","Procedure",2826,3912
+4068676,"Microlaryngoscopy","173035009","SNOMED","Procedure",2820,3318
+4230660,"Anoscopy","88916003","SNOMED","Procedure",2798,3965
+4144921,"Implantation of cardiac pacemaker","307280005","SNOMED","Procedure",2795,2820
+4170407,"Lacrimal probing","419228004","SNOMED","Procedure",2779,5808
+4300372,"Operation on larynx","387636004","SNOMED","Procedure",2778,3615
+4144432,"Uncemented prosthetic total arthroplasty of hip joint","265160007","SNOMED","Procedure",2683,3395
+4040297,"Transduodenal sphincterotomy","1645004","SNOMED","Procedure",2674,2905
+4338746,"Vitreoretinal procedures for retinal detachment","231770000","SNOMED","Procedure",2658,3464
+4180279,"Insertion of tympanic ventilation tube in tympanic membrane","429440003","SNOMED","Procedure",2623,3600
+4040551,"Procedure on blood vessel","118804001","SNOMED","Procedure",2621,4127
+4044045,"Suprapubic cystostomy","129252005","SNOMED","Procedure",2617,3184
+4043177,"Procedure on lymphatic vessel","118813004","SNOMED","Procedure",2614,4120
+4175627,"Operation on lymphatic structure","49509003","SNOMED","Procedure",2614,4120
+4324613,"Fine needle aspiration biopsy of soft tissue","430103002","SNOMED","Procedure",2607,3346
+45766058,"Sterilization procedure","703145006","SNOMED","Procedure",2604,4677
+4099101,"6-minute walk test","252478000","SNOMED","Procedure",2589,4277
+4083391,"Excision of lumbar intervertebral disc","239542002","SNOMED","Procedure",2584,2858
+4060609,"Radioisotope scan of lymphatic system","169167001","SNOMED","Procedure",2582,4221
+4030033,"Skin of trunk excision","107892000","SNOMED","Procedure",2552,2688
+4201395,"Decompression of lumbar spine","302129007","SNOMED","Procedure",2550,2901
+4073996,"Operation on prepuce","176546008","SNOMED","Procedure",2538,2627
+4259286,"Repair of umbilical hernia","44946007","SNOMED","Procedure",2531,2578
+4083534,"Application of below elbow plaster cast","239668003","SNOMED","Procedure",2528,2750
+4180248,"Rehabilitation therapy","52052004","SNOMED","Procedure",2498,4029
+40480519,"Intensity modulated radiation therapy","441799006","SNOMED","Procedure",2484,36633
+4142271,"Fluorescence in situ hybridization","426329006","SNOMED","Procedure",2466,3542
+4144827,"Injection of eye","33810006","SNOMED","Procedure",2462,5566
+4031962,"Abdominal wall hernia procedure","238165008","SNOMED","Procedure",2460,2698
+4072579,"Reconstruction of vagina","176687003","SNOMED","Procedure",2459,2671
+4217346,"Catheterization of eustachian tube","71876005","SNOMED","Procedure",2443,4349
+4016391,"Perimetry","103752008","SNOMED","Procedure",2441,4227
+4138868,"Cemented prosthetic total arthroplasty of hip joint","265157000","SNOMED","Procedure",2424,2908
+4051762,"Closure by clip","21147007","SNOMED","Procedure",2417,2629
+4041195,"Neurolysis of carpal tunnel","16560008","SNOMED","Procedure",2405,2933
+4048321,"Reduction of nasal turbinate","232482008","SNOMED","Procedure",2400,2439
+4300244,"Surgical procedure on thorax","385487005","SNOMED","Procedure",2386,3794
+4068570,"Anterior vitrectomy","172555009","SNOMED","Procedure",2375,4890
+1242869,"Prosthetic arthroplasty of joint","1288025000","SNOMED","Procedure",2374,2482
+4193388,"Change of cystostomy tube","79165006","SNOMED","Procedure",2372,20533
+4218438,"Circumcision","72310004","SNOMED","Procedure",2372,3886
+4120961,"Excision of axillary lymph node","234262008","SNOMED","Procedure",2364,2399
+4028525,"Conchotomy","13490005","SNOMED","Procedure",2354,3097
+4262010,"Tracheostomy care management","410213006","SNOMED","Procedure",2339,4142
+4272324,"Cardiopulmonary bypass operation","63697000","SNOMED","Procedure",2301,2387
+4074077,"Hemorrhoidectomy","24496007","SNOMED","Procedure",2254,2365
+4251314,"Laparoscopy","73632009","SNOMED","Procedure",2253,3663
+4277906,"Nasal endoscopy with maxillary antrostomy","65795004","SNOMED","Procedure",2251,2685
+40487575,"Endoscopic removal of calculus from bile duct","448030006","SNOMED","Procedure",2250,2796
+1073322,"Construction of tracheostomy","1303805000","SNOMED","Procedure",2249,3964
+4230238,"Enterectomy with anastomosis","359572002","SNOMED","Procedure",2238,2355
+4080965,"Extracorporeal circulation procedure","182744004","SNOMED","Procedure",2235,2331
+37163781,"Functional endoscopic sinus surgery","1220582003","SNOMED","Procedure",2233,2655
+4023026,"Complementary therapy","225423004","SNOMED","Procedure",2215,31499
+4078793,"Direct current cardioversion","180325003","SNOMED","Procedure",2200,4512
+4275911,"Partial mastectomy","64368001","SNOMED","Procedure",2195,2999
+46271945,"Initiation of patient controlled analgesia","710223006","SNOMED","Procedure",2177,2641
+4333973,"Injection of gas/air into vitreous","231778007","SNOMED","Procedure",2172,2669
+4041637,"Internal skeletal fixation","118470002","SNOMED","Procedure",2170,2300
+4287484,"Bronchoscopy and bronchoalveolar lavage","397397002","SNOMED","Procedure",2160,3147
+4002066,"Injection of large intestine","119891006","SNOMED","Procedure",2158,2407
+4334716,"Preretinal membranectomy","231772008","SNOMED","Procedure",2109,2477
+4305074,"Ureterorenoscopy","386787002","SNOMED","Procedure",2105,2768
+40486103,"Biopsy of bone of pelvis","447724004","SNOMED","Procedure",2105,2793
+4085923,"Examination for accident","243793001","SNOMED","Procedure",2096,3354
+4337047,"Insertion of tracheostomy tube","232685002","SNOMED","Procedure",2092,2403
+4098039,"Cardiac electrophysiology","252425004","SNOMED","Procedure",2072,2485
+4138256,"Intravenous pyelogram","32265006","SNOMED","Procedure",2060,2374
+4314251,"Laparotomy","86481000","SNOMED","Procedure",2052,3676
+4129747,"Operation on female genital organs","12658000","SNOMED","Procedure",2041,2298
+4075018,"Hydrotubation of fallopian tube","177005001","SNOMED","Procedure",2030,2097
+4033557,"Tilt table test","14769009","SNOMED","Procedure",2029,2369
+4207119,"Excision of skin","440258006","SNOMED","Procedure",2023,2084
+4332423,"Decompression of spinal nerve root","231045009","SNOMED","Procedure",2021,2272
+4135477,"Repair of obstetric laceration of cervix","31939001","SNOMED","Procedure",2006,2154
+4206027,"Bronchoscopy with biopsy","55198006","SNOMED","Procedure",1997,2332
+42535816,"Outlet vacuum delivery","734275002","SNOMED","Procedure",1975,2010
+4120120,"Hemodialysis","302497006","SNOMED","Procedure",1968,115730
+4211325,"Alcohol consumption counseling","413473000","SNOMED","Procedure",1964,6277
+4228073,"Peripheral block anesthesia","88815003","SNOMED","Procedure",1948,4000
+1243618,"Insertion of stent","1296925008","SNOMED","Procedure",1936,2959
+4157076,"Reduction of fracture of femur with internal fixation","271505003","SNOMED","Procedure",1928,2010
+4334590,"Injection of drug into vitreous","231755001","SNOMED","Procedure",1927,15702
+4258374,"Reproductive care management","408960001","SNOMED","Procedure",1912,3519
+4146119,"Closed reduction of fracture of upper limb","267765006","SNOMED","Procedure",1896,1949
+4311694,"Closed reduction of dislocation of shoulder","85624009","SNOMED","Procedure",1885,2436
+4218889,"Urethropexy","82087005","SNOMED","Procedure",1869,2231
+4049987,"Radiofrequency ablation operation for arrhythmia","233163003","SNOMED","Procedure",1868,3927
+4186308,"Hysteroscopy with biopsy","47171000","SNOMED","Procedure",1837,1930
+4234536,"Transurethral prostatectomy","90199006","SNOMED","Procedure",1822,3243
+4205502,"Resuscitation","439569004","SNOMED","Procedure",1805,1919
+4148369,"Angiocardiography","34945008","SNOMED","Procedure",1799,2077
+4127887,"Laparoscopic hysterectomy","236887006","SNOMED","Procedure",1797,2100
+4313285,"Centesis","86088003","SNOMED","Procedure",1787,2350
+4326683,"Bariatric operative procedure","430715008","SNOMED","Procedure",1785,1843
+4176729,"Treatment planning for external beam radiation therapy","4914002","SNOMED","Procedure",1759,1983
+4228050,"Operation on nose","88733004","SNOMED","Procedure",1753,2410
+40481086,"Prophylactic immunotherapy","444813003","SNOMED","Procedure",1734,4123
+4269993,"Packing of anterior nasal cavity","365958005","SNOMED","Procedure",1726,2204
+42872569,"Laparoscopic removal of ovarian cyst","450560001","SNOMED","Procedure",1711,1799
+4096783,"Radical prostatectomy","26294005","SNOMED","Procedure",1705,2169
+4238646,"Excision of lymph node","58347006","SNOMED","Procedure",1696,1836
+42872469,"Ultrasonography guided nephrostomy","450460004","SNOMED","Procedure",1692,4521
+4073990,"Removal of ureteral stent","178728009","SNOMED","Procedure",1688,2049
+4196148,"Laparoscopic subtotal hysterectomy","431316002","SNOMED","Procedure",1683,1683
+4094240,"Open heart surgery","2598006","SNOMED","Procedure",1681,1753
+4023102,"Cystoscopic insertion of ureteric stent","176073004","SNOMED","Procedure",1680,2280
+43531512,"Laparoscopic bilateral salpingo-oophorectomy","609230000","SNOMED","Procedure",1679,1679
+4040722,"Implantation to cardiovascular system","118955007","SNOMED","Procedure",1677,1885
+4148273,"Heat therapy","266694003","SNOMED","Procedure",1671,1803
+4012907,"Operation on musculoskeletal system","112697007","SNOMED","Procedure",1664,1833
+4070327,"Laser destruction of lesion of skin of head or neck","177320001","SNOMED","Procedure",1627,8348
+44791438,"Infrared photocoagulation of lesion of skin of head or neck","282261000000102","SNOMED","Procedure",1627,8348
+4305752,"Osteotomy","150062003","SNOMED","Procedure",1613,2374
+4065926,"Laser trabeculoplasty","172485001","SNOMED","Procedure",1604,3587
+4307240,"Uvulopalatopharyngoplasty","8335001","SNOMED","Procedure",1601,2694
+4300757,"Computed tomography","77477000","SNOMED","Procedure",1591,1660
+4067680,"Exploration of gallbladder","174520006","SNOMED","Procedure",1590,2266
+4121247,"Exploration of stomach","287871002","SNOMED","Procedure",1590,2266
+4123569,"Insertion of nasoduodenal tube","235422004","SNOMED","Procedure",1590,1906
+4227418,"Insertion of nasogastric tube","87750000","SNOMED","Procedure",1590,1906
+4100187,"Endoscopy and removal of foreign material","27532002","SNOMED","Procedure",1565,3035
+46273693,"Excision of lesion of oral cavity","708856005","SNOMED","Procedure",1543,1692
+4143509,"Cystoscopic extraction of ureteric calculus","265562006","SNOMED","Procedure",1542,1758
+4049252,"Electrocautery to internal nose","232486006","SNOMED","Procedure",1534,1960
+4297365,"Partial hip replacement by prosthesis","386649003","SNOMED","Procedure",1533,1590
+4200235,"Endocervical curettage","52889002","SNOMED","Procedure",1531,1782
+4210126,"Pregnancy-related examination","312891008","SNOMED","Procedure",1505,1955
+4320774,"Incision of lingual frenum","7001008","SNOMED","Procedure",1505,1538
+4284252,"Thrombectomy of lower limb artery","67358002","SNOMED","Procedure",1504,3790
+46272424,"Laparoscopic repair of hernia","710785000","SNOMED","Procedure",1488,1521
+4319321,"Laparoscopic lysis of adhesions","9540004","SNOMED","Procedure",1483,1493
+4031970,"Repair of incisional hernia","238187004","SNOMED","Procedure",1478,1644
+40486941,"Evoked potential study","446229003","SNOMED","Procedure",1477,1864
+4218385,"Anterior colporrhaphy","39845007","SNOMED","Procedure",1473,1508
+4164942,"Wedge excision of breast","41104003","SNOMED","Procedure",1472,1526
+4304919,"Decompression of peripheral nerve","38663004","SNOMED","Procedure",1470,1683
+1450216,"Endoscopic ultrasonography guided fine needle aspiration","200461000146101","SNOMED","Procedure",1467,1594
+4059072,"Colon double contrast examination","168847003","SNOMED","Procedure",1462,1583
+4219032,"Amputation of lower limb","397117006","SNOMED","Procedure",1456,2197
+763457,"Nutrition counseling","441041000124100","SNOMED","Procedure",1453,4710
+4264661,"Excision of lesion of cervix","36384005","SNOMED","Procedure",1448,1575
+4114776,"Total excision of nail plate","302442001","SNOMED","Procedure",1442,1769
+4279768,"Pulmonary catheterization with Swan-Ganz catheter","65677008","SNOMED","Procedure",1439,1553
+4124166,"Transurethral excision of urinary bladder","287708003","SNOMED","Procedure",1434,5097
+4099539,"Angiography of posterior segment of eye using fluorescein","252822006","SNOMED","Procedure",1431,2506
+40490486,"Biopsy of joint of hip","448579006","SNOMED","Procedure",1430,3071
+37017298,"Low dose computed tomography of thorax","713548006","SNOMED","Procedure",1421,2191
+46270663,"Laparoscopic lysis of adhesion of peritoneum","708614008","SNOMED","Procedure",1414,1448
+4134148,"Procedure on female genital organ","128312004","SNOMED","Procedure",1406,1683
+4013570,"History and physical examination, occupation","103739003","SNOMED","Procedure",1364,1759
+37163186,"Cystoscopy and biopsy of urinary bladder","1208469004","SNOMED","Procedure",1354,1636
+3655005,"Platelet aggregation inhibitor therapy","840595002","SNOMED","Procedure",1346,1504
+4043022,"Procedure on trunk","118694006","SNOMED","Procedure",1342,4265
+4249123,"Operation on eyelid","40654000","SNOMED","Procedure",1325,1484
+4052820,"Cardiac mapping","21032000","SNOMED","Procedure",1323,1578
+4082847,"Magnetic resonance spectroscopy","241671007","SNOMED","Procedure",1313,1500
+4057262,"Allergen immunotherapy","182678001","SNOMED","Procedure",1311,2059
+4266202,"Amputation of limb","400053006","SNOMED","Procedure",1302,1609
+35615187,"Transfusion of immunoglobulin","16609791000119102","SNOMED","Procedure",1295,9444
+4143985,"Capsule endoscopy","427595003","SNOMED","Procedure",1283,1532
+4038683,"Open reduction of fracture with fixation","118468006","SNOMED","Procedure",1282,1312
+4203609,"Endoscopic destruction of bilateral fallopian tubes","53624002","SNOMED","Procedure",1262,1262
+4270077,"Endoscopic ligation and division of bilateral fallopian tubes","63626003","SNOMED","Procedure",1262,1262
+4064257,"Excision of regional lymph nodes","21525004","SNOMED","Procedure",1258,1303
+4107080,"Excision of bilateral fallopian tubes and ovaries","29827000","SNOMED","Procedure",1256,1257
+4002541,"Integumentary system transposition","119829000","SNOMED","Procedure",1254,1376
+4240584,"Closed reduction of dislocation of elbow","59042004","SNOMED","Procedure",1254,1630
+4331674,"Radionuclide iodine 131 therapy to thyroid","431200001","SNOMED","Procedure",1247,1363
+46270974,"Laparoscopic bypass of stomach","708983005","SNOMED","Procedure",1246,1255
+40489881,"Capsule endoscopy of small intestine","446885004","SNOMED","Procedure",1244,1476
+4337799,"Dilation of cervical canal","87431004","SNOMED","Procedure",1236,1329
+4050128,"Fluoroscopy guided angioplasty of artery with contrast","233258006","SNOMED","Procedure",1233,1669
+4280600,"Percutaneous puncture of kidney","367441008","SNOMED","Procedure",1226,2960
+4300642,"Pharyngotomy","78315000","SNOMED","Procedure",1224,1483
+40483386,"Decongestive lymphatic therapy","445417000","SNOMED","Procedure",1220,14418
+42537747,"Counseling related to sexuality","737302009","SNOMED","Procedure",1211,2050
+4338536,"Cryopreservation","88094004","SNOMED","Procedure",1196,1732
+4233305,"Endoscopic ultrasonography of bronchus","439939004","SNOMED","Procedure",1194,2299
+4069110,"Rubber band ligation of hemorrhoid(s)","174359003","SNOMED","Procedure",1191,1486
+4124391,"Operation on oral frenum","303775004","SNOMED","Procedure",1190,1225
+4170533,"Manual postpartum exploration of uterus","49149002","SNOMED","Procedure",1188,1830
+4301346,"Surgical manipulation of shoulder joint","387685009","SNOMED","Procedure",1185,1273
+4033396,"Laparoscopic repair of inguinal hernia","15018006","SNOMED","Procedure",1176,1206
+4148148,"Operation on skin of lower extremity","30548009","SNOMED","Procedure",1175,1193
+4176949,"Musculoskeletal system biopsy","363208009","SNOMED","Procedure",1175,1417
+46272634,"Counseling about tobacco use","711028002","SNOMED","Procedure",1174,1581
+4324523,"Dilation procedure","71025006","SNOMED","Procedure",1172,1561
+37168622,"Psychiatric case management","621561000124106","SNOMED","Procedure",1169,2838
+4080522,"Endoscopy of trachea","18044005","SNOMED","Procedure",1162,1262
+4336464,"Coronary artery bypass graft","232717009","SNOMED","Procedure",1155,1158
+4190990,"Neurological mental status determination","392257007","SNOMED","Procedure",1152,1426
+4231419,"Abdominal paracentesis","89305009","SNOMED","Procedure",1152,1924
+4224173,"Hemorrhoidectomy by simple ligature","84282008","SNOMED","Procedure",1140,1549
+4002057,"Skin of extremity repair","119850009","SNOMED","Procedure",1133,1498
+4021530,"Radical hysterectomy","116142003","SNOMED","Procedure",1131,1804
+4003224,"Testis excision","120001005","SNOMED","Procedure",1126,1172
+4043171,"Procedure on pharynx","118784006","SNOMED","Procedure",1124,1637
+4043178,"Procedure on mouth","118814005","SNOMED","Procedure",1124,1637
+4030107,"Thyroidectomy","13619001","SNOMED","Procedure",1123,1266
+4339493,"Drainage of parapharyngeal abscess","232538001","SNOMED","Procedure",1123,1306
+4073379,"Removal of foreign body from joint structure","17756004","SNOMED","Procedure",1115,1156
+4117979,"Photodynamic therapy","257891001","SNOMED","Procedure",1106,2416
+4088173,"Excision of palmar fascia","24437000","SNOMED","Procedure",1103,1374
+46271144,"Endoscopic insertion of stent into bile duct","709197008","SNOMED","Procedure",1099,1749
+40480207,"Pretransplant evaluation of donor","444598000","SNOMED","Procedure",1091,1792
+764181,"Discussion about medication care plan","451731000124105","SNOMED","Procedure",1090,2419
+4050866,"Continuous hemodiafiltration","233588003","SNOMED","Procedure",1080,2807
+4041271,"Procedure on lower leg","118714000","SNOMED","Procedure",1078,1212
+4065710,"Excision of lesion of eyelid","172212009","SNOMED","Procedure",1073,1132
+4003519,"Incision of soft tissue","10971007","SNOMED","Procedure",1060,1147
+4042005,"Enteral feeding","229912004","SNOMED","Procedure",1060,28813
+4097890,"Closed reduction of nasal fracture","25060006","SNOMED","Procedure",1051,1407
+4195136,"Amputation above-knee","79733001","SNOMED","Procedure",1048,1217
+4137588,"Surgical construction of filtration bleb","3249005","SNOMED","Procedure",1046,1261
+46270879,"Fluoroscopy guided percutaneous transluminal angioplasty of lower limb artery with contrast","708872002","SNOMED","Procedure",1042,2517
+4262081,"Thawing of cryopreserved embryo","441369004","SNOMED","Procedure",1027,2286
+4096831,"Intravenous feeding of patient","25156005","SNOMED","Procedure",1024,6475
+4143658,"Split thickness graft of skin to skin","265675003","SNOMED","Procedure",1022,1378
+4303669,"US scan of female genital tract","418296000","SNOMED","Procedure",1017,1090
+4302745,"Irrigation of urinary bladder","78533007","SNOMED","Procedure",1010,5506
+37159018,"Administration into urinary bladder via intravesical route","1285290008","SNOMED","Procedure",1010,5506
+4067489,"Functional endoscopic sinus surgery - anterior ethmoidectomy and frontal recess dissection","172924008","SNOMED","Procedure",1007,1171
+4181955,"Endovascular insertion of stent","429381005","SNOMED","Procedure",1006,1196
+4148939,"Trabeculectomy ab externo","30880003","SNOMED","Procedure",996,1173
+40491343,"Endoscopic ethmoidectomy","447141009","SNOMED","Procedure",996,1150
+4283015,"Iridectomy","36812006","SNOMED","Procedure",994,1164
+4123999,"Percutaneous needle biopsy of liver","287489008","SNOMED","Procedure",991,1048
+4000518,"Biopsy of mediastinum","119284002","SNOMED","Procedure",980,1053
+4150502,"Paracentesis of anterior chamber of eye","31222007","SNOMED","Procedure",975,1350
+4211478,"Biological treatment","413648008","SNOMED","Procedure",971,26620
+4059308,"Operation on gallbladder","19744006","SNOMED","Procedure",966,981
+4041978,"Injection of gastrointestinal tract","118151002","SNOMED","Procedure",962,1113
+4066178,"Ocular motility study","17259005","SNOMED","Procedure",962,1214
+4149327,"Replacement of electronic heart device, pulse generator","3515001","SNOMED","Procedure",962,999
+4205229,"Arthroscopy of knee","309431009","SNOMED","Procedure",962,1055
+4226249,"Administration of prophylactic antibiotic","422181004","SNOMED","Procedure",958,1861
+4030148,"Small intestine excision","107938000","SNOMED","Procedure",957,1061
+4343793,"Fixation of fracture using plate","239289001","SNOMED","Procedure",956,990
+4119392,"Nasal sinus puncture and irrigation","287375002","SNOMED","Procedure",948,1615
+4242997,"Cholecystectomy","38102005","SNOMED","Procedure",947,950
+4223020,"Cardiac catheterization","41976001","SNOMED","Procedure",941,1279
+4072513,"Long-term oxygen therapy","243137006","SNOMED","Procedure",940,29536
+4102081,"Video EEG","252738008","SNOMED","Procedure",938,1172
+4150990,"Prosthetic hybrid total replacement of hip joint","314491003","SNOMED","Procedure",938,1044
+4081881,"Localization mammography","241056007","SNOMED","Procedure",933,1012
+4140847,"Autotransfusion","3320000","SNOMED","Procedure",933,964
+44809139,"Management of lower limb ulcer","844161000000100","SNOMED","Procedure",915,1231
+4067932,"Excision of lesion of perirectal tissue","172275004","SNOMED","Procedure",912,963
+4171194,"Excision of lesion of anus","49264007","SNOMED","Procedure",912,963
+4225775,"Excision of perianal lesion","349896009","SNOMED","Procedure",912,963
+4276044,"Cerebral evoked potential test","64487008","SNOMED","Procedure",911,1496
+4070762,"Tenolysis of flexor tendon of wrist","21741001","SNOMED","Procedure",909,1017
+40488381,"Laparoscopic salpingo-oophorectomy","446598002","SNOMED","Procedure",908,919
+4048431,"Rhinoseptoplasty","20805001","SNOMED","Procedure",894,931
+4307589,"Spinal deformity correction","387821004","SNOMED","Procedure",894,968
+4299609,"Therapeutic termination of pregnancy procedure","386641000","SNOMED","Procedure",891,953
+4184913,"Partial excision of small intestine","54357003","SNOMED","Procedure",887,978
+4181450,"Insertion of stent into ureter","428817001","SNOMED","Procedure",878,1121
+618912,"Arthrocentesis of joint of knee","879795002","SNOMED","Procedure",872,1186
+4303291,"Nephroscopic lithotripsy of renal calculus","386198008","SNOMED","Procedure",871,1025
+40492771,"Removal of obstruction of renal pelvis by transurethral approach","445845004","SNOMED","Procedure",871,1025
+4015660,"Dilation and curettage of uterus","11401008","SNOMED","Procedure",866,891
+4122234,"Percutaneous endoscopic gastrostomy","235159007","SNOMED","Procedure",856,1925
+44790298,"Implantation of single chamber cardiac pacemaker system","232981000000109","SNOMED","Procedure",855,859
+4103380,"Endoscopic polypectomy of large intestine","28939002","SNOMED","Procedure",849,944
+4020472,"Autograft of bone","116371009","SNOMED","Procedure",848,912
+4051017,"Endarterectomy of common femoral artery","233307006","SNOMED","Procedure",838,921
+4073199,"Total thyroidectomy","24443003","SNOMED","Procedure",831,831
+4049816,"Stripping of vein","233456008","SNOMED","Procedure",826,907
+4061134,"Endoscopic ultrasound of upper gastrointestinal tract","169252006","SNOMED","Procedure",824,944
+40480947,"Replacement of aortic valve with tissue graft","441895005","SNOMED","Procedure",824,851
+4140107,"Double anastomosis of mammary arteries to coronary arteries","265481001","SNOMED","Procedure",811,812
+4306749,"Insertion of iliac artery stent","175615007","SNOMED","Procedure",810,937
+4143728,"Percutaneous tracheostomy","307007002","SNOMED","Procedure",808,829
+4127086,"Colpoperineorrhaphy","236857000","SNOMED","Procedure",801,820
+4171196,"Excision of hydrocele","49266009","SNOMED","Procedure",800,852
+4287790,"Posterior repair of vagina","397823004","SNOMED","Procedure",800,813
+4000739,"Neck repair","119592007","SNOMED","Procedure",795,886
+4250000,"Urethral catheterization","410021007","SNOMED","Procedure",795,909
+44801964,"Intravenous bisphosphonate therapy","522111000000106","SNOMED","Procedure",795,3990
+4233412,"Right colectomy","359571009","SNOMED","Procedure",793,799
+4044940,"Radiotherapy planning","228703003","SNOMED","Procedure",791,864
+42872565,"Endoscopic ultrasonography","450556004","SNOMED","Procedure",788,900
+4064754,"Oto-admittance tests","164755005","SNOMED","Procedure",787,1033
+46273604,"Video assisted thoracoscopy for major lung resection","711415002","SNOMED","Procedure",787,830
+4239558,"Recession of eye muscle","91578009","SNOMED","Procedure",786,840
+4098879,"Partial excision of large intestine","27010001","SNOMED","Procedure",784,813
+4010271,"Manual rotation of fetal head","112927003","SNOMED","Procedure",782,835
+4022627,"Fluoroscopy guided percutaneous transluminal angioplasty of femoral artery with contrast","175715003","SNOMED","Procedure",781,931
+4072024,"Excision of ganglion cyst of wrist","178095009","SNOMED","Procedure",779,819
+4127886,"Hysterectomy","236886002","SNOMED","Procedure",769,781
+4252594,"Subconjunctival injection","74410004","SNOMED","Procedure",766,1378
+4138740,"Dilation of cervix uteri and curettage of products of conception from uterus","265062002","SNOMED","Procedure",759,870
+40483270,"Repair of toenail","443804005","SNOMED","Procedure",755,893
+4032774,"Thoracoscopy","14671001","SNOMED","Procedure",754,1279
+40492529,"Revision of prosthetic replacement of joint","448972009","SNOMED","Procedure",754,902
+4226535,"Excision of iliac lymph nodes","40390002","SNOMED","Procedure",744,747
+4104016,"Tonsillectomy and adenoidectomy","28913000","SNOMED","Procedure",740,744
+4023403,"Total hysterectomy","116140006","SNOMED","Procedure",736,736
+4140455,"Home oxygen therapy","426990007","SNOMED","Procedure",734,17127
+4168141,"Anastomosis of thoracic artery to coronary artery, single","48431000","SNOMED","Procedure",732,732
+4146045,"Amniocentesis","34536000","SNOMED","Procedure",730,830
+4323042,"Excision of cyst","428297005","SNOMED","Procedure",728,813
+4330920,"Fluoroscopy guided percutaneous transluminal angioplasty of coronary artery with contrast","429809004","SNOMED","Procedure",728,768
+4135670,"Clinical management plan review","413095006","SNOMED","Procedure",726,1615
+4032243,"Dialysis procedure","108241001","SNOMED","Procedure",725,19743
+37164749,"Excision of breast","1231734007","SNOMED","Procedure",721,801
+4300373,"Partial hysterectomy","387643005","SNOMED","Procedure",714,717
+4070868,"Stomach and pylorus operations","173712002","SNOMED","Procedure",712,780
+4078223,"Control of hemorrhage of abdominal cavity","18945009","SNOMED","Procedure",712,780
+36713613,"Antifungal therapy","718526003","SNOMED","Procedure",712,1308
+4001216,"Coagulation","119266004","SNOMED","Procedure",706,985
+4300759,"Flexible fiberoptic laryngoscopy with biopsy","7750005","SNOMED","Procedure",704,1006
+4030840,"Electroconvulsive therapy","23835007","SNOMED","Procedure",692,8924
+37169827,"Excision of lesion of brain","1201979001","SNOMED","Procedure",686,772
+4280601,"Repair of vagina","367444000","SNOMED","Procedure",684,711
+4311038,"Operative procedure on spinal structure","392236004","SNOMED","Procedure",683,1142
+4346528,"Renal isotope studies","241354002","SNOMED","Procedure",683,936
+4030028,"Surgical procedure on lower extremity","107784002","SNOMED","Procedure",678,1032
+4048622,"Reconstruction of nose","232470004","SNOMED","Procedure",678,852
+4065834,"Removal of corneal suture","172423006","SNOMED","Procedure",678,879
+4032738,"Endometrial resection","236897002","SNOMED","Procedure",673,693
+4259622,"Injection of steroid via intravitreal route","410572008","SNOMED","Procedure",673,2252
+4189219,"Suture of lip","3889008","SNOMED","Procedure",670,674
+4181511,"Administration of antineoplastic agent","363688001","SNOMED","Procedure",658,4555
+4127079,"Excision of vulval lesion","236830002","SNOMED","Procedure",657,668
+4268043,"Excision of lesion of female perineum","6200005","SNOMED","Procedure",657,668
+4276520,"Radical retropubic prostatectomy","65551008","SNOMED","Procedure",656,656
+4194967,"Complete axillary lymphadenectomy","79544006","SNOMED","Procedure",655,661
+42872568,"Laparoscopic myomectomy","450559006","SNOMED","Procedure",655,669
+4300662,"Omentectomy","78384007","SNOMED","Procedure",654,761
+4092980,"Laryngeal stroboscopy","252572002","SNOMED","Procedure",653,675
+4225375,"Endarterectomy of lower limb artery","40455006","SNOMED","Procedure",652,728
+4063237,"Aortocoronary artery bypass graft with vein graft","17073005","SNOMED","Procedure",646,648
+4336699,"Indirect laryngoscopy with biopsy","87007003","SNOMED","Procedure",645,909
+4298492,"Radical mastectomy","384723003","SNOMED","Procedure",643,949
+4335865,"Drainage of subretinal fluid","231765007","SNOMED","Procedure",642,891
+4200280,"Introduction of tension free vaginal tape","314424004","SNOMED","Procedure",639,653
+4146214,"Osteoplasty","35269008","SNOMED","Procedure",636,674
+4164907,"Lysis of adhesions of peritoneum","45602008","SNOMED","Procedure",636,653
+44808115,"Biopsy of sentinel lymph node of breast","847671000000109","SNOMED","Procedure",636,637
+4014091,"Legal testimony of psychiatric state of patient","113141001","SNOMED","Procedure",635,936
+4039104,"Autopsy, gross and microscopic examination, stillborn or newborn","16361008","SNOMED","Procedure",631,660
+4003896,"Cervix excision","120038005","SNOMED","Procedure",629,635
+4229563,"Injection of botulinum toxin","404909007","SNOMED","Procedure",629,6529
+36713302,"Microsurgery of larynx","6511000179106","SNOMED","Procedure",625,791
+40489317,"Endoscopy of upper gastrointestinal tract and excision of polyp of stomach","446735004","SNOMED","Procedure",621,763
+45769571,"Second line treatment","708256001","SNOMED","Procedure",621,10046
+4176809,"Endoscopic dilation","363105001","SNOMED","Procedure",620,1648
+4069969,"Manual removal of placenta from delivered uterus","177204008","SNOMED","Procedure",619,643
+4013051,"Operation on cervix","112916000","SNOMED","Procedure",617,718
+4068675,"Endoscopic resection of lesion of larynx","173027006","SNOMED","Procedure",613,791
+4242877,"Evacuation of subdural hematoma","59712006","SNOMED","Procedure",613,670
+4233386,"Arthrocentesis","90131007","SNOMED","Procedure",611,736
+4278676,"Thrombectomy of head and neck artery","65975002","SNOMED","Procedure",610,1039
+4204395,"Insertion of permanent pacemaker with transvenous electrodes, ventricular","54974006","SNOMED","Procedure",609,612
+4052115,"Endarterectomy of internal carotid artery","233296007","SNOMED","Procedure",603,633
+4067474,"Removal of foreign body from nose","172828005","SNOMED","Procedure",603,632
+4032613,"Colposcopy of vulva","236839001","SNOMED","Procedure",600,779
+4127240,"Microhysteroscopy","236942006","SNOMED","Procedure",600,620
+4302541,"Obstetric procedure","386637004","SNOMED","Procedure",600,611
+4184187,"Operation on uterine ligament","43340002","SNOMED","Procedure",596,604
+4221381,"Incision of urinary bladder","40173000","SNOMED","Procedure",591,742
+4138738,"Vaginal hysterectomy","265056007","SNOMED","Procedure",590,1151
+4304921,"Excision of bilateral testes","386634006","SNOMED","Procedure",590,592
+4121863,"Arthroscopy of shoulder with partial synovectomy","257847001","SNOMED","Procedure",586,624
+44808725,"Laparoscopic prostatectomy","841661000000107","SNOMED","Procedure",585,585
+4087611,"Hyperbaric oxygen therapy","18678000","SNOMED","Procedure",582,5419
+4105167,"Proctoscopy with biopsy","29532006","SNOMED","Procedure",580,697
+4168088,"Postoperative hemorrhage control","274508002","SNOMED","Procedure",574,602
+37153627,"Percutaneous transluminal procedure on blood vessel","1230010003","SNOMED","Procedure",573,773
+4226178,"Incision of scrotum","85111008","SNOMED","Procedure",572,696
+4234745,"Total lobectomy of lung","359623004","SNOMED","Procedure",572,585
+4221619,"Excision of lesion of vagina","41883009","SNOMED","Procedure",571,617
+4063802,"Internal fixation of bone of humerus","20055005","SNOMED","Procedure",570,601
+4069779,"Removal of thrombus from intracranial artery","21710002","SNOMED","Procedure",570,664
+4115223,"Total salpingectomy","300897007","SNOMED","Procedure",568,572
+4118958,"Lobectomy of thyroid gland","302338000","SNOMED","Procedure",568,587
+4077778,"Closed reduction of fracture of ankle","179162008","SNOMED","Procedure",567,580
+4158896,"Decompression of ulnar nerve","274000001","SNOMED","Procedure",565,622
+4210595,"Excision of soft tissue","56361007","SNOMED","Procedure",565,614
+4228304,"Aortocoronary artery bypass graft with two vein grafts","405598005","SNOMED","Procedure",564,565
+4074287,"Upper female genital tract operation","176757001","SNOMED","Procedure",559,559
+36713060,"Single photon emission computed tomography of brain","16548951000119100","SNOMED","Procedure",556,595
+4303829,"US scan venography of lower limbs","418583000","SNOMED","Procedure",555,641
+4122781,"Excision of cervical lymph node","234261001","SNOMED","Procedure",552,593
+40482428,"Counseling about disease","445142003","SNOMED","Procedure",552,637
+4074571,"Endoscopic freeing of adhesions of ovary","177047002","SNOMED","Procedure",549,555
+4087889,"Extracorporeal shockwave lithotripsy of calculus of kidney","24376003","SNOMED","Procedure",549,1418
+4160360,"Procedure on eye region","371548008","SNOMED","Procedure",549,672
+4171206,"MRI cerebral perfusion study","419059006","SNOMED","Procedure",548,1128
+4070947,"Percutaneous transluminal iliac artery balloon angioplasty","20500004","SNOMED","Procedure",547,640
+4042478,"Procedure on biliary tract","118824002","SNOMED","Procedure",546,877
+37159748,"External beam radiotherapy with respiratory gating","721061000124106","SNOMED","Procedure",543,9360
+4088717,"Closed reduction of dislocation of wrist","18553008","SNOMED","Procedure",540,551
+4004519,"Cataract surgery","110473004","SNOMED","Procedure",536,576
+4049553,"Endarterectomy of profunda femoris","233309009","SNOMED","Procedure",536,582
+4107731,"Subcutaneous immunotherapy","180256009","SNOMED","Procedure",536,23671
+4141907,"Removal of internal fixation device of femur","34025002","SNOMED","Procedure",536,611
+40489848,"Laparoscopic excision of pelvic lymph node","446855009","SNOMED","Procedure",531,532
+4198603,"Endoscopic retrograde cholangiopancreatography with dilation of bile duct using fluoroscopic guidance","432876003","SNOMED","Procedure",526,655
+4049547,"Fluoroscopy guided percutaneous transluminal angioplasty of popliteal artery with contrast","233287007","SNOMED","Procedure",525,688
+43021498,"Excisional debridement of wound for infection","473218004","SNOMED","Procedure",522,734
+4147379,"Dilation of urethra","30253003","SNOMED","Procedure",518,2734
+4173008,"Transcranial electrical stimulation","276347004","SNOMED","Procedure",518,7044
+4081872,"Procedure for wound collection","241021008","SNOMED","Procedure",515,638
+4179027,"Operation on skin of trunk","50262009","SNOMED","Procedure",514,547
+44782856,"Plastic operation on pharynx","698853000","SNOMED","Procedure",514,515
+4128040,"Repair of complete perineal tear","237027001","SNOMED","Procedure",510,521
+4159766,"Amputation of toe","371186005","SNOMED","Procedure",502,584
+4146252,"Ligation of long saphenous vein","265542003","SNOMED","Procedure",497,573
+4083236,"Alcoholism counseling","24165007","SNOMED","Procedure",496,1527
+40317890,"Brachytherapy","152198000","SNOMED","Procedure",496,1305
+4311817,"Fiberoptic bronchoscopy","85765000","SNOMED","Procedure",495,517
+40487536,"Intubation of respiratory tract","447996002","SNOMED","Procedure",495,517
+4195874,"Excision of lesion of peritoneum","79887000","SNOMED","Procedure",487,496
+4026045,"Secondary lens implant","225703004","SNOMED","Procedure",486,513
+4042315,"Phalangectomy","118486009","SNOMED","Procedure",482,486
+42872831,"Laparoscopic sacrocolpopexy","450824002","SNOMED","Procedure",481,482
+4174057,"Irrigation of anterior chamber of eye","49288009","SNOMED","Procedure",480,677
+4341896,"Attention to drainage of urinary bladder","236223001","SNOMED","Procedure",480,2858
+4328240,"Thoracoscopic lobectomy of lung","75935006","SNOMED","Procedure",475,482
+4051157,"Insertion of superficial femoral artery stent","233410000","SNOMED","Procedure",473,578
+4067379,"Nasal polypectomy","172825008","SNOMED","Procedure",467,1218
+4249180,"Incision of tonsil","73610000","SNOMED","Procedure",467,599
+4335676,"Biopsy of larynx","433014002","SNOMED","Procedure",467,498
+4195895,"Ultrasonography of uterus","79966006","SNOMED","Procedure",466,477
+4085558,"Insertion of temporary cardiac pacemaker","281556002","SNOMED","Procedure",465,900
+4303998,"Transection of peripheral nerve","386768008","SNOMED","Procedure",465,579
+4120817,"Sampling of chorionic villus","303720006","SNOMED","Procedure",464,496
+4021322,"Wound assessment","225395003","SNOMED","Procedure",463,618
+4041249,"Revision","118635009","SNOMED","Procedure",463,618
+4131813,"Repair of female perineum","26585000","SNOMED","Procedure",462,741
+4021108,"Total nephrectomy","175905003","SNOMED","Procedure",459,530
+45769570,"First line treatment","708255002","SNOMED","Procedure",457,5346
+4174214,"Appendectomy with drainage","49438003","SNOMED","Procedure",456,457
+4217211,"Injection of vitreous substitute","7268007","SNOMED","Procedure",456,644
+42872588,"Removal of foreign body from skin of head","450579003","SNOMED","Procedure",456,464
+506795,"Primary periareolar reduction mammoplasty with pedicled nipple transfer","1054861000000109","SNOMED","Procedure",455,467
+4208914,"Hysteroscopy and removal of impacted foreign body","439966004","SNOMED","Procedure",455,462
+4262807,"Operation on female perineum","46616009","SNOMED","Procedure",455,503
+4070700,"Simple excision of inguinal hernial sac","177854007","SNOMED","Procedure",454,483
+4074013,"Biopsy from female perineum","176647008","SNOMED","Procedure",454,502
+4241100,"Reduction mammoplasty","59214008","SNOMED","Procedure",451,541
+4291474,"Thrombectomy of abdominal artery","37499001","SNOMED","Procedure",449,501
+40486140,"Endoscopic biopsy of bile duct","449193003","SNOMED","Procedure",449,522
+4107081,"Excision of lesion of lip","29828005","SNOMED","Procedure",448,482
+4086986,"Closed reduction of mandibular fracture","24832002","SNOMED","Procedure",446,461
+4117037,"Excision of bilateral vas deferens","287662009","SNOMED","Procedure",446,450
+4163766,"Repair of obstetric laceration","372456005","SNOMED","Procedure",446,458
+4236706,"Arterial bypass of lower limb artery","405469008","SNOMED","Procedure",442,527
+4070607,"Enucleation of dental cyst of jaw","173338004","SNOMED","Procedure",438,498
+4048326,"Excision of lesion of internal nose","232494004","SNOMED","Procedure",437,445
+4144573,"Insertion of drainage tube into anterior chamber","265291005","SNOMED","Procedure",435,500
+4250344,"Electrocoagulation","73223003","SNOMED","Procedure",434,609
+4071443,"Biopsy of lymph node","21911005","SNOMED","Procedure",431,482
+4257069,"Prevention of harmful pattern of alcohol use","408945004","SNOMED","Procedure",431,835
+4075598,"Dressing of burnt skin of head or neck","177674002","SNOMED","Procedure",430,1556
+40485447,"Thoracoscopic wedge resection of lung","444188003","SNOMED","Procedure",430,449
+4219029,"Closed reduction of fracture of humerus","39706009","SNOMED","Procedure",429,451
+4075296,"Block dissection of cervical lymph nodes","178283002","SNOMED","Procedure",425,452
+4220029,"Nephrostomy","39834009","SNOMED","Procedure",424,729
+4048327,"Surgical procedure on maxillary sinus","232496002","SNOMED","Procedure",423,569
+4051018,"Endarterectomy of superficial femoral artery","233308001","SNOMED","Procedure",423,451
+4098024,"Incision of perianal tissue","191234000","SNOMED","Procedure",423,468
+4311417,"Injection of orbit","86323000","SNOMED","Procedure",423,592
+4300656,"Removal of foreign body from conjunctiva","78362007","SNOMED","Procedure",421,435
+4043020,"Procedure on endocrine system","118681009","SNOMED","Procedure",418,3151
+4105908,"Resuture of wound dehiscence","29629000","SNOMED","Procedure",417,493
+4214122,"Suture of cervix","392252001","SNOMED","Procedure",412,423
+4263634,"Uteropexy","361155003","SNOMED","Procedure",412,412
+4194253,"Operation on breast","392090004","SNOMED","Procedure",410,1345
+4294805,"Laparoscopic-assisted vaginal hysterectomy","75835007","SNOMED","Procedure",410,517
+4123747,"Removal of foreign body from esophagus","235196003","SNOMED","Procedure",409,527
+4261671,"Partial mastectomy with axillary lymphadenectomy","35482003","SNOMED","Procedure",409,410
+4021363,"Salpingo-oophorectomy","116028008","SNOMED","Procedure",407,416
+4057078,"Removal of foreign body from heart","19678009","SNOMED","Procedure",405,460
+4132403,"Suture of eyelid","12762001","SNOMED","Procedure",401,408
+4225427,"Sigmoid colectomy","84604002","SNOMED","Procedure",400,402
+4045900,"Procedure on skeletal system","122945004","SNOMED","Procedure",399,424
+4196678,"Hernia repair","50465008","SNOMED","Procedure",399,407
+4200997,"Administration of analgesic","52685006","SNOMED","Procedure",399,410
+37397149,"Cone beam CT","717193008","SNOMED","Procedure",399,424
+4207425,"Injection of depot antipsychotic agent","440701009","SNOMED","Procedure",398,15575
+4310324,"Repair of tendon by transfer or transplantation","39137000","SNOMED","Procedure",397,418
+37016892,"Repair of finger","713039006","SNOMED","Procedure",397,418
+4048987,"Dorsal slitting of prepuce","15759005","SNOMED","Procedure",394,402
+4118634,"Grafting to skin","304040003","SNOMED","Procedure",394,467
+4175311,"Excision of extraocular muscle","50586005","SNOMED","Procedure",394,433
+4069129,"Wedge resection of liver","174431000","SNOMED","Procedure",391,428
+4002547,"Skin of trunk repair","119845003","SNOMED","Procedure",390,727
+4066543,"Simple mastectomy","172043006","SNOMED","Procedure",390,397
+4202559,"Dilatation of cervix for delivery","315308008","SNOMED","Procedure",389,406
+4052113,"Fluoroscopy guided percutaneous transluminal balloon angioplasty of superior femoral artery with contrast","233284000","SNOMED","Procedure",388,515
+4122777,"Selective neck dissection of cervical lymph nodes","234246002","SNOMED","Procedure",387,412
+4075026,"Endoscopic extirpation of lesion of ovary","177046006","SNOMED","Procedure",380,383
+4288992,"Implantation of prosthetic intraocular lens","69724002","SNOMED","Procedure",377,413
+4006849,"Vaginal biopsy","12125008","SNOMED","Procedure",375,412
+4029571,"Excision of urinary bladder","108034003","SNOMED","Procedure",374,420
+37162413,"Vaginal subtotal hysterectomy","1187630003","SNOMED","Procedure",374,374
+42872600,"Excision of lesion of anterior abdominal wall","450591007","SNOMED","Procedure",370,377
+4040974,"Femoral endarterectomy","16589005","SNOMED","Procedure",367,404
+4067329,"Endoscopic coagulation of blood vessel of lower bowel using fiberoptic sigmoidoscope","174198003","SNOMED","Procedure",366,410
+4098786,"Single fiber EMG","252756008","SNOMED","Procedure",366,425
+4301065,"Lithotripsy of calculus of urinary bladder","386195006","SNOMED","Procedure",362,403
+4034305,"Operation on joint arthroplasty","239527000","SNOMED","Procedure",360,440
+4346516,"Radionuclide study of lung","241293008","SNOMED","Procedure",359,464
+4130185,"Laparoscopic total hysterectomy","236888001","SNOMED","Procedure",356,356
+4022788,"Stripping of the short saphenous vein","175831002","SNOMED","Procedure",355,381
+762993,"Administration of lung surfactant","434701000124101","SNOMED","Procedure",354,389
+3655761,"Coronary artery bypass grafting using radial artery graft","868227005","SNOMED","Procedure",354,354
+4168528,"Removal of grommet from tympanic membrane","275002001","SNOMED","Procedure",353,380
+4280418,"Peripheral neurorrhaphy","3666002","SNOMED","Procedure",353,423
+4170914,"Fluoroscopic angiography with contrast","420040002","SNOMED","Procedure",352,383
+4123420,"Hemorrhoid operation","235388001","SNOMED","Procedure",351,367
+4068560,"Destruction of ciliary body","172508004","SNOMED","Procedure",350,434
+4195852,"Catheterization of left heart","67629009","SNOMED","Procedure",347,376
+4303995,"Local anesthesia","386761002","SNOMED","Procedure",345,445
+4032014,"Laparoscopy with fulguration of lesion","14412009","SNOMED","Procedure",344,348
+4076662,"Therapeutic plasma exchange","225067007","SNOMED","Procedure",343,1991
+40310989,"Closed reduction of fracture of lower limb","150617003","SNOMED","Procedure",343,356
+4344624,"External cephalic version","240278000","SNOMED","Procedure",341,359
+4049551,"Endarterectomy of common carotid artery","233298008","SNOMED","Procedure",340,348
+4199616,"Destruction of bilateral fallopian tubes","5270002","SNOMED","Procedure",339,339
+4066807,"Excision of inguinal lymph nodes","21486002","SNOMED","Procedure",338,353
+4139026,"Antireflux operation","265357009","SNOMED","Procedure",338,352
+4039376,"Gastrointestinal tract endoscopy","118155006","SNOMED","Procedure",337,484
+4069914,"Operation on vulva","2161003","SNOMED","Procedure",335,368
+42872810,"Osteotomy and internal fixation","450803007","SNOMED","Procedure",335,394
+4300370,"Amputation of cervix","387626007","SNOMED","Procedure",332,333
+1243263,"Cemented prosthetic arthroplasty of joint","1295180007","SNOMED","Procedure",331,355
+4203473,"Removal of foreign body from eye","53570002","SNOMED","Procedure",330,368
+4079766,"Removal of implantable venous access port","18305008","SNOMED","Procedure",326,341
+4261365,"Transverse colostomy","35535008","SNOMED","Procedure",325,332
+4302414,"Repair of middle ear","386556002","SNOMED","Procedure",325,674
+4072073,"Optical urethrotomy","176355007","SNOMED","Procedure",323,395
+4080019,"Repair of epigastric hernia","238184006","SNOMED","Procedure",322,324
+4169931,"Uterine myomectomy","42010004","SNOMED","Procedure",321,326
+4182062,"Treatment planning for brachytherapy","52338008","SNOMED","Procedure",321,693
+4070373,"Total gastrectomy and anastomosis of esophagus to transposed jejunum","173716004","SNOMED","Procedure",317,318
+4062855,"Examination for alleged rape","171403008","SNOMED","Procedure",314,379
+4164385,"Surgical biopsy","274330002","SNOMED","Procedure",313,323
+4018300,"Total splenectomy","174776001","SNOMED","Procedure",312,312
+4327115,"Operative procedure on hip","429772001","SNOMED","Procedure",309,480
+4338818,"Closed reduction of fracture of radius","87971000","SNOMED","Procedure",309,312
+4001054,"Biopsy of uterus","119285001","SNOMED","Procedure",307,356
+4070544,"Removal of foreign body from pharynx","20632008","SNOMED","Procedure",306,311
+4203632,"Repair of auricle of ear","52577005","SNOMED","Procedure",305,325
+4146072,"Photocoagulation of ciliary body","35137007","SNOMED","Procedure",303,366
+4042907,"Hartmann operation, rectal resection","16564004","SNOMED","Procedure",302,306
+4339412,"Removal of implant of lens","88234006","SNOMED","Procedure",302,549
+4202563,"Sigmoid colectomy with stoma","315327002","SNOMED","Procedure",301,303
+37153077,"Flexible fiberoptic esophagoscopy","1208535002","SNOMED","Procedure",301,343
+4122103,"Excision of lesion of cheek","234902004","SNOMED","Procedure",300,325
+4046290,"Lithotripsy","133864008","SNOMED","Procedure",299,337
+4070834,"Open drainage of peritoneum","177945008","SNOMED","Procedure",297,319
+4125482,"Splenectomy","234319005","SNOMED","Procedure",297,299
+4142889,"Closed reduction of dislocated total prosthetic replacement of hip joint","427417008","SNOMED","Procedure",297,845
+4030715,"Operation on mandible","14375003","SNOMED","Procedure",296,376
+4352516,"Orthoptic treatment - Fresnel prisms","243214009","SNOMED","Procedure",296,532
+35622512,"Radionuclide imaging using radioisotope labeled somatostatin analog","764277001","SNOMED","Procedure",295,398
+44789813,"Percutaneous transhepatic biliary drainage single","223811000000102","SNOMED","Procedure",295,523
+4067159,"Osteotomy of mandibular ramus","21516005","SNOMED","Procedure",294,295
+4075570,"Sagittal split mandibular osteotomy","178485006","SNOMED","Procedure",294,295
+4200418,"Parathyroidectomy","53304009","SNOMED","Procedure",294,305
+4343792,"Fixation of fracture using screws","239283000","SNOMED","Procedure",294,294
+40487349,"Laparoscopic total nephrectomy","446296004","SNOMED","Procedure",294,295
+4144899,"Implantation of cardioverter defibrillator with two electrode leads","427508005","SNOMED","Procedure",292,294
+4115317,"Ventriculopuncture of brain","287227005","SNOMED","Procedure",290,321
+4119815,"Biopsy of mouth","304502009","SNOMED","Procedure",290,335
+40488930,"External fixation of femur","448243002","SNOMED","Procedure",289,291
+40489396,"Diffusion tractography","448307005","SNOMED","Procedure",289,316
+4114634,"Repair of enterocele","302371001","SNOMED","Procedure",288,291
+4278755,"Vulvectomy","36901005","SNOMED","Procedure",286,315
+4253378,"Immunosuppressive therapy for transplant","7447008","SNOMED","Procedure",283,797
+40486448,"Total mastectomy and axillary dissection","446109005","SNOMED","Procedure",281,282
+4223626,"Catheterization of right heart","40403005","SNOMED","Procedure",280,304
+42872475,"Fiberoptic endoscopic dilation of esophagus","450466005","SNOMED","Procedure",279,919
+44809642,"Laparoscopic right hemicolectomy","826771000000100","SNOMED","Procedure",279,280
+4032735,"Laparoscopic radical hysterectomy","236891001","SNOMED","Procedure",277,444
+4123251,"Tooth root resection","234693003","SNOMED","Procedure",277,347
+4181610,"Insertion of stent into femoral artery","429036001","SNOMED","Procedure",276,314
+4329453,"Operation on Bartholin's gland","22394005","SNOMED","Procedure",276,348
+4043334,"Procedure on eye","118897002","SNOMED","Procedure",273,390
+4216758,"Removal of prosthetic components","416621003","SNOMED","Procedure",273,390
+4245372,"Phlebotomy","396540005","SNOMED","Procedure",273,2004
+4177224,"Non-invasive ventilation","428311008","SNOMED","Procedure",271,11387
+4206400,"Laparoscopic partial nephrectomy","439739008","SNOMED","Procedure",271,277
+4219780,"Left colectomy","82619000","SNOMED","Procedure",271,272
+4030150,"Excision of liver","107963000","SNOMED","Procedure",269,291
+4246684,"Repair of testis","397142002","SNOMED","Procedure",269,305
+4262568,"Surgical repair of prolapsed uterus","361156002","SNOMED","Procedure",269,271
+40484163,"Sequencing of entire coding region of gene","443968007","SNOMED","Procedure",268,277
+4050568,"Ablation operation for arrhythmia","233159005","SNOMED","Procedure",266,284
+4075967,"Examination for injuries","225163008","SNOMED","Procedure",265,408
+4048313,"Open rhinoplasty","232464005","SNOMED","Procedure",264,269
+4037876,"Pharyngeal biopsy","16299004","SNOMED","Procedure",263,296
+4193922,"Ileoileostomy","78925004","SNOMED","Procedure",262,270
+4245857,"Excision of paraovarian cyst","59766003","SNOMED","Procedure",262,262
+4287324,"Thrombectomy of artery","397046001","SNOMED","Procedure",262,470
+1076419,"Fluoroscopic myelography of entire spinal canal with contrast","1343365008","SNOMED","Procedure",261,422
+4118717,"Internal urethrotomy","288016004","SNOMED","Procedure",261,307
+4043335,"Procedure on cornea","118899004","SNOMED","Procedure",260,364
+4028229,"Complete parotidectomy","13358001","SNOMED","Procedure",259,290
+4335864,"Endodiathermy of retina","231759007","SNOMED","Procedure",258,318
+4008569,"Partial parotidectomy","11150009","SNOMED","Procedure",256,343
+4209141,"Osteotomy of mandible","56036004","SNOMED","Procedure",256,270
+4102528,"Partial excision of vagina","25473003","SNOMED","Procedure",255,323
+4120445,"Hemopoietic stem cell transplant","234336002","SNOMED","Procedure",255,548
+4230961,"Repair of retina for retinal detachment","8920006","SNOMED","Procedure",255,287
+4294683,"Vitrectomy","75732000","SNOMED","Procedure",255,365
+4212941,"Aspiration curettage of uterus for termination of pregnancy","391897002","SNOMED","Procedure",254,356
+4327347,"Feeding patient","75118006","SNOMED","Procedure",254,992
+4067358,"Intranasal ethmoidectomy","172883004","SNOMED","Procedure",253,255
+4340646,"Endoscopic removal of foreign body from stomach","236157003","SNOMED","Procedure",253,282
+4070228,"Plastic excision of skin of head or neck","177242002","SNOMED","Procedure",252,259
+4178833,"Paracentesis of endocrine organ","363254000","SNOMED","Procedure",251,325
+4013510,"History and physical examination, follow-up","113009005","SNOMED","Procedure",250,296
+4034446,"Excision arthroplasty of the metatarsophalangeal joint of hallux","239511007","SNOMED","Procedure",250,283
+40492792,"Three dimensional transesophageal ultrasonography of heart","445864005","SNOMED","Procedure",250,284
+40493292,"Insertion of esophageal stent","445972008","SNOMED","Procedure",248,322
+4271587,"Ventriculostomy","63933000","SNOMED","Procedure",246,274
+4323816,"Closure of cystostomy","71550003","SNOMED","Procedure",245,583
+4027426,"Kidney excision","108022006","SNOMED","Procedure",244,247
+4198242,"Sigmoidostomy","51233000","SNOMED","Procedure",244,250
+4131534,"Chromoscopy","413240005","SNOMED","Procedure",240,257
+4272547,"Paracentesis of anterior chamber of eye with therapeutic release of aqueous","36783002","SNOMED","Procedure",240,323
+4239302,"Artificial insemination","58533008","SNOMED","Procedure",239,507
+4127137,"Local transposition flap","304099003","SNOMED","Procedure",235,251
+4195603,"Operation on vagina","44117004","SNOMED","Procedure",235,241
+4135441,"Closure of colostomy","3183007","SNOMED","Procedure",234,240
+4240701,"Lysis of adhesions of intestines","5789003","SNOMED","Procedure",231,239
+4311041,"Repair of artery","392242000","SNOMED","Procedure",231,243
+4301620,"Cryosurgery of lesion of cervix","78203001","SNOMED","Procedure",230,255
+4338739,"Peripheral iridectomy","231724007","SNOMED","Procedure",230,312
+40492327,"Drainage of cerebrospinal fluid","447336008","SNOMED","Procedure",230,256
+4012317,"Operation on salivary gland","112879001","SNOMED","Procedure",229,241
+1245449,"Laparoscopic sigmoid colectomy","1303413007","SNOMED","Procedure",227,227
+4040446,"History and physical examination, insurance","1640009","SNOMED","Procedure",227,238
+4074443,"Endoscopic freeing of adhesions of fallopian tube","176994003","SNOMED","Procedure",227,230
+4076608,"Prosthetic hybrid total shoulder replacement","179452005","SNOMED","Procedure",227,243
+4305860,"Fluoroscopic angiography of abdominal vascular structure with contrast","418867007","SNOMED","Procedure",227,249
+4284254,"Ligation of esophageal varices","67364009","SNOMED","Procedure",226,390
+4236584,"Thawing of cryopreserved spermatozoa","441198005","SNOMED","Procedure",225,468
+4339601,"Removal of foreign body from larynx","232574005","SNOMED","Procedure",225,289
+4180074,"Iliofemoral shunt","51018000","SNOMED","Procedure",224,251
+4021434,"Cystoscopic removal of ureteric stent","176074005","SNOMED","Procedure",222,360
+4166711,"Intubation of lacrimal drainage structure","417917001","SNOMED","Procedure",222,329
+4267975,"Biopsy of urinary bladder","36503003","SNOMED","Procedure",222,259
+40487173,"Fusion of joint of thoracic spine with internal fixation by anterior approach","449447007","SNOMED","Procedure",222,270
+4297249,"Obstetric operation","386638009","SNOMED","Procedure",221,237
+1447474,"Reconstruction of breast with prosthesis","1344889001","SNOMED","Procedure",219,351
+36680592,"Synovectomy of joint","778031009","SNOMED","Procedure",218,228
+4264064,"Repair of anus","47118000","SNOMED","Procedure",216,218
+4201093,"Excision arthroplasty of joint of foot","301763000","SNOMED","Procedure",215,245
+3655086,"Incision of stapes","840722006","SNOMED","Procedure",214,277
+4020329,"Pancreaticoduodenectomy","116241004","SNOMED","Procedure",212,212
+4071009,"Surgical exposure of tooth","173317005","SNOMED","Procedure",212,232
+4086912,"Construction of cutaneous ureteroileostomy","243775002","SNOMED","Procedure",212,212
+4171187,"Bypass gastrojejunostomy","49245001","SNOMED","Procedure",212,212
+4312194,"Repair of heart valve","85830006","SNOMED","Procedure",212,216
+4341536,"Total orchidectomy","236334001","SNOMED","Procedure",212,214
+4138741,"Intrauterine artificial insemination","265064001","SNOMED","Procedure",211,444
+4146781,"Endarterectomy of iliac artery","307800001","SNOMED","Procedure",211,223
+4263094,"Wertheim operation","361223008","SNOMED","Procedure",209,209
+4232742,"Vacuum assisted skin closure","404915007","SNOMED","Procedure",208,577
+4070140,"Implantation of artificial voicebox into larynx","173006001","SNOMED","Procedure",207,1379
+4099524,"Pelvic floor EMG","252759001","SNOMED","Procedure",207,280
+4143656,"Local fasciocutaneous flap","265667009","SNOMED","Procedure",207,229
+4264015,"Reconstruction of pelvic floor","61392008","SNOMED","Procedure",207,211
+4070879,"Lobectomy of lung","173171007","SNOMED","Procedure",206,219
+4166073,"Radionuclide localization of tumor","45316007","SNOMED","Procedure",206,206
+4245362,"Myringoplasty","396490007","SNOMED","Procedure",206,237
+4178798,"Suture of joint capsule","42960008","SNOMED","Procedure",205,207
+4215577,"Stereotactic radiotherapy","395096001","SNOMED","Procedure",205,664
+4262683,"Photochemotherapy with psoralens and ultraviolet A","46467001","SNOMED","Procedure",205,2565
+4300403,"Exploration of peripheral nerve","77811003","SNOMED","Procedure",205,239
+4306203,"Peritoneal lavage","387715005","SNOMED","Procedure",205,240
+4000882,"Lung excision","119746007","SNOMED","Procedure",204,216
+4123735,"Enteroscopy","235147008","SNOMED","Procedure",204,250
+4337061,"Mitral annuloplasty using ring","232744004","SNOMED","Procedure",204,208
+4041263,"Procedure on urinary system","118677009","SNOMED","Procedure",202,1039
+4178951,"Soft tissue closure","363309004","SNOMED","Procedure",202,204
+4322623,"Excision of verruca of eyelid","70625001","SNOMED","Procedure",202,208
+4269838,"Infusion","36576007","SNOMED","Procedure",201,215
+4321596,"Excision of intracranial lesion","9888007","SNOMED","Procedure",201,227
+43531134,"Laparoscopic repair of incisional hernia","608833000","SNOMED","Procedure",201,203
+4001554,"Eyelid injection","120103005","SNOMED","Procedure",200,509
+4048329,"Intranasal frontoethmoidectomy","232509004","SNOMED","Procedure",199,200
+4134709,"Cholangioscopy","413195008","SNOMED","Procedure",199,379
+4201120,"Control of hemorrhage","51241000","SNOMED","Procedure",198,207
+43531086,"Open reduction of dislocation of acromioclavicular joint","608781003","SNOMED","Procedure",197,203
+44792084,"Medicines management","321301000000101","SNOMED","Procedure",197,3390
+4262936,"Endarterectomy of intracranial artery","44620006","SNOMED","Procedure",196,206
+4080015,"Repair of femoral hernia","238171002","SNOMED","Procedure",195,199
+4323685,"Repair of ectropion","71408000","SNOMED","Procedure",195,220
+4170058,"Operation on esophagus","48114000","SNOMED","Procedure",194,272
+4227745,"Infertility study","87727006","SNOMED","Procedure",194,315
+4194124,"Excision of lesion of breast","392023007","SNOMED","Procedure",192,196
+37163776,"Ultrasonography guided biopsy of prostate","1220577005","SNOMED","Procedure",191,202
+4074000,"Excision of Bartholin's gland","176589007","SNOMED","Procedure",190,200
+4306192,"Cardiotochogram","387672006","SNOMED","Procedure",190,579
+4210602,"Arthrotomy with removal of prosthesis","56398008","SNOMED","Procedure",189,210
+46270730,"Dual energy X-ray absorptiometry of bone of spine","708690003","SNOMED","Procedure",189,199
+4132856,"Apheresis","127788007","SNOMED","Procedure",187,260
+4142512,"Cerclage of uterine cervix","265636007","SNOMED","Procedure",187,481
+4173506,"Needle biopsy of kidney","275155009","SNOMED","Procedure",187,207
+4122330,"Sclerotherapy of esophageal varices","235201007","SNOMED","Procedure",186,205
+40489325,"Endoscopy of upper gastrointestinal tract and injection of varix of esophagus","446742004","SNOMED","Procedure",186,205
+4145877,"Closure of perforated bowel ulcer","307261008","SNOMED","Procedure",185,189
+4162987,"Colostomy","398740003","SNOMED","Procedure",185,186
+606317,"Repair of bone of face","1144788004","SNOMED","Procedure",184,220
+4268189,"Reduction of fracture of leg with internal fixation","62864006","SNOMED","Procedure",184,184
+4167262,"Needle biopsy of lung","274319000","SNOMED","Procedure",183,193
+4298948,"Ligation of fallopian tube","77543007","SNOMED","Procedure",183,184
+36676312,"Reconstruction of anterior abdominal wall using prosthetic material","773123004","SNOMED","Procedure",183,184
+4296296,"Excision of lesion of middle ear","76263007","SNOMED","Procedure",182,208
+37156474,"Construction of vagina","1172964003","SNOMED","Procedure",182,184
+40489321,"Endoscopy of upper gastrointestinal tract and banding of varix of esophagus","446739005","SNOMED","Procedure",180,287
+44782479,"Repair of ascending aorta","699352005","SNOMED","Procedure",180,183
+4071518,"Abdominoplasty","177250006","SNOMED","Procedure",179,182
+4266016,"Tympanotomy","397760009","SNOMED","Procedure",179,188
+4082198,"Percutaneous removal of endovascular foreign body","240946003","SNOMED","Procedure",177,204
+4304536,"Partial nephrectomy","81516001","SNOMED","Procedure",177,178
+4322169,"Subcutaneous mastectomy","70183006","SNOMED","Procedure",177,181
+36675314,"Laparoscopic repair of umbilical hernia","771708006","SNOMED","Procedure",177,178
+4064523,"Examination for work accident","171401005","SNOMED","Procedure",176,370
+4167420,"Reduction of dislocation of ankle","274457001","SNOMED","Procedure",176,185
+4207360,"Excision of lesion from floor of mouth","54029002","SNOMED","Procedure",176,182
+4040713,"Procedure on middle ear","118893003","SNOMED","Procedure",175,204
+4198228,"Formation of cutaneous ureterostomy","51146001","SNOMED","Procedure",175,175
+4295265,"Endoscopy of ear","76517002","SNOMED","Procedure",175,204
+4140686,"Mammoplasty","33496007","SNOMED","Procedure",174,533
+4021362,"Biopsy of pleura","116025006","SNOMED","Procedure",173,197
+44807265,"Management of stroke rehabilitation","816241000000109","SNOMED","Procedure",173,177
+4003899,"Fallopian tube closure","120060008","SNOMED","Procedure",172,172
+4189847,"Operation on fallopian tube","392250009","SNOMED","Procedure",172,173
+1242906,"Interposition arthroplasty of metatarsophalangeal joint","1290094009","SNOMED","Procedure",171,202
+4180836,"Physical examination under general anesthesia","53185004","SNOMED","Procedure",171,243
+4336916,"Attention to tracheostomy","232613003","SNOMED","Procedure",171,1358
+37166976,"Removal of intrauterine contraceptive device","1263416007","SNOMED","Procedure",170,172
+4097368,"Scleral buckling","26786002","SNOMED","Procedure",169,182
+4247782,"Operative procedure on ciliary body","73200001","SNOMED","Procedure",169,187
+4028054,"Posterior sclerotomy","13303004","SNOMED","Procedure",168,234
+4066636,"Closure of perforated duodenal ulcer","173889005","SNOMED","Procedure",168,172
+4102383,"Repair of aneurysm by occlusion","25303003","SNOMED","Procedure",168,178
+4139992,"Bile duct operation","265447007","SNOMED","Procedure",168,181
+604319,"Hematopoietic stem cell mobilization","879913000","SNOMED","Procedure",167,190
+4073393,"Opening of chest","177765008","SNOMED","Procedure",166,180
+4129658,"Endoscopic insertion of tubal prosthesis into esophagus","290018002","SNOMED","Procedure",166,262
+4290250,"Skeletal traction","69446009","SNOMED","Procedure",166,169
+4310552,"Orchidopexy","85419002","SNOMED","Procedure",166,180
+4314777,"Immunosuppressive therapy","86553008","SNOMED","Procedure",166,376
+4315036,"Internal fixation of femur","86975004","SNOMED","Procedure",166,172
+1073191,"Destruction of lesion of perineum","1303470002","SNOMED","Procedure",165,168
+4119924,"Cystoprostatectomy","287720006","SNOMED","Procedure",165,165
+4322471,"Transplant of kidney","70536003","SNOMED","Procedure",165,167
+4343795,"Le Fort I osteotomy","239299006","SNOMED","Procedure",163,164
+4070880,"Excision of segment of lung","173172000","SNOMED","Procedure",162,300
+4120148,"Forced manual dilation of anus","302605004","SNOMED","Procedure",162,237
+36713459,"Reproductive counseling","717793002","SNOMED","Procedure",162,199
+4047347,"Fitting procedure","122467006","SNOMED","Procedure",161,279
+4144723,"Excision of lesion of rectum by transanal approach","265425007","SNOMED","Procedure",161,174
+42872496,"Laparoscopic oophorectomy","450487000","SNOMED","Procedure",161,163
+4045610,"Insertion of intracranial pressure measuring device","230938001","SNOMED","Procedure",160,197
+4072435,"Marsupialization of Bartholin's gland","176590003","SNOMED","Procedure",159,186
+4106090,"Partial oophorectomy","29672006","SNOMED","Procedure",159,159
+4314436,"Enterostomy","87150006","SNOMED","Procedure",159,160
+42872444,"Laparoscopy and peritoneal lavage","450435004","SNOMED","Procedure",159,161
+4042677,"Procedure on artery","118805000","SNOMED","Procedure",158,198
+4105589,"Biopsy of peritoneum","29481005","SNOMED","Procedure",158,159
+4173712,"Biological mitral valve replacement","50216001","SNOMED","Procedure",158,163
+4204677,"Gastrostomy","54956002","SNOMED","Procedure",158,167
+4165384,"Implantation of heart valve prosthesis or synthetic device","47432005","SNOMED","Procedure",157,157
+4031507,"Ileotransversostomy","14403007","SNOMED","Procedure",156,156
+4199705,"Endoscopic dilation of bile duct","302207003","SNOMED","Procedure",155,202
+4306298,"Oophorectomy","83152002","SNOMED","Procedure",155,160
+4294508,"Repair of conjunctiva","76135002","SNOMED","Procedure",154,211
+4333131,"Dacryocystorhinostomy and insertion of tube","231631004","SNOMED","Procedure",153,184
+4112122,"Adjustment of implant","286560000","SNOMED","Procedure",151,306
+4201720,"Decompression of cervical spine","302130002","SNOMED","Procedure",151,152
+4279633,"Cerebral duraplasty","66534009","SNOMED","Procedure",151,166
+4325212,"Procedure involving peritoneal dialysis catheter","428118009","SNOMED","Procedure",151,187
+4039628,"Injection of sclerosing agent in varicose vein","1636000","SNOMED","Procedure",150,169
+4300304,"Ventrohysteropexy","77665000","SNOMED","Procedure",150,151
+35621840,"Repair of penetrating eye injury","763097008","SNOMED","Procedure",150,167
+43531082,"Open reduction of fracture of mandible with fixation","608777003","SNOMED","Procedure",150,152
+4007438,"Packing of posterior nasal cavity","11095004","SNOMED","Procedure",149,297
+4041643,"Application of cast","118480003","SNOMED","Procedure",149,202
+4147673,"Subtotal prostatectomy","30426000","SNOMED","Procedure",149,149
+4019134,"Needle biopsy of pancreas","174771006","SNOMED","Procedure",148,160
+4234819,"Repair of popliteal artery","405375003","SNOMED","Procedure",148,156
+4323896,"Stereotactic radiosurgery of cerebrum","429584001","SNOMED","Procedure",148,466
+4198857,"Excision of pressure injury","5162004","SNOMED","Procedure",147,359
+4124529,"Enterorrhaphy of small intestine","235152003","SNOMED","Procedure",146,153
+4227911,"Intramedullary nailing of ulna","88429005","SNOMED","Procedure",146,150
+4229118,"Cholelithotomy","88748005","SNOMED","Procedure",146,170
+4244871,"Intramedullary nailing of radius","60486006","SNOMED","Procedure",146,150
+4324124,"Peritoneal dialysis","71192002","SNOMED","Procedure",146,4521
+4018561,"Mechanical prosthetic aortic valve replacement","174929002","SNOMED","Procedure",145,147
+4079651,"Cemented unicompartmental knee replacement","179402001","SNOMED","Procedure",145,149
+4220838,"Injection of sclerosing agent","82579001","SNOMED","Procedure",145,197
+4236715,"Repair of aneurysm of abdominal aorta","405525004","SNOMED","Procedure",145,145
+4325283,"Closure of enterostomy","71309007","SNOMED","Procedure",145,147
+4337034,"Wedge excision of lung","232632009","SNOMED","Procedure",144,202
+4232599,"Endoscopic bile duct lithotripsy","404812006","SNOMED","Procedure",143,168
+44784222,"Intravascular optical coherence tomography of coronary vessel","698254001","SNOMED","Procedure",143,153
+4069463,"Pancreatic duct drainage","174731001","SNOMED","Procedure",142,171
+4298560,"Endoscopic removal of foreign body from larynx","7686002","SNOMED","Procedure",142,142
+4145362,"Amniotic membrane graft to cornea","426676006","SNOMED","Procedure",141,211
+4074687,"Decortication of lung","177784006","SNOMED","Procedure",140,152
+4219893,"Suture of conjunctiva","82643002","SNOMED","Procedure",140,150
+4225211,"Repair of superficial femoral artery","405378001","SNOMED","Procedure",140,147
+4265676,"Excision of varicocele","36439007","SNOMED","Procedure",140,144
+4128560,"Push enteroscopy","235148003","SNOMED","Procedure",139,156
+4048948,"Endovascular obliteration of intracranial aneurysm","230916003","SNOMED","Procedure",138,142
+4057754,"Palliative course of radiotherapy","168528006","SNOMED","Procedure",138,144
+4074152,"Partial vulvectomy","176599002","SNOMED","Procedure",138,154
+4101913,"Capillaroscopy","252464001","SNOMED","Procedure",138,160
+4117629,"Open repair of zygomatic fracture","257904000","SNOMED","Procedure",138,140
+4216735,"Drainage of oral abscess","416564000","SNOMED","Procedure",138,138
+4266978,"Repair of vulva","61702004","SNOMED","Procedure",138,139
+40488890,"Primary anterior decompression of cervical spinal cord","448207008","SNOMED","Procedure",138,139
+42872876,"Attention to colostomy","450871008","SNOMED","Procedure",138,469
+4181781,"Partial resection of colon","43075005","SNOMED","Procedure",135,139
+4334717,"Retinotomy","231774009","SNOMED","Procedure",135,174
+4042325,"Procedure on facial bone","118731007","SNOMED","Procedure",134,143
+4050572,"Implantation of automatic cardiac defibrillator","233170003","SNOMED","Procedure",134,148
+4142625,"Sialolithotomy","34640001","SNOMED","Procedure",134,226
+4282602,"Nephrolithotomy for removal of calculus","6722002","SNOMED","Procedure",134,153
+40493228,"Incision of abscess of head","445914004","SNOMED","Procedure",134,143
+36676311,"Reconstruction of anterior abdominal wall","773122009","SNOMED","Procedure",133,136
+4070608,"Excision of lesion of gingiva","173344000","SNOMED","Procedure",132,143
+4185366,"Chemical pleurodesis","54786002","SNOMED","Procedure",132,139
+4060629,"Ultrasonography of urinary bladder","169251004","SNOMED","Procedure",131,139
+4060257,"Insertion of intra-aortic balloon counterpulsation","16965008","SNOMED","Procedure",130,132
+4188048,"Excision of lesion of auricle of ear","46441006","SNOMED","Procedure",130,138
+4097958,"Transverse colectomy","26925005","SNOMED","Procedure",129,129
+4214028,"Bone graft","80983001","SNOMED","Procedure",128,138
+42872509,"Laparoscopic cholecystostomy","450500003","SNOMED","Procedure",128,128
+4000733,"Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery","119565001","SNOMED","Procedure",127,127
+4145886,"Open reduction maxillary fracture","307285000","SNOMED","Procedure",127,129
+4170947,"Bone immobilization","274474001","SNOMED","Procedure",127,129
+4186722,"Biopsy of nose","413650000","SNOMED","Procedure",127,130
+40488324,"Cystoscopy and lithotripsy of calculus of bladder using laser","446546004","SNOMED","Procedure",127,134
+4064533,"Operative procedure on middle ear","21355007","SNOMED","Procedure",126,157
+4068429,"Occlusion of lacrimal punctum","172310003","SNOMED","Procedure",125,207
+4068662,"Pharyngolaryngo-esophagectomy","172938001","SNOMED","Procedure",125,1232
+4247555,"Gastroduodenoscopy","61328004","SNOMED","Procedure",125,153
+4288878,"Arthroscopy of hip","69650005","SNOMED","Procedure",125,135
+4123634,"Reconstruction of breast with flap","303445008","SNOMED","Procedure",124,268
+4216307,"Partial mandibulectomy","39497007","SNOMED","Procedure",124,137
+4228305,"Aortocoronary artery bypass graft with three vein grafts","405599002","SNOMED","Procedure",124,124
+4231432,"Intramedullary nailing of femur","89344001","SNOMED","Procedure",124,124
+40489379,"Debridement of ankle region","446791005","SNOMED","Procedure",124,151
+4068770,"Scleral buckling with implant","1746005","SNOMED","Procedure",123,136
+4137462,"Adrenalectomy","31904001","SNOMED","Procedure",123,184
+4258010,"Osteotomy of jaw","440198000","SNOMED","Procedure",123,134
+37157813,"Implantation of cardiac resynchronization defibrillator system","1236755008","SNOMED","Procedure",122,137
+40488485,"Arthrocentesis of temporomandibular joint","448199007","SNOMED","Procedure",122,138
+4071015,"Biopsy of lesion of gingiva","173345004","SNOMED","Procedure",121,139
+4108845,"Application of plaster cast to trunk","180292008","SNOMED","Procedure",121,175
+4214730,"Partial laryngectomy","80513001","SNOMED","Procedure",121,153
+4146391,"Suture of vagina","265628003","SNOMED","Procedure",120,123
+4299367,"Pyeloplasty","77100009","SNOMED","Procedure",120,140
+4047008,"Ligation of intracranial aneurysm","230899005","SNOMED","Procedure",119,125
+4241964,"Destruction of lesion of cornea by cryotherapy","59465003","SNOMED","Procedure",119,272
+44793142,"Introduction of female transobturator tape","378421000000106","SNOMED","Procedure",119,119
+4052536,"Extracorporeal membrane oxygenation","233573008","SNOMED","Procedure",117,473
+4188466,"Ventriculoperitoneal shunt","47020004","SNOMED","Procedure",117,153
+4223084,"Excision of exostosis from external auditory canal","84736001","SNOMED","Procedure",117,147
+4302672,"Excision of cyst of ovary","387741004","SNOMED","Procedure",117,117
+37204304,"Implantation procedure","782902008","SNOMED","Procedure",117,151
+4125943,"Periodontal operation","234677007","SNOMED","Procedure",115,172
+4132400,"Application of hip spica cast","127599007","SNOMED","Procedure",115,134
+4196919,"Incision of anal fistula","79567008","SNOMED","Procedure",115,124
+4344635,"Cadaver donor nephrectomy","240325001","SNOMED","Procedure",115,116
+44793314,"Wound repair review","381781000000100","SNOMED","Procedure",115,120
+4203990,"Laparoscopic insertion of peritoneal dialysis catheter","438341004","SNOMED","Procedure",114,141
+4214034,"Duodenoscopy","80267006","SNOMED","Procedure",114,122
+4022807,"Nephroureterectomy","175907006","SNOMED","Procedure",113,174
+4334718,"Retinectomy","231775005","SNOMED","Procedure",113,131
+4065811,"Incision of eyelid","172260007","SNOMED","Procedure",112,117
+4090455,"Gastrointestinal and digestive anastomosis","280478004","SNOMED","Procedure",111,113
+4102235,"Urethral fluid bridge pressure test","252903003","SNOMED","Procedure",111,111
+4179324,"Three dimensional ultrasound imaging of heart","5216004","SNOMED","Procedure",111,117
+4222733,"Distal subtotal pancreatectomy","401004","SNOMED","Procedure",111,111
+4025993,"Ligation of gastric varices","12074006","SNOMED","Procedure",110,118
+4226983,"Resection of rectum","87677003","SNOMED","Procedure",110,111
+4321098,"Reduction of fracture of hand with internal fixation","7082004","SNOMED","Procedure",110,110
+4333130,"Intranasal dacryocystorhinostomy","231630003","SNOMED","Procedure",110,133
+4334652,"Radiofrequency ablation using ultrasound guidance","433058002","SNOMED","Procedure",110,122
+4246067,"Corneal transplant","60656008","SNOMED","Procedure",109,132
+4266224,"Change of gastrostomy tube","6125005","SNOMED","Procedure",109,233
+4121041,"Stereotactic mammography","258172002","SNOMED","Procedure",108,119
+4153287,"Removal of products of conception from fallopian tube","271415006","SNOMED","Procedure",108,109
+4242873,"Cervical arthrodesis by anterior technique","59703009","SNOMED","Procedure",108,108
+4264707,"Simple excision of pterygium","397112000","SNOMED","Procedure",108,117
+1242824,"Prosthetic hybrid total knee replacement","1287945008","SNOMED","Procedure",107,114
+4111540,"Examination of lymph nodes","284427004","SNOMED","Procedure",107,108
+4194197,"Operation on lymph node","79480008","SNOMED","Procedure",107,108
+4200565,"Excision of lesion of external auditory canal","53352004","SNOMED","Procedure",107,121
+4277585,"Operation on ovary","64887002","SNOMED","Procedure",107,108
+40492254,"Endoscopic ablation of endometrium","445725004","SNOMED","Procedure",107,111
+4018022,"Right hemicolectomy and end to end anastomosis of ileum to colon","174080004","SNOMED","Procedure",106,106
+4073422,"Spontaneous breech delivery","177157003","SNOMED","Procedure",106,109
+4190187,"Implantation of anterior chamber intraocular lens","373416003","SNOMED","Procedure",106,110
+4236009,"Biopsy of tonsil","90750001","SNOMED","Procedure",106,109
+4174519,"Mastoidectomy","50445001","SNOMED","Procedure",105,145
+4138981,"Biopsy of pancreas","32774009","SNOMED","Procedure",104,110
+4072156,"Excision of branchial cyst","178347009","SNOMED","Procedure",103,104
+4075144,"Excision of branchial fistula","178348004","SNOMED","Procedure",103,104
+4219236,"Repair of enterocele by vaginal approach","8192007","SNOMED","Procedure",103,103
+4241329,"Repair of nasal fistula","59476004","SNOMED","Procedure",103,121
+4251348,"Closure of oroantral fistula","73776009","SNOMED","Procedure",103,121
+42709769,"Reduction of fracture of upper arm with internal fixation","449641004","SNOMED","Procedure",103,108
+4021585,"Manual urinary bladder washout through catheter","176193005","SNOMED","Procedure",102,128
+4067560,"Partial excision of bile duct and anastomosis of bile duct to jejunum","174545009","SNOMED","Procedure",102,102
+4265898,"Suture of colon","6221005","SNOMED","Procedure",102,102
+37206727,"Excision of aortic lymph node","786848000","SNOMED","Procedure",102,129
+4029787,"Biopsy of bone","13861005","SNOMED","Procedure",101,110
+4036250,"Ruthenium 106 brachytherapy","228693000","SNOMED","Procedure",101,127
+4036697,"Microscopy","117259009","SNOMED","Procedure",101,102
+4243827,"Drug addiction counseling","60112009","SNOMED","Procedure",101,132
+4341373,"Exploration of ureter","236168003","SNOMED","Procedure",101,113
+43531531,"Removal of device from head","609250001","SNOMED","Procedure",101,128
+4124526,"Rigid esophagoscopy","235145000","SNOMED","Procedure",100,126
+4138816,"Cranioplasty","32495000","SNOMED","Procedure",100,107
+4235738,"Prostatectomy","90470006","SNOMED","Procedure",100,100
+37156605,"Uterine balloon tamponade for postpartum hemorrhage","1179010002","SNOMED","Procedure",100,101
+4158696,"Musculoskeletal debridement","373195007","SNOMED","Procedure",99,131
+4225212,"Repair of internal carotid artery","405379009","SNOMED","Procedure",99,99
+4048335,"Operations on tonsil and adenoid","232522007","SNOMED","Procedure",97,98
+4177376,"Laparoscopic adrenalectomy","42843004","SNOMED","Procedure",97,148
+4186440,"Incision of auricle of ear","47262001","SNOMED","Procedure",97,116
+4213281,"Sphenoid sinusotomy","392213008","SNOMED","Procedure",97,209
+4219240,"Dermatoplasty","72456008","SNOMED","Procedure",97,112
+37204867,"Reconstruction of nipple with full thickness graft of skin","783792003","SNOMED","Procedure",97,101
+40487348,"Excision of scar","446295000","SNOMED","Procedure",97,112
+4012182,"Closed reduction of fracture of femur","112777008","SNOMED","Procedure",96,99
+4151632,"Intravascular ultrasound of coronary artery","310658009","SNOMED","Procedure",96,103
+4194049,"Application of splint","79321009","SNOMED","Procedure",96,96
+4308662,"Reimplantation of ureter","387701008","SNOMED","Procedure",96,117
+4187383,"Excision of submandibular gland","47227006","SNOMED","Procedure",95,160
+4068911,"Excision of lesion of palate","173380000","SNOMED","Procedure",94,134
+4181778,"Intravenous injection","43060002","SNOMED","Procedure",94,128
+4271301,"Incision of cornea","62935003","SNOMED","Procedure",94,112
+4040299,"Operation on stomach","16453004","SNOMED","Procedure",93,95
+4220964,"Operation on duodenum","82764005","SNOMED","Procedure",93,95
+4232099,"Diagnostic analysis of cochlear implant with programming","439307003","SNOMED","Procedure",93,986
+4232331,"Radical maxillary antrotomy","897004","SNOMED","Procedure",93,93
+4275564,"Operation on heart","64915003","SNOMED","Procedure",93,98
+4297967,"Insertion of tissue expander","76790002","SNOMED","Procedure",93,119
+4001023,"Tongue reconstruction","119874007","SNOMED","Procedure",92,96
+4125153,"Attention to gastrostomy","235222001","SNOMED","Procedure",92,203
+4155658,"Biopsy of lesion of cheek","284065000","SNOMED","Procedure",92,100
+4231680,"Aorto-femoral arterial bypass","405482000","SNOMED","Procedure",92,92
+4000738,"Trunk excision","119583009","SNOMED","Procedure",91,91
+4073385,"Excision of lesion of chest wall","177754003","SNOMED","Procedure",91,94
+4111233,"Total decortication of lung","194255002","SNOMED","Procedure",90,93
+4335617,"Tympanoplasty with mastoidectomy","232188001","SNOMED","Procedure",90,108
+40479379,"Insertion of single chamber pacing cardioverter defibrillator pulse generator","444401001","SNOMED","Procedure",90,95
+4071934,"Scrotum and testicle operation","176397001","SNOMED","Procedure",89,94
+4139594,"Ligation of vein","32675000","SNOMED","Procedure",89,92
+4170872,"Suture of uterus","49522006","SNOMED","Procedure",89,89
+4213291,"Evacuation of hematoma of vagina","392256003","SNOMED","Procedure",89,89
+4223536,"Classical cesarean section","84195007","SNOMED","Procedure",89,90
+4329726,"Debridement of burnt skin","221270009","SNOMED","Procedure",89,108
+4352647,"Fiberoptic bronchoscopy with biopsy of lung","243411004","SNOMED","Procedure",89,90
+4137700,"Implantation of cardioverter defibrillator with one electrode lead","425435003","SNOMED","Procedure",88,88
+4144078,"Operation on intestine","34853001","SNOMED","Procedure",88,93
+4177823,"Heminephrectomy","49780003","SNOMED","Procedure",87,89
+4179363,"Implantation of cardiac resynchronization therapy implantable pacemaker","429064006","SNOMED","Procedure",87,87
+4208524,"Arthroscopically aided anterior cruciate ligament repair","55244002","SNOMED","Procedure",87,89
+4238384,"Repair of artery with suture","67727001","SNOMED","Procedure",87,89
+43531648,"Total knee replacement","609588000","SNOMED","Procedure",87,101
+46273536,"Laparoscopic biopsy of ovary","708747005","SNOMED","Procedure",87,87
+4002243,"Urinary diversion procedure","119560006","SNOMED","Procedure",86,94
+4023106,"Cystoscopic dilation of ureteric orifice","176101004","SNOMED","Procedure",85,95
+4042506,"Biopsy of testis","118958009","SNOMED","Procedure",85,94
+4068317,"Cryotherapy to lesion of eyelid","172214005","SNOMED","Procedure",85,87
+4149930,"Pericardiocentesis","309849004","SNOMED","Procedure",85,96
+4159882,"Filtering operation on eye","371370007","SNOMED","Procedure",85,109
+4250892,"Emergency operation","73994005","SNOMED","Procedure",85,87
+4078309,"Fixation of vagina","276188006","SNOMED","Procedure",84,84
+4204692,"Reamputation","55046007","SNOMED","Procedure",84,93
+4216130,"Percutaneous coronary intervention","415070008","SNOMED","Procedure",84,84
+4061650,"Hormone therapy","169413002","SNOMED","Procedure",83,2632
+4069384,"Excision of lesion of external nose","172779009","SNOMED","Procedure",83,85
+4217829,"Laryngectomy","72791001","SNOMED","Procedure",83,83
+4277414,"Evacuation of hematoma of vulva","65687007","SNOMED","Procedure",83,83
+4322976,"Procedure","71388002","SNOMED","Procedure",83,87
+4062769,"Armed forces medical examination","171394009","SNOMED","Procedure",82,88
+4098793,"Quantitative sensory test","252775003","SNOMED","Procedure",82,84
+4144859,"Annuloplasty of tricuspid valve","265480000","SNOMED","Procedure",82,82
+4307663,"Operative procedure on forearm","8363004","SNOMED","Procedure",82,83
+4097325,"Stroke rehabilitation","2517002","SNOMED","Procedure",81,190
+4194872,"Debridement of ulcer","312775003","SNOMED","Procedure",81,100
+4243780,"Biopsy of subcutaneous tissue","37972008","SNOMED","Procedure",81,83
+4249749,"Repair of laceration of urinary bladder by suture","73380001","SNOMED","Procedure",81,84
+4217814,"Partial obliteration of vagina","72734006","SNOMED","Procedure",80,80
+44783078,"Arthroscopic repair of rotator cuff","699120002","SNOMED","Procedure",80,83
+4029550,"Removal of implant from hand","10777003","SNOMED","Procedure",79,80
+4047337,"Exploration of femoral artery","12243000","SNOMED","Procedure",79,80
+4065687,"Removal of foreign body from eyelid","172278002","SNOMED","Procedure",79,79
+4299797,"Reconstructive repair of pectus excavatum","77969008","SNOMED","Procedure",79,81
+4013505,"Incision of abdominal wall","112978005","SNOMED","Procedure",78,83
+4074848,"Endoscopic resection of lesion of peritoneum","177993002","SNOMED","Procedure",78,78
+4099370,"Lacrimal syringing","252825008","SNOMED","Procedure",78,79
+4128031,"Instrumental delivery","236974004","SNOMED","Procedure",78,78
+4168133,"Incision of trachea","48387007","SNOMED","Procedure",78,79
+4189205,"Delivery by vacuum extraction","61586001","SNOMED","Procedure",78,78
+4284555,"Suture of corneal laceration","66960000","SNOMED","Procedure",78,85
+4033398,"Suction assisted lipectomy of trunk","15039004","SNOMED","Procedure",77,120
+4144797,"Laparoscopic closure of perforated gastric ulcer","307190008","SNOMED","Procedure",77,77
+4163287,"Cardioassist by aortic balloon pump","399217008","SNOMED","Procedure",77,77
+4204786,"Suture of labia","308782003","SNOMED","Procedure",77,78
+4213552,"Aspiration of ovary","39251008","SNOMED","Procedure",77,103
+4220384,"Removal of ectopic fetus","82688001","SNOMED","Procedure",77,79
+4262301,"Rigid bronchoscopy","397782002","SNOMED","Procedure",77,97
+40481144,"Laparoscopic marsupialization of cyst of ovary","444866000","SNOMED","Procedure",77,77
+42537746,"Prophylactic surgical procedure","737301002","SNOMED","Procedure",77,117
+4072700,"Colpoceliocentesis","176747002","SNOMED","Procedure",76,79
+4295887,"Incision of external auditory canal","7664003","SNOMED","Procedure",76,80
+4301429,"Ureteroscopy","387717002","SNOMED","Procedure",76,108
+4177047,"Thrombectomy of arteriovenous fistula","427992007","SNOMED","Procedure",75,140
+4309590,"Transurethral incision of neck of urinary bladder","388228001","SNOMED","Procedure",75,89
+40483561,"Procedure on wound","442460002","SNOMED","Procedure",75,118
+45763875,"Excision of pterygium with graft to conjunctiva","700401002","SNOMED","Procedure",75,83
+4179928,"Fixation of pendulous breast","50843001","SNOMED","Procedure",74,80
+4202369,"Bronchoscopy with removal of foreign body","53630002","SNOMED","Procedure",74,102
+4216088,"Repair of lip","71917006","SNOMED","Procedure",74,85
+4046749,"Excision of elbow joint synovium","122508002","SNOMED","Procedure",73,78
+4138691,"Excision of lesion of stomach","32327002","SNOMED","Procedure",73,73
+4231454,"Suture of mouth","89481001","SNOMED","Procedure",73,75
+1243851,"Transplantation of allogeneic hematopoietic stem cell","174241000112100","SNOMED","Procedure",72,89
+4070591,"Replantation of tooth","173280002","SNOMED","Procedure",72,79
+4138036,"Transluminal intracardiac echocardiography","425789000","SNOMED","Procedure",72,75
+4334807,"Contrast echocardiography","433231002","SNOMED","Procedure",72,74
+37163788,"Ultrasonography guided aspiration of scrotum","1220592006","SNOMED","Procedure",72,211
+4084965,"Excision of mediastinal tumor","2407009","SNOMED","Procedure",71,72
+4224154,"Thrombectomy of descending aorta","84179007","SNOMED","Procedure",71,72
+4064938,"Excision of lesion of uterine ligament","214173000","SNOMED","Procedure",70,71
+4071494,"Block dissection of inguinal lymph nodes","178286005","SNOMED","Procedure",70,73
+4127484,"Excision of rib","261531000","SNOMED","Procedure",70,90
+4299725,"Operation on mediastinum","386765006","SNOMED","Procedure",70,72
+4150846,"Biopsy of salivary gland","31343006","SNOMED","Procedure",69,70
+4196045,"Perinasal sinusotomy","80117009","SNOMED","Procedure",69,71
+4013355,"Implantation of heart valve","112815000","SNOMED","Procedure",68,68
+4151530,"Incision of bile duct","283377009","SNOMED","Procedure",68,72
+4234393,"Partial excision of external ear","90076009","SNOMED","Procedure",68,72
+4249161,"Operation on heart valve","73544002","SNOMED","Procedure",68,71
+4253894,"Maxillary sinusotomy by Caldwell-Luc approach","410754004","SNOMED","Procedure",68,68
+4046707,"Replacement of permanent transvenous electrodes","229577006","SNOMED","Procedure",67,70
+4077078,"Uncemented prosthetic hemiarthroplasty of hip joint","276178005","SNOMED","Procedure",67,70
+4128302,"Mediastinoscopy","261479009","SNOMED","Procedure",67,118
+4187537,"Removal of cardiac pacemaker electrodes with replacement","45921003","SNOMED","Procedure",67,72
+4295161,"Drainage of pancreatic pseudocyst","401240008","SNOMED","Procedure",67,74
+4298166,"Removal of calculus of renal pelvis through percutaneous nephrostomy","386200002","SNOMED","Procedure",67,74
+4311424,"Partial pleurectomy","86371000","SNOMED","Procedure",67,71
+4335824,"Exercise stress echocardiography","433233004","SNOMED","Procedure",67,67
+4029549,"Operative procedure on upper extremity","107769006","SNOMED","Procedure",66,70
+4214463,"Excision of lesion of conjunctiva","39346000","SNOMED","Procedure",66,69
+4267567,"Partial salpingectomy","62692004","SNOMED","Procedure",66,67
+4307531,"Operation on soft tissue of hand","83554005","SNOMED","Procedure",66,67
+40489836,"Laparoscopic decortication of cyst of kidney","446844009","SNOMED","Procedure",66,67
+4034245,"Debridement of joint cavity","239453006","SNOMED","Procedure",65,85
+4034462,"Biopsy of vertebra","239553008","SNOMED","Procedure",65,66
+4201033,"Laparoscopic salpingotomy","315066001","SNOMED","Procedure",65,65
+4258554,"Incision and drainage of hip joint","439526007","SNOMED","Procedure",65,85
+4275880,"Release of urethral stricture","64201008","SNOMED","Procedure",65,75
+4302823,"Incision of stomach","387867004","SNOMED","Procedure",65,66
+4314457,"Nonpenetrating glaucoma surgery","424150007","SNOMED","Procedure",64,75
+4344636,"Removal of liver from cadaver donor","240327009","SNOMED","Procedure",64,64
+44808037,"Gene expression assay","827951000000109","SNOMED","Procedure",64,64
+4052252,"Aortic bifurcation bypass graft","233373009","SNOMED","Procedure",63,63
+4156956,"Plastic operation on penis","271413004","SNOMED","Procedure",63,68
+4346400,"Fixation of fracture using external fixator","239294001","SNOMED","Procedure",63,64
+4065715,"Correction of trichiasis","172237004","SNOMED","Procedure",62,91
+4099015,"Osteotomy of body of mandible","27290008","SNOMED","Procedure",62,68
+4158252,"Removal of calculus from urinary bladder by incision","370984003","SNOMED","Procedure",62,64
+4298398,"Endoscopy of urethra","386544003","SNOMED","Procedure",62,62
+4336143,"External auditory canal operation","232151004","SNOMED","Procedure",62,63
+46270838,"Laparoscopic omentectomy","708819001","SNOMED","Procedure",62,63
+4075290,"Biopsy of muscle","178263003","SNOMED","Procedure",61,62
+4303376,"Virtual CT colonoscopy","418714002","SNOMED","Procedure",61,61
+4046923,"Biopsy of brain tissue tumor","230843007","SNOMED","Procedure",60,65
+4248040,"Incision of conjunctiva","72713004","SNOMED","Procedure",60,68
+40480282,"Resection and anastomosis of trachea","444665003","SNOMED","Procedure",60,60
+4010247,"Operative procedure on hand","112746006","SNOMED","Procedure",59,60
+4080974,"Incision of cheek","18278008","SNOMED","Procedure",59,63
+4143592,"Muscle or tendon operation","306869008","SNOMED","Procedure",59,60
+4154201,"Breast incision","272522003","SNOMED","Procedure",59,66
+4167183,"Cordectomy of vocal cord","47935000","SNOMED","Procedure",59,68
+4222947,"Atticoantrostomy of ear","84637000","SNOMED","Procedure",59,93
+4045963,"Procedure for monitoring intracranial pressure","230937006","SNOMED","Procedure",58,58
+4051171,"Laparoscopic ligation of varicocele","233451003","SNOMED","Procedure",58,58
+4060397,"Venography: peripheral","168981008","SNOMED","Procedure",58,61
+4067681,"Percutaneous cholecystostomy","174525001","SNOMED","Procedure",58,63
+4181205,"Operation on pleura","363248001","SNOMED","Procedure",58,60
+4181652,"Pyloroplasty","363742001","SNOMED","Procedure",58,58
+4238120,"Thyroid isthmectomy","91276009","SNOMED","Procedure",58,58
+4297990,"Excision of bilateral ovaries","76876009","SNOMED","Procedure",58,58
+4299447,"Surgical procedure on chest wall","385488000","SNOMED","Procedure",58,98
+4322818,"Partial hepatectomy","71273005","SNOMED","Procedure",58,58
+37154070,"Laparoscopic salpingostomy","1258938004","SNOMED","Procedure",58,59
+40490399,"Laparoscopic nephroureterectomy","446990000","SNOMED","Procedure",58,58
+4063759,"Evacuation of intracranial extradural hematoma","171713001","SNOMED","Procedure",57,61
+4099462,"Removal of breast implant","27315000","SNOMED","Procedure",57,101
+4123886,"Removal of foreign body from duodenum","235262002","SNOMED","Procedure",57,59
+4293738,"Intracavitary brachytherapy","384692006","SNOMED","Procedure",57,60
+4338312,"Operation on mitral leaflet","232756003","SNOMED","Procedure",57,58
+4025680,"Arthroscopy of knee with lysis of adhesions with manipulation","19540004","SNOMED","Procedure",56,57
+4051014,"Endarterectomy of external carotid artery","233297003","SNOMED","Procedure",56,57
+4089174,"Incision of nose","1854003","SNOMED","Procedure",56,64
+4118895,"Revision of prosthesis","288166008","SNOMED","Procedure",56,58
+4173721,"Operation on tarsal plate of eyelid","50238004","SNOMED","Procedure",56,61
+4183841,"Destruction of lesion of liver","5415002","SNOMED","Procedure",56,63
+4234743,"Implantation of cochlear prosthetic device","359612003","SNOMED","Procedure",56,160
+4308646,"Nipple reconstruction","387628008","SNOMED","Procedure",56,60
+4023268,"Anastomosis of ureter to urinary bladder","176024008","SNOMED","Procedure",55,56
+4023293,"Exploration of urinary bladder","176147007","SNOMED","Procedure",55,58
+4069862,"Partial excision of lip","173217007","SNOMED","Procedure",55,56
+4169785,"CT cholangiography with contrast","419995000","SNOMED","Procedure",55,66
+4218111,"Revision of scar of skin with excision","72013005","SNOMED","Procedure",55,61
+4265608,"Detorsion of ovary","61473007","SNOMED","Procedure",55,62
+4281511,"Excision of lesion of small intestine","66343001","SNOMED","Procedure",55,55
+4328722,"Incision and exploration of testis","7541006","SNOMED","Procedure",55,58
+40492380,"Retropubic urethral suspension","447384004","SNOMED","Procedure",55,57
+4070610,"Suture of gingiva","173347007","SNOMED","Procedure",54,54
+4233214,"Anal sphincterotomy","89770003","SNOMED","Procedure",54,54
+4251737,"Ventilator care management","410210009","SNOMED","Procedure",54,60
+4302979,"Blepharorrhaphy","388008","SNOMED","Procedure",54,70
+40487346,"Needle biopsy of salivary gland","446293007","SNOMED","Procedure",54,58
+40490002,"Arthroscopy of temporomandibular joint","448502003","SNOMED","Procedure",54,54
+4070609,"Gingivoplasty","173346003","SNOMED","Procedure",53,60
+4207050,"Cosmetic surgery","56306000","SNOMED","Procedure",53,70
+4273866,"Radical cystectomy","64063003","SNOMED","Procedure",53,53
+4337610,"Excision of bulla of lung","232651003","SNOMED","Procedure",53,55
+40490324,"Laparoscopic pyelolithotomy","446921005","SNOMED","Procedure",53,55
+44809616,"Laparoscopic left hemicolectomy","826211000000101","SNOMED","Procedure",53,53
+3655968,"Cryopreservation of spermatozoa","870572003","SNOMED","Procedure",52,79
+4010266,"Partial cystectomy","112902005","SNOMED","Procedure",52,56
+4019540,"Evacuation of intracerebral hematoma","10458001","SNOMED","Procedure",52,54
+4022011,"Thoracoscopic biopsy of pleura","116024005","SNOMED","Procedure",52,55
+4032155,"Evisceration","14509009","SNOMED","Procedure",52,52
+4210605,"Osteoplasty of clavicle","56413001","SNOMED","Procedure",52,53
+4293475,"Repair of entropion","37625005","SNOMED","Procedure",52,55
+4343012,"Cystoscopic replacement of ureteric stent","236195008","SNOMED","Procedure",52,119
+4030247,"Extracapsular extraction of lens","13793006","SNOMED","Procedure",51,51
+4098910,"Tubal occlusion","189234004","SNOMED","Procedure",51,51
+4142080,"Cemented prosthetic hemiarthroplasty of shoulder joint","265184004","SNOMED","Procedure",51,55
+4142397,"Vulvectomy and block dissection of inguinal lymph nodes","265613003","SNOMED","Procedure",51,51
+4144391,"Maxillary sinusotomy by intranasal approach","33939007","SNOMED","Procedure",51,51
+4223377,"Destruction of hemorrhoids by sclerotherapy","8422009","SNOMED","Procedure",51,51
+4327660,"Suture of laceration of sclera","75318004","SNOMED","Procedure",51,53
+4339388,"Bone graft to maxilla","88247001","SNOMED","Procedure",51,61
+1447651,"Repair of tendon with graft","1348289000","SNOMED","Procedure",50,53
+4050137,"Endarterectomy of abdominal aorta","233300008","SNOMED","Procedure",50,50
+4073391,"Removal of prosthesis from chest wall","177760003","SNOMED","Procedure",50,51
+4082706,"MRI of brain with functional imaging","241603006","SNOMED","Procedure",50,56
+4196934,"Biopsy of external ear","79620003","SNOMED","Procedure",50,50
+4212092,"Periprosthetic capsulotomy of breast","57554003","SNOMED","Procedure",50,63
+4217192,"Excision of nipple","72577009","SNOMED","Procedure",50,50
+4220237,"Advancement of eye muscle","82524009","SNOMED","Procedure",50,55
+4309648,"Hemiglossectomy","85124008","SNOMED","Procedure",50,52
+35622626,"Radionuclide imaging using radioisotope labeled leukocytes","764674001","SNOMED","Procedure",50,54
+4012925,"Operation on accessory sinus","112788002","SNOMED","Procedure",49,54
+4129201,"Plastic operation on the breast","237406004","SNOMED","Procedure",49,61
+4219346,"Meatoplasty of urethra","81977006","SNOMED","Procedure",49,51
+4287467,"Excision of thyroglossal duct fistula","397152003","SNOMED","Procedure",49,50
+1242753,"Attention to stoma","1287775006","SNOMED","Procedure",48,108
+4030660,"Operative procedure on digestive organ","107957009","SNOMED","Procedure",48,51
+4033087,"Drainage of ovarian cyst by vaginal approach","14646004","SNOMED","Procedure",48,58
+4034845,"Operation on urethra","15197002","SNOMED","Procedure",48,50
+4051932,"Procedure for arrhythmia","233154000","SNOMED","Procedure",48,48
+4075168,"Assisted breech delivery","177158008","SNOMED","Procedure",48,50
+4140091,"Excision of hydrocele of spermatic cord","32804000","SNOMED","Procedure",48,48
+4209904,"Revision of pacemaker electrode leads","55455004","SNOMED","Procedure",48,48
+4227277,"Arthroplasty of finger with synthetic joint prosthesis","87647009","SNOMED","Procedure",48,55
+4287693,"Partial glossectomy","68769000","SNOMED","Procedure",48,49
+4337605,"Lobectomy with bronchoplastic procedure","232640003","SNOMED","Procedure",48,48
+4127237,"Aspiration of ovarian cyst","236933004","SNOMED","Procedure",47,47
+40307721,"Removal of cerclage from cervix","149899004","SNOMED","Procedure",47,51
+43531553,"Laparoscopic bilateral oophorectomy","609275002","SNOMED","Procedure",47,47
+4072263,"Primary microdiscectomy of cervical intervertebral disc","178526006","SNOMED","Procedure",46,48
+4075890,"Partial maxillectomy","178422006","SNOMED","Procedure",46,46
+4130188,"Vaginal myomectomy","236902001","SNOMED","Procedure",46,46
+4287710,"Transposition of eye muscle","68845007","SNOMED","Procedure",46,47
+4327963,"Radioisotope study of endocrine system","7562007","SNOMED","Procedure",46,72
+40485989,"Debridement of upper limb","446032007","SNOMED","Procedure",46,50
+4049372,"Plasmapheresis","20720000","SNOMED","Procedure",45,204
+4066401,"Fiberoptic esophagoscopy and biopsy","173652009","SNOMED","Procedure",45,49
+4091623,"Surgical repair of lower extremity","188383006","SNOMED","Procedure",45,74
+4203771,"Total replacement of hip","52734007","SNOMED","Procedure",45,49
+4342019,"Partial epididymectomy","236343005","SNOMED","Procedure",45,46
+4075903,"Genioplasty","178492001","SNOMED","Procedure",44,44
+4079945,"Closed reduction of dislocation of temporomandibular joint","179632003","SNOMED","Procedure",44,53
+4321679,"Escharotomy","70177008","SNOMED","Procedure",44,47
+4011971,"Biopsy of middle ear","209055006","SNOMED","Procedure",43,51
+4137375,"Prosthetic replacement of lumbar intervertebral disc","425594003","SNOMED","Procedure",43,43
+4003384,"Chest wall reconstruction","120153004","SNOMED","Procedure",42,43
+4032408,"Removal of foreign body","10849003","SNOMED","Procedure",42,42
+4066910,"Thoracic surgical sympathectomy","171902006","SNOMED","Procedure",42,44
+4083597,"Laparotomy for staging of ovarian cancer","18412003","SNOMED","Procedure",42,43
+4097988,"Suture of female perineum","26799004","SNOMED","Procedure",42,42
+4220239,"Open biopsy of liver","82531008","SNOMED","Procedure",42,42
+4228824,"Reconstruction of mandible","88366003","SNOMED","Procedure",42,45
+4269222,"Repair of nasal septal perforation","63145008","SNOMED","Procedure",42,86
+4275747,"Subcutaneous implantation of cardiac pacemaker","65219008","SNOMED","Procedure",42,42
+4021093,"Ligation of short saphenous vein","175818007","SNOMED","Procedure",41,41
+4038335,"Operation on male genital system","11810009","SNOMED","Procedure",41,42
+4073702,"Endoscopic insertion of prostatic stent","176306003","SNOMED","Procedure",41,47
+4074018,"Marsupialization of lesion of vagina","176666008","SNOMED","Procedure",41,42
+4078220,"Incision of mediastinum","18936008","SNOMED","Procedure",41,42
+4120973,"Procedure on brain ventricular shunt","302325008","SNOMED","Procedure",41,56
+4125163,"Insertion of prosthesis into duodenum","235274003","SNOMED","Procedure",41,47
+4181623,"Excision of lesion of maxillary sinus","43071001","SNOMED","Procedure",41,43
+4195648,"Laparoscopic total splenectomy","314118002","SNOMED","Procedure",41,41
+4212613,"Operation on nasal septum","5781000","SNOMED","Procedure",41,46
+4244210,"Thoracoscopic pleurodesis","38506001","SNOMED","Procedure",41,44
+4269233,"Radical mastoidectomy","63186001","SNOMED","Procedure",41,46
+44811670,"Reconstruction of skull","905631000000100","SNOMED","Procedure",41,43
+4032929,"Operation on urinary bladder","14861000","SNOMED","Procedure",40,41
+4062876,"Stereotactic biopsy of brain","171491002","SNOMED","Procedure",40,44
+4073521,"Abdominal wall procedure","177853001","SNOMED","Procedure",40,41
+4163536,"Incision of lip","45495006","SNOMED","Procedure",40,40
+4178736,"Pelvic exenteration","52224004","SNOMED","Procedure",40,45
+4209601,"Prostatotomy by transurethral approach","56646001","SNOMED","Procedure",40,41
+4226830,"Exploration of superficial femoral artery","405390004","SNOMED","Procedure",40,41
+4237682,"Periprosthetic capsulectomy of breast","90991008","SNOMED","Procedure",40,43
+4289250,"Epididymectomy","36946006","SNOMED","Procedure",40,41
+4311112,"Decompression of cranial nerve","85947008","SNOMED","Procedure",40,68
+46270731,"Somatosensory evoked potential study","708691004","SNOMED","Procedure",40,43
+4059099,"Lysis of adhesions of ovary","21228001","SNOMED","Procedure",39,39
+4070758,"Excision of lesion of scrotum","21810005","SNOMED","Procedure",39,44
+4116917,"Augmentation of mammoplasty with prosthesis","287650005","SNOMED","Procedure",39,39
+4128030,"Delivery procedure","236973005","SNOMED","Procedure",39,39
+4183274,"Operation on diaphragm","53266006","SNOMED","Procedure",39,41
+4217238,"Radioisotope scan of bone","41747008","SNOMED","Procedure",39,41
+37311362,"Corneal collagen cross linking","816029007","SNOMED","Procedure",39,51
+4072855,"Open destruction of lesion of ovary","177018009","SNOMED","Procedure",38,38
+4077080,"Biopsy of chest wall","276191006","SNOMED","Procedure",38,45
+4092279,"Examination of urinary system","281011001","SNOMED","Procedure",38,111
+4111523,"Examination of male genitals","284370000","SNOMED","Procedure",38,111
+4199570,"Decompression of thoracic spine","302128004","SNOMED","Procedure",38,40
+4216250,"Excision of lesion of liver","72106008","SNOMED","Procedure",38,38
+4263351,"Hymenoptera hyposensitization therapy","361227009","SNOMED","Procedure",38,1326
+4271929,"Biopsy of anus","36488007","SNOMED","Procedure",38,39
+4302674,"Operation on conjunctiva","387746009","SNOMED","Procedure",38,46
+37165394,"Thoracoscopic excision of thymus using robotic assistance","1254744004","SNOMED","Procedure",38,38
+1447837,"Fluoroscopic percutaneous transhepatic cholangiography with contrast","1351772008","SNOMED","Procedure",37,40
+4017700,"Biopsy of lip","11570006","SNOMED","Procedure",37,38
+4040924,"Excision of benign neoplasm","118445002","SNOMED","Procedure",37,39
+4072191,"Nesbit's operation on penis","176533003","SNOMED","Procedure",37,37
+4074151,"Total vulvectomy","176597000","SNOMED","Procedure",37,43
+4076862,"Transplantation of liver","18027006","SNOMED","Procedure",37,38
+4209077,"Laparoscopic fixation of prolapse of rectum","440032004","SNOMED","Procedure",37,39
+4216567,"Excision of salivary gland","71735005","SNOMED","Procedure",37,43
+4217608,"Partial amputation of penis","8189008","SNOMED","Procedure",37,38
+4231506,"Thoracoscopy with partial pulmonary decortication","439309000","SNOMED","Procedure",37,37
+4243659,"Excision of lesion of peripheral nerve","59866006","SNOMED","Procedure",37,41
+4253785,"Synovectomy of tendon sheath of hand","74278002","SNOMED","Procedure",37,38
+4329458,"Removal of foreign body from thorax","22411004","SNOMED","Procedure",37,37
+4069034,"Excision of lesion of tongue","173358003","SNOMED","Procedure",36,36
+4072257,"Biopsy of lesion of mandible","178497007","SNOMED","Procedure",36,42
+4210151,"Human immunodeficiency virus counseling","313077009","SNOMED","Procedure",36,38
+4287321,"Thrombectomy of vein","397028007","SNOMED","Procedure",36,38
+42872835,"Excision of orbital fat herniation","450830002","SNOMED","Procedure",36,36
+4049682,"Insertion of thoracic aorta stent","233406003","SNOMED","Procedure",35,41
+4248130,"Hymenectomy","72757000","SNOMED","Procedure",35,36
+4300860,"Excision of lesion of lung","77648009","SNOMED","Procedure",35,38
+619308,"Administration of prophylactic antiviral","897017002","SNOMED","Procedure",34,116
+4072061,"Ritual circumcision","176561009","SNOMED","Procedure",34,34
+4079701,"Plain X-ray guidance","277673007","SNOMED","Procedure",34,42
+4172438,"Total pneumonectomy","49795001","SNOMED","Procedure",34,34
+4268341,"Exploration of tympanic cavity by transtympanic route","63027006","SNOMED","Procedure",34,35
+4302534,"Operation on lens","386612009","SNOMED","Procedure",34,37
+4333162,"Pars plana lensectomy","231750006","SNOMED","Procedure",34,34
+4021253,"Ureteroureterostomy","176028006","SNOMED","Procedure",33,48
+4097552,"Repair of tendon of hand by suture","26731003","SNOMED","Procedure",33,33
+4208846,"Excision of lesion of cranium","56569008","SNOMED","Procedure",33,33
+4314569,"Excision of lesion of colon","87279008","SNOMED","Procedure",33,33
+4071250,"Fasciotomy forearm","178071007","SNOMED","Procedure",32,33
+4075904,"Alveolar bone graft","178493006","SNOMED","Procedure",32,56
+4100913,"Decompression of radial nerve","300010007","SNOMED","Procedure",32,32
+4121414,"Closed reduction of zygomatic fracture","287963002","SNOMED","Procedure",32,32
+4174652,"Incision of hymen","50638005","SNOMED","Procedure",32,32
+4261947,"Thawing of cryopreserved oocyte","441222006","SNOMED","Procedure",32,43
+4324537,"Cryotherapy of ciliary body","71091006","SNOMED","Procedure",32,33
+4060043,"Excision of lesion of atrium","19979004","SNOMED","Procedure",31,31
+4066625,"Rigid esophagoscopy and biopsy","173671006","SNOMED","Procedure",31,31
+4101626,"Craniotomy","25353009","SNOMED","Procedure",31,32
+4123868,"Reconstruction of palate","287423007","SNOMED","Procedure",31,42
+4138872,"Uncemented total prosthetic arthroplasty of knee joint","265172001","SNOMED","Procedure",31,31
+4139011,"Goniopuncture","265293008","SNOMED","Procedure",31,49
+4229918,"Colocolostomy","89522007","SNOMED","Procedure",31,31
+4290106,"Incision of intestine","69191006","SNOMED","Procedure",31,32
+4327941,"Psychotherapy","75516001","SNOMED","Procedure",31,61
+4336764,"Atrial operation","233009003","SNOMED","Procedure",31,31
+37016988,"Craniofacial resection of nasal cavity","713159008","SNOMED","Procedure",31,35
+1244464,"Excision of female perineum","1287694006","SNOMED","Procedure",30,32
+4084585,"Maxillectomy","282435000","SNOMED","Procedure",30,32
+4094533,"Removal of internal fixation device from pelvis","26166006","SNOMED","Procedure",30,32
+4147839,"Laparoscopy with excision of lesion","30392007","SNOMED","Procedure",30,30
+4213128,"Urinary tract operations","392064002","SNOMED","Procedure",30,30
+4218755,"Revision of cerebral ventricular shunt","72912002","SNOMED","Procedure",30,43
+4223934,"Intracapsular cataract extraction","404628003","SNOMED","Procedure",30,30
+4296622,"Repair of chest wall","76835000","SNOMED","Procedure",30,30
+4325438,"Arthroplasty of wrist","71476000","SNOMED","Procedure",30,30
+40486199,"Arthroscopic release of capsule of knee joint","449246001","SNOMED","Procedure",30,30
+4002218,"Ureter reconstruction","119988007","SNOMED","Procedure",29,32
+4055495,"Biopsy of eyelid","196308007","SNOMED","Procedure",29,29
+4070472,"Pyloromyotomy","173788005","SNOMED","Procedure",29,29
+4076443,"Closed reduction of fracture of wrist","179173001","SNOMED","Procedure",29,31
+4079401,"Conversion to cemented total prosthetic shoulder replacement","179444007","SNOMED","Procedure",29,29
+4110247,"Biopsy of palate","18155007","SNOMED","Procedure",29,31
+4150737,"Eye prosthesis procedure","278939002","SNOMED","Procedure",29,32
+4160163,"Construction of cecostomy","398235007","SNOMED","Procedure",29,29
+4174389,"Operation on biliary tract","42560003","SNOMED","Procedure",29,29
+4195164,"Ophthalmic service or procedure","44426009","SNOMED","Procedure",29,32
+4217604,"Destruction of lesion of penis","81865002","SNOMED","Procedure",29,30
+4244431,"Suture of anal sphincter","59446006","SNOMED","Procedure",29,29
+4263480,"Suprapubic prostatectomy","36253005","SNOMED","Procedure",29,29
+4307652,"Incision of duodenum","83599002","SNOMED","Procedure",29,29
+4312734,"Closed reduction of fracture of hand","86053003","SNOMED","Procedure",29,31
+4347421,"Removal of bone from donor","240329007","SNOMED","Procedure",29,29
+4042327,"Procedure on bone of ankle","118737006","SNOMED","Procedure",28,28
+4069840,"Sclerectomy","17606004","SNOMED","Procedure",28,35
+4073424,"Trial of vacuum delivery","177176001","SNOMED","Procedure",28,28
+4117221,"Radical vulvectomy","287966005","SNOMED","Procedure",28,30
+4121436,"Bone reconstruction","288058001","SNOMED","Procedure",28,29
+4123434,"Aspiration of epididymis","303131009","SNOMED","Procedure",28,39
+4125325,"Pancreaticojejunostomy","235477008","SNOMED","Procedure",28,31
+4142959,"Fasciotomy thigh","264980004","SNOMED","Procedure",28,28
+4176323,"Insertion of stent into subclavian artery","428065001","SNOMED","Procedure",28,30
+4203428,"Prosthesis procedure for testis","308691005","SNOMED","Procedure",28,29
+4230527,"Repair of paraesophageal diaphragmatic hernia","359908007","SNOMED","Procedure",28,28
+4242750,"Repair of urinary stress incontinence","59661004","SNOMED","Procedure",28,28
+4246989,"Migraine prophylaxis","408381007","SNOMED","Procedure",28,47
+4290938,"Construction of median tarsorrhaphy","70599007","SNOMED","Procedure",28,36
+42537263,"Reconstruction of ear","736514007","SNOMED","Procedure",28,31
+4047082,"Implantation of insertable loop recorder","134367001","SNOMED","Procedure",27,27
+4050114,"Closure of ductus arteriosus with clip","233199008","SNOMED","Procedure",27,27
+4052846,"Repair of ruptured aneurysm of abdominal aorta with graft","23617000","SNOMED","Procedure",27,27
+4120786,"Repair of cleft lip","234647001","SNOMED","Procedure",27,29
+4129854,"Transposition of areola","237392007","SNOMED","Procedure",27,27
+4272933,"Injection of cranial nerve","63466006","SNOMED","Procedure",27,44
+4277927,"Excision of petrous apex cells","65886001","SNOMED","Procedure",27,28
+4340102,"Choledochoscopy","235549002","SNOMED","Procedure",27,31
+4067706,"Fiberoptic endoscopic removal of foreign body from trachea","173142006","SNOMED","Procedure",26,27
+4075430,"Exploratory open craniotomy","178373004","SNOMED","Procedure",26,30
+4141922,"Laparotomy and removal of foreign body from abdominal cavity","264969004","SNOMED","Procedure",26,27
+4145225,"Total colectomy and ileostomy","307666008","SNOMED","Procedure",26,26
+4145382,"Attachment of bone anchored hearing prosthesis","426733001","SNOMED","Procedure",26,31
+4165077,"Cesarean hysterectomy","41059002","SNOMED","Procedure",26,26
+4185734,"Repair of enterostomy","44148007","SNOMED","Procedure",26,27
+4192551,"Reconstruction of conjunctival cul-de-sac","39153002","SNOMED","Procedure",26,33
+4205529,"Extracapsular cataract extraction and insertion of intraocular lens","308694002","SNOMED","Procedure",26,26
+4217034,"Kidney biopsy","7246002","SNOMED","Procedure",26,30
+4234919,"Cryopreservation of oocyte","440645004","SNOMED","Procedure",26,40
+4275751,"Obstetrical version","65240009","SNOMED","Procedure",26,26
+4302080,"Harvesting of peripheral blood stem cells","418576007","SNOMED","Procedure",26,27
+4338234,"Excision of lesion of uterus","88218008","SNOMED","Procedure",26,26
+37016897,"Open reduction of intussusception of intestine","713046002","SNOMED","Procedure",26,29
+40486542,"Epiphysiodesis of femur","447763006","SNOMED","Procedure",26,31
+4068921,"Removal of foreign body from tonsil","173438003","SNOMED","Procedure",25,26
+4088084,"Low forceps delivery","18625004","SNOMED","Procedure",25,25
+4194514,"Thrombectomy of aortic arch","79025009","SNOMED","Procedure",25,25
+4272634,"Hemimandibulectomy","64356005","SNOMED","Procedure",25,26
+4287941,"Suture of liver","397238007","SNOMED","Procedure",25,25
+35622816,"Radionuclide imaging using radioisotope labeled monoclonal antibody","765015001","SNOMED","Procedure",25,28
+37158794,"Fitting of denture","1269321004","SNOMED","Procedure",25,26
+4066634,"Endoscopic dilation of duodenum","173874001","SNOMED","Procedure",24,25
+4141456,"Pancreatectomy","33149006","SNOMED","Procedure",24,25
+4161415,"Radionuclide therapy","399315003","SNOMED","Procedure",24,67
+4167173,"Removal of coronary artery obstruction","47338008","SNOMED","Procedure",24,24
+4168082,"Bone nailing","274478003","SNOMED","Procedure",24,24
+4202994,"Repair of diaphragmatic hernia by abdominal approach","52917009","SNOMED","Procedure",24,24
+4233625,"Resection of trachea","40583006","SNOMED","Procedure",24,41
+4279443,"Thoracoscopic biopsy of lung","66258007","SNOMED","Procedure",24,24
+37311675,"Plastic repair of aortic arch with tube graft","822991000","SNOMED","Procedure",24,24
+3657454,"Peritonectomy","1219101000000100","SNOMED","Procedure",23,23
+4019226,"Ligation of patent ductus arteriosus","175212004","SNOMED","Procedure",23,23
+4019228,"Transluminal closure of ductus arteriosus with prosthesis","175218000","SNOMED","Procedure",23,24
+4022794,"Open cannulation of vein","175863008","SNOMED","Procedure",23,23
+4049832,"Insertion of peripheral venous cannula into peripheral vein","233520008","SNOMED","Procedure",23,23
+4087552,"Operative procedure on femur","24464004","SNOMED","Procedure",23,23
+4117066,"Reconstruction of urethra","287762004","SNOMED","Procedure",23,28
+4144861,"Drainage of pericardium","265487002","SNOMED","Procedure",23,23
+4185284,"Removal of thrombus","43810009","SNOMED","Procedure",23,24
+4185578,"Operation on parathyroid gland","43882005","SNOMED","Procedure",23,24
+4243919,"Incision of ovary","38192004","SNOMED","Procedure",23,23
+4272937,"Assisted fertilization","63487001","SNOMED","Procedure",23,34
+4308888,"Resuture of wound of skin","83550001","SNOMED","Procedure",23,26
+4309374,"Implantation of electronic stimulator of spine","84448004","SNOMED","Procedure",23,35
+4331908,"Exploration of popliteal artery","2276001","SNOMED","Procedure",23,23
+4013567,"Microvascular decompression surgery of cranial nerve","103726002","SNOMED","Procedure",22,25
+4017330,"Attention to ileostomy","173984004","SNOMED","Procedure",22,44
+4032631,"Laparoscopic biopsy of liver","15050001","SNOMED","Procedure",22,22
+4050864,"Hemofiltration","233581009","SNOMED","Procedure",22,125
+4071388,"Distant muscle microvascular free flap","178220001","SNOMED","Procedure",22,22
+4218467,"Thromboendarterectomy of upper limb artery","72396009","SNOMED","Procedure",22,33
+4233827,"Biopsy of lymphatic structure","90807000","SNOMED","Procedure",22,26
+4253787,"Diverticulectomy of esophagus","74284004","SNOMED","Procedure",22,25
+4337049,"Insertion of endobronchial blocker","232688000","SNOMED","Procedure",22,22
+4339949,"Removal of heart from donor","232975000","SNOMED","Procedure",22,22
+42872710,"Repair of brachial artery","450702008","SNOMED","Procedure",22,24
+46272459,"Assessment of health and social care needs","710824005","SNOMED","Procedure",22,22
+4028897,"Urethra excision","108039008","SNOMED","Procedure",21,38
+4030165,"Diaphragm excision","108184008","SNOMED","Procedure",21,22
+4043182,"Procedure on digestive tract","118826000","SNOMED","Procedure",21,29
+4048702,"Ureterolysis","15761001","SNOMED","Procedure",21,21
+4048938,"Removal of shunt tubing from ventricle of brain","230879004","SNOMED","Procedure",21,26
+4067693,"Anastomosis main bile duct to duodenum","174561006","SNOMED","Procedure",21,21
+4127779,"Closure of fistula of cerebrospinal fluid","260397005","SNOMED","Procedure",21,23
+4165739,"Subtotal parathyroidectomy","41237009","SNOMED","Procedure",21,22
+4173615,"Incision of uterus","42253005","SNOMED","Procedure",21,21
+4181208,"Paracentesis of eye","363255004","SNOMED","Procedure",21,22
+4183321,"Cryopexy","4344007","SNOMED","Procedure",21,25
+4217482,"Amputation","81723002","SNOMED","Procedure",21,22
+4229243,"Fluorescent stain method","406858009","SNOMED","Procedure",21,21
+4290511,"Anastomosis of colon to rectum","70243005","SNOMED","Procedure",21,21
+4301342,"Exploration of kidney","387663003","SNOMED","Procedure",21,21
+37016979,"Application of hemostatic agent","713147009","SNOMED","Procedure",21,22
+46270896,"Laparoscopic cardiomyotomy","708890001","SNOMED","Procedure",21,22
+4013347,"Suture of flexor tendon of hand","112756005","SNOMED","Procedure",20,21
+4032621,"Evacuation of retained product of conception","236883005","SNOMED","Procedure",20,20
+4061603,"Extracorporeal shockwave lithotripsy of ureter","20042009","SNOMED","Procedure",20,20
+4079402,"Uncemented prosthetic total arthroplasty of shoulder joint","179447000","SNOMED","Procedure",20,20
+4120976,"Excision of middle ear polyp","302345000","SNOMED","Procedure",20,22
+4143045,"Radical excision of periaortic lymph nodes","33424003","SNOMED","Procedure",20,20
+4148781,"Incision of palate","30683004","SNOMED","Procedure",20,26
+4160418,"Mechanical prosthetic mitral valve replacement","431339008","SNOMED","Procedure",20,20
+4178013,"Percutaneous transluminal ablation","428389001","SNOMED","Procedure",20,20
+4233291,"Laparoscopic fimbrioplasty","439832009","SNOMED","Procedure",20,20
+4267594,"Anastomosis of ureter","62779009","SNOMED","Procedure",20,20
+4301336,"Thoracoplasty procedure","387640008","SNOMED","Procedure",20,25
+45763838,"Radium 223 brachytherapy","700357007","SNOMED","Procedure",20,92
+46270686,"Thoracoscopic repair of congenital diaphragmatic hernia","708641003","SNOMED","Procedure",20,22
+4028623,"Transplantation of bone marrow","23719005","SNOMED","Procedure",19,19
+4069480,"Biopsy of lesion of maxillary antrum","172865007","SNOMED","Procedure",19,21
+4074831,"Excision of urachus","177923007","SNOMED","Procedure",19,19
+4081380,"Peripheral blood stem cell transplantation","278257006","SNOMED","Procedure",19,19
+4166929,"Biopsy of artery","274373006","SNOMED","Procedure",19,19
+4182228,"Operation on ossicular chain of middle ear","54193009","SNOMED","Procedure",19,24
+4183741,"Excision of lesion of mediastinum","43508000","SNOMED","Procedure",19,19
+4210480,"Nerve block","56333001","SNOMED","Procedure",19,19
+4213796,"Rhinoplasty of nasal deformity","415302008","SNOMED","Procedure",19,20
+4236632,"Lengthening of tendon of hand","90650008","SNOMED","Procedure",19,19
+4238206,"Segmental osteotomy of mandible","57416001","SNOMED","Procedure",19,21
+4258614,"Dilation of trachea","40916003","SNOMED","Procedure",19,32
+4293870,"Phacoemulsification of lens and insertion of intraocular lens","401306006","SNOMED","Procedure",19,19
+37154360,"Laparoscopic dissection of para-aortic lymph node group","1268346007","SNOMED","Procedure",19,19
+42536901,"Fitting of external breast prosthesis","735926002","SNOMED","Procedure",19,23
+44790210,"Testicular sperm extraction","229971000000102","SNOMED","Procedure",19,26
+44812239,"Ultrasound guided brachytherapy of prostate","911851000000106","SNOMED","Procedure",19,19
+760720,"Excision of mass of pelvic region","11550001000004102","SNOMED","Procedure",18,18
+761010,"Open reduction of fracture of ankle with internal fixation","13170001000004103","SNOMED","Procedure",18,18
+4073860,"Operation on varicocele","176498007","SNOMED","Procedure",18,18
+4142398,"Complete colpocleisis","265618007","SNOMED","Procedure",18,18
+4146078,"Incision of kidney","35157006","SNOMED","Procedure",18,18
+4205231,"Arthroscopic debridement of knee joint","309438003","SNOMED","Procedure",18,22
+4213306,"Operation on canthus","80671000","SNOMED","Procedure",18,18
+4213409,"Cartilage graft","392323002","SNOMED","Procedure",18,21
+4239208,"Eye examination under anesthesia","91177008","SNOMED","Procedure",18,19
+4248147,"Biopsy of temporal artery","72821000","SNOMED","Procedure",18,18
+4248955,"Induction of labor by artificial rupture of membranes","408818004","SNOMED","Procedure",18,18
+4260104,"Laparoscopic construction of gastric stoma","440078007","SNOMED","Procedure",18,18
+4285891,"Trephination of cranium","67864003","SNOMED","Procedure",18,18
+4327488,"Repair of aneurysm","75087007","SNOMED","Procedure",18,18
+36684416,"Ultrasonography of groin and scrotum","13221000087107","SNOMED","Procedure",18,18
+37108568,"Endoscopic submucosal dissection of gastrointestinal tract","10391000132108","SNOMED","Procedure",18,18
+37394520,"Endoscopic insertion of airway stent","1034201000000108","SNOMED","Procedure",18,23
+619762,"Implantation of neurostimulator into nerve","897712004","SNOMED","Procedure",17,17
+4024656,"Transfusion of blood product","116859006","SNOMED","Procedure",17,22
+4034524,"Direct laryngoscopy with excision of tumor","11377005","SNOMED","Procedure",17,18
+4044027,"Procedure on bone of pelvis","129192002","SNOMED","Procedure",17,17
+4049734,"Banding of pulmonary artery","15648005","SNOMED","Procedure",17,19
+4070230,"Browlift","177246004","SNOMED","Procedure",17,23
+4074138,"Complete amputation of penis","176524000","SNOMED","Procedure",17,17
+4107572,"Posterior exenteration of pelvis","180056004","SNOMED","Procedure",17,17
+4129188,"Excision of accessory breast","237369007","SNOMED","Procedure",17,18
+4246527,"Insertion of prosthetic device into biliary tract","60312000","SNOMED","Procedure",17,17
+4262433,"Excision of lesion of ovary","35887003","SNOMED","Procedure",17,17
+4296161,"Dacryoadenotomy","7613004","SNOMED","Procedure",17,20
+4299600,"Iridotomy","386607008","SNOMED","Procedure",17,17
+4321828,"Transplantation of ureter","70353009","SNOMED","Procedure",17,18
+4324536,"Muscle graft","71081000","SNOMED","Procedure",17,18
+4335868,"Subretinal membranectomy","231773003","SNOMED","Procedure",17,17
+35622454,"Radionuclide imaging of myocardium using technetium (99m-Tc) pyrophosphate","764139003","SNOMED","Procedure",17,17
+40482949,"Insertion of vagal nerve stimulator","445319001","SNOMED","Procedure",17,18
+40486467,"Laparoscopic nephropexy","446126004","SNOMED","Procedure",17,17
+40492244,"Endoscopic dilation of small intestine","445716005","SNOMED","Procedure",17,24
+44782864,"Replacement of pulse generator of automatic cardioverter/defibrillator","698863008","SNOMED","Procedure",17,17
+4031777,"Removal of peritoneal dialysis catheter","10848006","SNOMED","Procedure",16,16
+4061543,"Special dosimetry","1699009","SNOMED","Procedure",16,145
+4072058,"Biopsy of penis","176557003","SNOMED","Procedure",16,17
+4126114,"PFR - Pelvic floor repair","236501004","SNOMED","Procedure",16,16
+4150831,"Biopsy of trachea","31232000","SNOMED","Procedure",16,16
+4174964,"Biopsy of ovary","4849008","SNOMED","Procedure",16,17
+4185100,"Arthrotomy of temporomandibular joint","43578004","SNOMED","Procedure",16,18
+4208261,"Partial urethrectomy","55022000","SNOMED","Procedure",16,16
+4216485,"Removal of internal cardiac defibrillator","395224001","SNOMED","Procedure",16,16
+4231192,"Biopsy of kidney using ultrasound guidance","438813007","SNOMED","Procedure",16,17
+4270363,"Removal of cardiac pacemaker","62881002","SNOMED","Procedure",16,16
+4286807,"Total pancreaticoduodenectomy","69036001","SNOMED","Procedure",16,16
+4299185,"Removal of ectopic pregnancy from fallopian tube","387615001","SNOMED","Procedure",16,16
+4338539,"Cyclodialysis","881009","SNOMED","Procedure",16,79
+40482195,"Arthroplasty of temporomandibular joint","442117004","SNOMED","Procedure",16,18
+4041266,"Procedure on lymphatic system","118688003","SNOMED","Procedure",15,20
+4044888,"Procedure on bone of forearm","129184006","SNOMED","Procedure",15,16
+4049119,"Reduction of fracture","122859005","SNOMED","Procedure",15,16
+4067713,"Bilobectomy of lung","173170008","SNOMED","Procedure",15,15
+4067825,"Removal of foreign body from orbit","172173000","SNOMED","Procedure",15,15
+4081837,"Excision of pleural lesion","278294002","SNOMED","Procedure",15,15
+4105082,"Removal of thrombus from thoracic artery","25558001","SNOMED","Procedure",15,15
+4122596,"Suture of cheek","234920008","SNOMED","Procedure",15,15
+4144552,"Uncemented prosthetic hemiarthroplasty of shoulder joint","265185003","SNOMED","Procedure",15,16
+4164726,"Mediastinoscopy with biopsy","45334006","SNOMED","Procedure",15,15
+4171183,"Endoscopy of esophagus","49230008","SNOMED","Procedure",15,23
+4196167,"MRI of fetus","431407000","SNOMED","Procedure",15,15
+4213312,"Repair of larynx","80694004","SNOMED","Procedure",15,17
+4229284,"Excision of lesion of larynx","88623004","SNOMED","Procedure",15,15
+4234544,"Frontal sinusotomy with trephine","90240003","SNOMED","Procedure",15,17
+4324451,"Biopsy of ureter","429894001","SNOMED","Procedure",15,15
+4337385,"Exploration of carotid artery","87314005","SNOMED","Procedure",15,15
+37153525,"Injection of drug or medicament into tendon","1217550004","SNOMED","Procedure",15,15
+44808935,"Wide re-excision of local recurrence of breast tumour","851221000000104","SNOMED","Procedure",15,15
+1447443,"Percutaneous transluminal angioplasty with insertion of stent into aorta using fluoroscopic guidance with contrast","1344829003","SNOMED","Procedure",14,16
+4024115,"Destruction of lesion of vagina","19613007","SNOMED","Procedure",14,14
+4032566,"Segmental osteotomy of maxilla","10871008","SNOMED","Procedure",14,14
+4044367,"Procedure on bone of foot","129207007","SNOMED","Procedure",14,14
+4067254,"Biopsy of lesion of nasal septum","172792007","SNOMED","Procedure",14,15
+4068309,"Biopsy of orbital lesion","172171003","SNOMED","Procedure",14,16
+4113529,"Removal of foreign body from mouth","300231003","SNOMED","Procedure",14,14
+4126771,"Minor salivary gland operation","234942009","SNOMED","Procedure",14,18
+4146626,"Exploration of brachial artery","307630007","SNOMED","Procedure",14,14
+4149348,"Cholecystostomy","35241000","SNOMED","Procedure",14,15
+4149741,"Total abdominal colectomy with proctectomy and ileostomy","31130001","SNOMED","Procedure",14,14
+4164745,"Closed reduction of fracture of foot","4542005","SNOMED","Procedure",14,14
+4168523,"Electrolysis of eyelash","274996002","SNOMED","Procedure",14,16
+4178606,"Partial ureterectomy","52149005","SNOMED","Procedure",14,14
+4216997,"Amputation of penis","80855002","SNOMED","Procedure",14,15
+4223228,"Bronchoscopy with bronchial dilation","84041000","SNOMED","Procedure",14,21
+4266515,"Incision of penis","62324004","SNOMED","Procedure",14,14
+4295736,"Incision of salivary gland","7647001","SNOMED","Procedure",14,14
+4339614,"Pleuropneumonectomy","232645008","SNOMED","Procedure",14,14
+4346304,"Debridement of tendon","239231007","SNOMED","Procedure",14,15
+4001543,"Fallopian tube endoscopy","120058006","SNOMED","Procedure",13,14
+4031344,"Excision of ureterocele","14250000","SNOMED","Procedure",13,13
+4046932,"Deep brain stimulation","230861003","SNOMED","Procedure",13,13
+4094075,"Repair of vaginal fistula","25983007","SNOMED","Procedure",13,17
+4107087,"Cemented prosthetic total arthroplasty of elbow joint","179948000","SNOMED","Procedure",13,15
+4120666,"Conjunctival biopsy","303636000","SNOMED","Procedure",13,13
+4125170,"Removal of foreign body from small intestine","235297000","SNOMED","Procedure",13,13
+4126179,"Posterolateral thoracotomy","261169004","SNOMED","Procedure",13,13
+4127478,"Anterolateral thoracotomy","261492007","SNOMED","Procedure",13,13
+4139012,"Reconstruction of external auditory canal","265303002","SNOMED","Procedure",13,17
+4168628,"Excision of lesion of pancreas","47789005","SNOMED","Procedure",13,15
+4215600,"Marsupialization of ovarian cyst","80629001","SNOMED","Procedure",13,13
+4216191,"Excision of vaginal septum","81434000","SNOMED","Procedure",13,13
+4263590,"Amputation of hand","46028000","SNOMED","Procedure",13,14
+4279916,"Lysis of adhesions of fallopian tube","65852005","SNOMED","Procedure",13,13
+4301352,"Operation on lung","387714009","SNOMED","Procedure",13,13
+4336914,"Bronchoscopic placement of stent","232602001","SNOMED","Procedure",13,14
+40482207,"Renewal of prosthesis of breast","442128000","SNOMED","Procedure",13,15
+4012461,"Repair of diaphragmatic hernia","112977000","SNOMED","Procedure",12,12
+4047237,"Suture of laceration of chest wall","13123005","SNOMED","Procedure",12,12
+4048438,"Endarterectomy of coronary artery","20738002","SNOMED","Procedure",12,14
+4053188,"Hemisection of tooth","23580000","SNOMED","Procedure",12,13
+4075178,"Oxytocin induction of labor","177135005","SNOMED","Procedure",12,12
+4079653,"Uncemented unicompartmental knee replacement","179407007","SNOMED","Procedure",12,13
+4107428,"Uncemented prosthetic total arthroplasty of ankle joint","179971003","SNOMED","Procedure",12,13
+4147545,"Excision of urethral diverticulum","30331002","SNOMED","Procedure",12,12
+4164731,"Insertion of pessary into vagina","45372001","SNOMED","Procedure",12,45
+4203425,"Prosthetic arthroplasty of elbow","308682006","SNOMED","Procedure",12,12
+4231709,"Repair of lung","89862001","SNOMED","Procedure",12,12
+4248822,"Excisional debridement of burn","40872008","SNOMED","Procedure",12,12
+4282460,"Intrauterine cordocentesis","6708002","SNOMED","Procedure",12,50
+4326580,"Suture of rectum","75108001","SNOMED","Procedure",12,13
+4337206,"Prosthetic replacement of atrioventricular valve chordae tendinae","232893000","SNOMED","Procedure",12,12
+4339288,"Removal of coronary artery thrombus","8831004","SNOMED","Procedure",12,12
+4343801,"Hemimaxillectomy","239338004","SNOMED","Procedure",12,13
+37017256,"Suture of extensor tendon of hand","713500005","SNOMED","Procedure",12,13
+43531093,"Laparoscopic repair of femoral hernia","608789001","SNOMED","Procedure",12,12
+4028914,"Nuclear medicine diagnostic procedure on cardiovascular system","108294005","SNOMED","Procedure",11,11
+4067135,"Meatoplasty of external ear","172608009","SNOMED","Procedure",11,13
+4070398,"Open reduction of fracture of foot","21570007","SNOMED","Procedure",11,11
+4143686,"Pulmonary thromboendarterectomy","426900002","SNOMED","Procedure",11,11
+4159949,"Surgical procedure on soft tissue","373351007","SNOMED","Procedure",11,11
+4240817,"Incision of lymph node","58073007","SNOMED","Procedure",11,11
+4241048,"Colotomy","9215005","SNOMED","Procedure",11,11
+4243808,"Laryngopharyngectomy","60041003","SNOMED","Procedure",11,11
+4262950,"Total abdominal colectomy with ileoproctostomy","36192008","SNOMED","Procedure",11,11
+4264289,"Amputation of ankle","397218006","SNOMED","Procedure",11,12
+4267117,"Frontal sinusectomy","618007","SNOMED","Procedure",11,12
+4275736,"Revision of implantable intravenous infusion pump","65168002","SNOMED","Procedure",11,23
+4280658,"Vaginectomy","65756000","SNOMED","Procedure",11,11
+4295140,"Injection of knee","76449004","SNOMED","Procedure",11,16
+4310657,"Total wrist replacement","85476000","SNOMED","Procedure",11,11
+4332510,"Biopsy of retroperitoneum","430212007","SNOMED","Procedure",11,11
+4334487,"Transanal resection of rectum and anastomosis using staples","430798009","SNOMED","Procedure",11,11
+4337138,"Transplant of lung","88039007","SNOMED","Procedure",11,22
+37153174,"Male hypospadias repair","1208764008","SNOMED","Procedure",11,11
+37158404,"Invasive mechanical ventilation","1258985005","SNOMED","Procedure",11,310
+40486003,"Ultrasonography by transrectal approach","446045006","SNOMED","Procedure",11,11
+46270674,"Laparoscopic excision of small intestine","708627007","SNOMED","Procedure",11,11
+4003219,"Injection of urinary bladder","119990008","SNOMED","Procedure",10,21
+4021570,"Radical cystoprostatourethrectomy","176106009","SNOMED","Procedure",10,10
+4051163,"Insertion of stent into vein","233434005","SNOMED","Procedure",10,11
+4110974,"Temporary operation","180862005","SNOMED","Procedure",10,10
+4112234,"Endoscopy of pancreas","255229001","SNOMED","Procedure",10,11
+4118094,"Reattachment of finger","302496002","SNOMED","Procedure",10,10
+4121859,"External fixation of bone","257838009","SNOMED","Procedure",10,10
+4129198,"Microdochectomy","237400005","SNOMED","Procedure",10,10
+4139773,"Implantation of neurostimulator in spine","3270004","SNOMED","Procedure",10,10
+4143164,"Correction of trichiasis by epilation with cryotherapy","33474001","SNOMED","Procedure",10,10
+4144062,"Intravenous infusion of thrombolytic","307521008","SNOMED","Procedure",10,10
+4144197,"Laparoscopic marsupialization of liver cyst","307621004","SNOMED","Procedure",10,14
+4146025,"Exploration of iliac artery","307631006","SNOMED","Procedure",10,10
+4148446,"Reconstructive repair of pectus carinatum","30735008","SNOMED","Procedure",10,11
+4173589,"Direct laryngoscopy with biopsy","5019003","SNOMED","Procedure",10,10
+4181800,"Maze procedure for atrial fibrillation","429211003","SNOMED","Procedure",10,10
+4192247,"Operation on rectum","74971002","SNOMED","Procedure",10,10
+4268746,"Excision of ranula of sublingual gland","62187000","SNOMED","Procedure",10,11
+4276189,"Suture of scrotum","64632001","SNOMED","Procedure",10,10
+4279393,"Pyelolithotomy","36732002","SNOMED","Procedure",10,10
+4287259,"Repair of diaphragm","69455007","SNOMED","Procedure",10,10
+4287998,"Fitting of prosthesis","69406003","SNOMED","Procedure",10,19
+4304998,"Excision of lesion of adrenal gland","81731007","SNOMED","Procedure",10,10
+4311023,"Revision of stoma of trachea","392168001","SNOMED","Procedure",10,11
+4314771,"Biopsy of urethra","217136007","SNOMED","Procedure",10,10
+4324546,"Suture of esophagus","71145001","SNOMED","Procedure",10,11
+40479651,"Endovascular insertion of stent graft","441598001","SNOMED","Procedure",10,11
+40487569,"Fusion of joint of cervical spine with internal fixation by anterior approach","448024006","SNOMED","Procedure",10,10
+45766884,"Reimplantation of inferior mesenteric artery","704142001","SNOMED","Procedure",10,10
+4010018,"Proctopexy","10259007","SNOMED","Procedure",9,9
+4019661,"Live donor nephrectomy","175911000","SNOMED","Procedure",9,9
+4031451,"Reconstruction of chest wall with local flap","238339002","SNOMED","Procedure",9,9
+4034327,"Replantation of multiple fingers","239599005","SNOMED","Procedure",9,9
+4050139,"Endarterectomy of superior mesenteric artery","233303005","SNOMED","Procedure",9,9
+4065438,"Transsternal thymectomy","172011006","SNOMED","Procedure",9,9
+4067021,"Cryotherapy of conjunctival lesion","172384001","SNOMED","Procedure",9,9
+4070688,"Mechanical open pleurodesis","177798003","SNOMED","Procedure",9,9
+4080349,"Mastoidotomy","18223002","SNOMED","Procedure",9,9
+4119274,"Augmentation mammoplasty","22890008","SNOMED","Procedure",9,10
+4121234,"Removal of rectum foreign body","287785003","SNOMED","Procedure",9,9
+4137609,"Reconstruction of penis","32559005","SNOMED","Procedure",9,12
+4143510,"Vaginal buttress operation","265574005","SNOMED","Procedure",9,9
+4163968,"Operation on thymus","45589008","SNOMED","Procedure",9,9
+4165348,"Implantation of penile prosthesis","47411002","SNOMED","Procedure",9,9
+4183842,"Incision of liver","54153006","SNOMED","Procedure",9,10
+4231751,"Median sternotomy","359672006","SNOMED","Procedure",9,9
+4240976,"Canthotomy","59077004","SNOMED","Procedure",9,9
+4243629,"Reduction of fracture of skull","38071001","SNOMED","Procedure",9,9
+4252234,"Repair of gastroschisis","73713008","SNOMED","Procedure",9,9
+4273546,"Operation on facial bone","63769003","SNOMED","Procedure",9,9
+4273761,"Excision of mandible","367477001","SNOMED","Procedure",9,10
+4294825,"Urinary cystotomy for excision of bladder diverticulum","75924001","SNOMED","Procedure",9,9
+4299735,"Fetal procedure","386811000","SNOMED","Procedure",9,23
+4302750,"Transplantation of parathyroid","78546002","SNOMED","Procedure",9,9
+4312749,"Operation on appendix","8613002","SNOMED","Procedure",9,9
+4328495,"Cranial neuroanastomosis","75262005","SNOMED","Procedure",9,9
+4338744,"Biopsy of vitreous","231754002","SNOMED","Procedure",9,10
+4342523,"Suture of bile duct","235534005","SNOMED","Procedure",9,10
+40483096,"Bypass of stomach","442338001","SNOMED","Procedure",9,9
+4010357,"Incision of ureter","10255001","SNOMED","Procedure",8,8
+4023136,"Ultrasonography of liver","105377009","SNOMED","Procedure",8,8
+4035162,"Nephropexy","15067008","SNOMED","Procedure",8,8
+4035620,"Truncal vagotomy","15213007","SNOMED","Procedure",8,8
+4047234,"Operation on adrenal gland","13119002","SNOMED","Procedure",8,8
+4061841,"Piercing of external ear","200849007","SNOMED","Procedure",8,12
+4067128,"Cryotherapy to lesion of retina","172565003","SNOMED","Procedure",8,8
+4070457,"Operation on extraocular muscle","17639001","SNOMED","Procedure",8,8
+4071109,"Biopsy of lesion of anterior abdominal wall","177930001","SNOMED","Procedure",8,8
+4074293,"Non-obstetric encircling suture of cervical os","176785004","SNOMED","Procedure",8,8
+4074562,"Endoscopic biopsy of fallopian tube","177000006","SNOMED","Procedure",8,8
+4109007,"Repair of small intestine fistula","18047003","SNOMED","Procedure",8,8
+4109727,"Operative endoscopy of biliary tract","194091003","SNOMED","Procedure",8,8
+4118091,"Prosthetic replacement of temporomandibular joint","302478006","SNOMED","Procedure",8,8
+4144580,"Cortical mastoidectomy","265306005","SNOMED","Procedure",8,9
+4144800,"Laparoscopic gastroenterostomy","307195003","SNOMED","Procedure",8,8
+4190437,"Removal of foreign body from maxillary sinus","39464006","SNOMED","Procedure",8,8
+4230370,"Total glossectomy","359703006","SNOMED","Procedure",8,8
+4261015,"Maxillary sinusotomy","410755003","SNOMED","Procedure",8,8
+4303062,"Biopsy of lung","78603008","SNOMED","Procedure",8,8
+4303853,"Axillary-femoral arterial bypass","388997005","SNOMED","Procedure",8,8
+4338441,"Operation on aortic valve cusp","232822000","SNOMED","Procedure",8,8
+4339494,"Biopsy of nasopharynx","232539009","SNOMED","Procedure",8,8
+35608106,"Radionuclide imaging using lilotomab satetraxetan (177-Lu)","764834005","SNOMED","Procedure",8,29
+37158185,"Laparoscopic tubotubal anastomosis","1255363008","SNOMED","Procedure",8,13
+37208338,"Electromagnetic navigation bronchoscopy","1081101000112106","SNOMED","Procedure",8,8
+40480531,"Excision of neoplasm of chest wall including rib","443190008","SNOMED","Procedure",8,8
+45766060,"Reversal of sterilization","703147003","SNOMED","Procedure",8,8
+46270642,"Laparoscopic wedge resection of liver","708590009","SNOMED","Procedure",8,8
+606227,"Excision of lesion of chest wall and reconstruction with prosthesis","1144496008","SNOMED","Procedure",7,9
+1244506,"Radical amputation of cervix uteri","1287897002","SNOMED","Procedure",7,8
+4012185,"Cardiovascular surgical procedure","112802009","SNOMED","Procedure",7,7
+4021414,"Cystoscopy and laser destruction of lesion of urinary bladder","176162009","SNOMED","Procedure",7,8
+4042504,"Procedure on extremity","118949002","SNOMED","Procedure",7,7
+4045952,"Excision of intracranial arteriovenous malformation","230905005","SNOMED","Procedure",7,7
+4049675,"Repair of aneurysm of aorta","233370007","SNOMED","Procedure",7,7
+4052116,"Endarterectomy of brachial artery","233299000","SNOMED","Procedure",7,7
+4073427,"Percutaneous fetal procedure","177100008","SNOMED","Procedure",7,7
+4097985,"Cryotherapy","26782000","SNOMED","Procedure",7,8
+4099484,"Removal of transvenous electrodes","27443008","SNOMED","Procedure",7,7
+4099989,"Dental alveoplasty","25325009","SNOMED","Procedure",7,7
+4115487,"Bronchoscopic electrocoagulation","287435006","SNOMED","Procedure",7,7
+4155600,"Removal of scleral buckle","371394007","SNOMED","Procedure",7,7
+4163842,"Intracranial endoscopy","45350003","SNOMED","Procedure",7,7
+4180860,"Catheterization of ureter","53248001","SNOMED","Procedure",7,7
+4185622,"Extraocular muscle resection","414170000","SNOMED","Procedure",7,7
+4185828,"Incision of fallopian tube","55771003","SNOMED","Procedure",7,7
+4194172,"Retropubic prostatectomy","67598001","SNOMED","Procedure",7,7
+4200684,"Endoscopy of small intestine through artificial stoma","53402007","SNOMED","Procedure",7,7
+4203621,"Suture of urethra","52512007","SNOMED","Procedure",7,7
+4206164,"Dacryocystectomy","55272009","SNOMED","Procedure",7,7
+4229994,"Percutaneous transluminal septal myocardial ablation","437746009","SNOMED","Procedure",7,7
+4238824,"Incision of vagina","57200001","SNOMED","Procedure",7,7
+4240107,"Repair of blepharoptosis by levator muscle technique","57990001","SNOMED","Procedure",7,8
+4244381,"Thromboendarterectomy of abdominal artery","38260008","SNOMED","Procedure",7,7
+4246185,"Female sterilization","60890002","SNOMED","Procedure",7,7
+4280205,"Traction","66391000","SNOMED","Procedure",7,7
+4328205,"Operative procedure on anterior segment of eye","75787004","SNOMED","Procedure",7,7
+4336544,"Operation on trachea","86800006","SNOMED","Procedure",7,8
+4343345,"Le Fort II osteotomy","239300003","SNOMED","Procedure",7,7
+4343570,"Biopsy of lesion of maxilla","239347007","SNOMED","Procedure",7,8
+42872711,"Repair of iliac artery","450703003","SNOMED","Procedure",7,7
+1245979,"Thrombectomy of inferior vena cava","1956051000000103","SNOMED","Procedure",6,6
+1447411,"Grafting of tissue to lower leg","1344717003","SNOMED","Procedure",6,6
+4020344,"Ureteroenterostomy","1163003","SNOMED","Procedure",6,8
+4029419,"Reconstruction of abdominal wall using flap","238213003","SNOMED","Procedure",6,6
+4047947,"Complete parathyroidectomy","12330002","SNOMED","Procedure",6,6
+4049958,"Wedge resection of tongue","21034004","SNOMED","Procedure",6,6
+4072697,"Removal of foreign body from vagina","176738005","SNOMED","Procedure",6,6
+4100718,"Thoracoscopic pneumonectomy","25321000","SNOMED","Procedure",6,6
+4107097,"Replantation of hand","179989002","SNOMED","Procedure",6,6
+4108866,"Fitting of lower limb prosthesis","180373008","SNOMED","Procedure",6,23
+4142380,"Plastic repair of mitral valve","265472007","SNOMED","Procedure",6,6
+4158899,"Extraocular muscle myotomy","274010005","SNOMED","Procedure",6,8
+4163524,"Intrauterine transfusion","45460008","SNOMED","Procedure",6,22
+4189517,"Ultrasonic guidance procedure","61593002","SNOMED","Procedure",6,6
+4192502,"Dacryocystotomy","75745001","SNOMED","Procedure",6,6
+4195720,"Closure of colon fistula","79433000","SNOMED","Procedure",6,6
+4222936,"Pleurodesis","84572006","SNOMED","Procedure",6,6
+4225570,"Biopsy of abdominal wall","84668001","SNOMED","Procedure",6,6
+4233078,"Suture of kidney","89610000","SNOMED","Procedure",6,6
+4238592,"Fascial graft","91157001","SNOMED","Procedure",6,6
+4243492,"Ligation of external carotid artery","59109003","SNOMED","Procedure",6,6
+4261832,"Alcohol rehabilitation","35637008","SNOMED","Procedure",6,7
+4262915,"Electrocauterization of lesion of cornea","46718002","SNOMED","Procedure",6,12
+4263669,"Salpingostomy","60463004","SNOMED","Procedure",6,6
+4308573,"Decompression of orbit","83639008","SNOMED","Procedure",6,7
+4316068,"Total pancreatectomy","9524002","SNOMED","Procedure",6,6
+4322874,"Percutaneous transluminal biopsy of left ventricle","427991000","SNOMED","Procedure",6,6
+4330781,"Embolization using ultrasound guidance","431805002","SNOMED","Procedure",6,6
+4333166,"Endocryotherapy to retina","231761003","SNOMED","Procedure",6,6
+4338529,"Hysterotracheloplasty","88062009","SNOMED","Procedure",6,6
+40489804,"Implantation of electrode into brain using stereotactic guidance","446815007","SNOMED","Procedure",6,6
+42535259,"Intraoperative fluoroscopic cholangiography with contrast","16456981000119100","SNOMED","Procedure",6,6
+44808212,"Laparoscopic cryoablation of neoplasm of kidney","839851000000105","SNOMED","Procedure",6,6
+44809811,"Ultrasonography of urethra","865041000000107","SNOMED","Procedure",6,6
+1447834,"Laparoscopic intraoperative fluoroscopic cholangiography with contrast","1351736001","SNOMED","Procedure",5,5
+4006288,"Enucleation of eye without implant","205336009","SNOMED","Procedure",5,5
+4029570,"Ureterectomy","108028005","SNOMED","Procedure",5,6
+4030239,"Arthrotomy for removal of prosthesis of knee","13743007","SNOMED","Procedure",5,5
+4032126,"Transposition of omentum","238307009","SNOMED","Procedure",5,5
+4032167,"Repair of ovary","14572004","SNOMED","Procedure",5,5
+4049812,"Portosystemic shunt operation","233444007","SNOMED","Procedure",5,5
+4051532,"Excision of spermatocele","16016001","SNOMED","Procedure",5,5
+4051945,"Fluoroscopy guided percutaneous transluminal angioplasty of pulmonary artery with contrast","233214006","SNOMED","Procedure",5,5
+4052106,"Fluoroscopy guided percutaneous transluminal balloon angioplasty of thoracic aorta with contrast","233265003","SNOMED","Procedure",5,6
+4067032,"Incision of sclera","172460005","SNOMED","Procedure",5,5
+4075179,"Prostaglandin induction of labor","177136006","SNOMED","Procedure",5,5
+4079730,"Pleurectomy","23979009","SNOMED","Procedure",5,5
+4127245,"Amnioinfusion","236956008","SNOMED","Procedure",5,10
+4135206,"Replacement of suppository in vagina","31591008","SNOMED","Procedure",5,5
+4144852,"Exploration of pancreas","265464005","SNOMED","Procedure",5,5
+4147525,"Repair of neonatal diaphragmatic hernia","30273008","SNOMED","Procedure",5,5
+4172642,"Penetrating keratoplasty","42101009","SNOMED","Procedure",5,5
+4181954,"Percutaneous transluminal biopsy of right ventricle","429380006","SNOMED","Procedure",5,5
+4187965,"Operative procedure on bone of lower extremity","373196008","SNOMED","Procedure",5,5
+4189286,"Surgical procedure on eye proper","373353005","SNOMED","Procedure",5,5
+4189376,"Incision of larynx","61561005","SNOMED","Procedure",5,5
+4217641,"Repair of laceration of cornea with application of tissue glue","72491000","SNOMED","Procedure",5,6
+4218743,"Ileorectostomy","81714000","SNOMED","Procedure",5,5
+4230233,"Fluoroscopy guided percutaneous transluminal angioplasty of vein with contrast","359551000","SNOMED","Procedure",5,5
+4233416,"Resection of cecum and terminal ileum","359587007","SNOMED","Procedure",5,5
+4234811,"Creation of upper limb arteriovenous fistula","405331002","SNOMED","Procedure",5,5
+4237430,"Gasserian ganglion block","58012005","SNOMED","Procedure",5,16
+4268439,"Vertebroplasty","401226007","SNOMED","Procedure",5,5
+4332716,"Biopsy of peripheral nerve","231069008","SNOMED","Procedure",5,5
+4339978,"Suture of left ventricle","233083004","SNOMED","Procedure",5,5
+35622627,"Radionuclide imaging using samarium (153-Sm) lexidronam","764675000","SNOMED","Procedure",5,5
+37395291,"Primary liposuction of breast","1044641000000107","SNOMED","Procedure",5,5
+40485980,"Endoscopic excision of polyp of small intestine","446024004","SNOMED","Procedure",5,5
+44783110,"Excision arthroplasty of knee","699156004","SNOMED","Procedure",5,5
+45766828,"Allograft of amniotic membrane","704077003","SNOMED","Procedure",5,5
+46285669,"Insertion of deep brain stimulator","974401000000103","SNOMED","Procedure",5,10

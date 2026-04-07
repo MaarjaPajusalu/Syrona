@@ -1,0 +1,170 @@
+---
+title: "Extraction"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{a01_extraction}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Overview
+
+Phase 1 extracts stratified prevalence tables from an OMOP CDM database. The main entry point is `extract_all()`, which runs the full pipeline for one or more clinical domains.
+
+Each domain produces 4 tables:
+
+| Table | Content | Key columns |
+|----|----|----|
+| `*_prevalence` | Patient counts per concept x year x sex x age group | concept_id, year, sex, age_group, patient_count, denominator, prevalence |
+| `*_info` | Concept metadata | concept_id, concept_name, vocabulary_id, n_patients_total |
+| `*_chapters` | Hierarchy-based chapter assignments | concept_id, chapter_type, chapter_id, chapter_name |
+| `*_attributes` | SNOMED relationship targets | concept_id, relationship, target_concept_id, target_concept_name |
+
+Plus two shared tables: `demographics` (birth year x sex) and `death_counts` (deaths by stratum).
+
+## Connecting to a database
+
+### DuckDB (local files)
+
+```{r, eval=FALSE}
+library(syrona)
+
+# Read-only (default) - safe for shared databases
+db <- syrona_connect("path/to/omop.duckdb")
+
+# Writable - needed if you want to create cohort tables in the same DB
+db <- syrona_connect("path/to/omop.duckdb", read_only = FALSE)
+```
+
+### PostgreSQL
+
+```{r, eval=FALSE}
+# Direct connection
+db <- syrona_connect_pg(
+  host = "db-server.example.com",
+  dbname = "omop",
+  user = "analyst",
+  cdm_schema = "cdm",
+  write_schema = "results_analyst"
+)
+
+# Via SSH tunnel (start tunnel first: ssh -L 5432:localhost:5432 user@server)
+db <- syrona_connect_pg(
+  host = "localhost",
+  dbname = "omop",
+  user = "analyst",
+  cdm_schema = "ohdsi_cdm_202511",
+  write_schema = "results_analyst"
+)
+```
+
+The `write_schema` parameter tells CDMConnector where it can create temporary tables. This is required for cohort operations and some extraction queries. On PostgreSQL, this is typically a user-specific results schema.
+
+## Running extraction
+
+### All domains (default)
+
+```{r, eval=FALSE}
+tables <- extract_all("Dataset_A", db = db)
+```
+
+This extracts conditions, procedures, and drugs. Results are saved to `data/sources/Dataset_A/` and returned as a named list.
+
+### Single domain
+
+```{r, eval=FALSE}
+# Conditions only (fastest)
+tables <- extract_all("Dataset_A", db = db, domains = "conditions")
+
+# Drugs only
+tables <- extract_all("Dataset_A", db = db, domains = "drugs")
+
+# Conditions + procedures (no drugs)
+tables <- extract_all("Dataset_A", db = db, domains = c("conditions", "procedures"))
+```
+
+### Without saving to disk
+
+```{r, eval=FALSE}
+tables <- extract_all("Dataset_A", db = db, save = FALSE)
+```
+
+### Shorthand: pass a DuckDB path directly
+
+```{r, eval=FALSE}
+# This connects, extracts, and disconnects automatically
+tables <- extract_all("Synthetic", db = "path/to/omop.duckdb")
+```
+
+## What each extractor does
+
+### Denominators (ACHILLES-116)
+
+`extract_denominators()` computes the number of persons observed per year x sex x age group. This is the denominator for all prevalence calculations. A person is counted in a year if their observation period overlaps that year.
+
+Age groups are 10-year decades (0-9, 10-19, ..., 70-79, 80+). Ages above 80 are clamped into a single group for statistical stability.
+
+### Condition prevalence (ACHILLES-404)
+
+`extract_condition_prevalence()` counts persons with at least one condition occurrence per concept x year x sex x age group. Events must fall within the person's observation period. Only standard SNOMED concepts (concept_id != 0) are included.
+
+### Condition chapters
+
+`extract_condition_chapters()` assigns each condition concept to chapters via three classification systems:
+
+-   **body_system** - SNOMED hierarchy from "Disorder of body system" (L1 + L2)
+-   **disease_category** - SNOMED hierarchy from "Disease" (L1 + L2)
+-   **icd10_chapter** - ICD-10 chapters via SNOMED-to-ICD-10 mapping (code prefix matching)
+
+A concept can belong to multiple chapters. Concepts without an ICD-10 mapping get an "(Unmapped)" pseudo-chapter.
+
+### Drug prevalence
+
+`extract_drug_prevalence()` rolls up drug exposures to the **Ingredient** level via `concept_ancestor`. This means a prescription for "Aspirin 100mg tablet" counts toward the "Aspirin" ingredient. One row per ingredient x year x sex x age group.
+
+### Drug chapters
+
+`extract_drug_chapters()` assigns each ingredient to **ATC 1st level** chapters (e.g. "A. Alimentary tract and metabolism") via `concept_ancestor`.
+
+### Procedure chapters
+
+`extract_procedure_chapters()` assigns procedures to two SNOMED hierarchies:
+
+-   **by_method** - from "Procedure by method" (L1 + L2)
+-   **by_site** - from "Procedure by site" (L1 + L2)
+
+## k-Anonymity
+
+After extraction, `apply_k_anonymity()` suppresses small-cell counts (default k=5):
+
+1.  Concepts with fewer than k total patients are dropped entirely
+2.  Individual prevalence rows (strata) with fewer than k patients are suppressed
+3.  Concepts that lose all prevalence rows to suppression are moved to a `*_rare` table (keeps aggregate counts but no stratified data)
+
+This ensures no individual can be identified from the output tables.
+
+## Loading and listing datasets
+
+```{r, eval=FALSE}
+# List all extracted datasets
+list_datasets()
+#> [1] "Dataset_A" "Dataset_B" "Synthetic"
+
+# Load a previously extracted dataset
+d <- load_dataset("Dataset_A")
+names(d)
+#> [1] "condition_prevalence" "condition_info" "condition_chapters" ...
+```
+
+## Disconnect
+
+```{r, eval=FALSE}
+syrona_disconnect(db)
+```

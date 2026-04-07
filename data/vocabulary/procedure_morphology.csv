@@ -1,0 +1,458 @@
+concept_id,relationship,relationship_id,target_concept_id,target_concept_name
+606227,morphology,Has dir morph,40599742,Lesion
+760720,morphology,Has dir morph,4214641,Mass
+761010,morphology,Has dir morph,4217808,Fracture
+1073191,morphology,Has dir morph,40599742,Lesion
+1073322,morphology,Has dir morph,4090784,Tracheostomy stoma
+1242753,morphology,Has dir morph,4076390,Stoma
+1245979,morphology,Has dir morph,4245118,Thrombus
+4004519,morphology,Has dir morph,4028246,Cataract
+4004519,morphology,Has dir morph,4134147,Opacity
+4005223,morphology,Has dir morph,4028246,Cataract
+4005223,morphology,Has dir morph,4134147,Opacity
+4012182,morphology,Has dir morph,4217808,Fracture
+4012329,morphology,Has dir morph,4148390,Laceration
+4012330,morphology,Has dir morph,4148390,Laceration
+4012461,morphology,Has dir morph,4185788,Hernial opening
+4017330,morphology,Has dir morph,4136540,Ileostomy - stoma
+4019226,morphology,Has dir morph,37204871,Abnormal communication
+4019228,morphology,Has dir morph,37204871,Abnormal communication
+4019540,morphology,Has dir morph,4147001,Hematoma
+4021414,morphology,Has dir morph,40599742,Lesion
+4024115,morphology,Has dir morph,40599742,Lesion
+4025680,morphology,Has dir morph,4175338,Adhesion
+4025993,morphology,Has dir morph,4029830,Varix
+4031344,morphology,Has dir morph,4246096,Saccular dilatation
+4031962,morphology,Has proc morph,4185788,Hernial opening
+4031970,morphology,Has dir morph,4185788,Hernial opening
+4031973,morphology,Has dir morph,4185788,Hernial opening
+4032014,morphology,Has dir morph,40599742,Lesion
+4032408,morphology,Has dir morph,4078373,Foreign body
+4033087,morphology,Has indir morph,4279699,Cyst
+4033396,morphology,Has dir morph,4185788,Hernial opening
+4034524,morphology,Has dir morph,4030314,Neoplasm
+4038683,morphology,Has dir morph,4217808,Fracture
+4039628,morphology,Has indir morph,4029830,Varix
+4040924,morphology,Has dir morph,4305589,"Neoplasm, benign"
+4040974,morphology,Has dir morph,4168143,Atheroma
+4042907,morphology,Has dir morph,4131949,Colostomy - stoma
+4045952,morphology,Has dir morph,4075418,Arteriovenous malformation
+4045952,morphology,Has dir morph,40599742,Lesion
+4046290,morphology,Has dir morph,40599742,Lesion
+4046923,morphology,Has dir morph,4030314,Neoplasm
+4047008,morphology,Has dir morph,4311963,Aneurysm
+4047237,morphology,Has dir morph,4148390,Laceration
+4048326,morphology,Has dir morph,40599742,Lesion
+4048438,morphology,Has dir morph,4168143,Atheroma
+4048702,morphology,Has dir morph,4175338,Adhesion
+4048948,morphology,Has dir morph,4311963,Aneurysm
+4049119,morphology,Has dir morph,4217808,Fracture
+4049551,morphology,Has dir morph,4168143,Atheroma
+4049553,morphology,Has dir morph,4168143,Atheroma
+4049675,morphology,Has dir morph,4311963,Aneurysm
+4050114,morphology,Has dir morph,37204871,Abnormal communication
+4050137,morphology,Has dir morph,4168143,Atheroma
+4050137,morphology,Has dir morph,40599742,Lesion
+4050139,morphology,Has dir morph,4168143,Atheroma
+4051014,morphology,Has dir morph,4168143,Atheroma
+4051017,morphology,Has dir morph,4168143,Atheroma
+4051018,morphology,Has dir morph,4168143,Atheroma
+4051171,morphology,Has dir morph,4029830,Varix
+4051532,morphology,Has dir morph,4279699,Cyst
+4052115,morphology,Has dir morph,4168143,Atheroma
+4052116,morphology,Has dir morph,4168143,Atheroma
+4052846,morphology,Has dir morph,4317530,Ruptured aneurysm
+4057078,morphology,Has dir morph,4078373,Foreign body
+4059099,morphology,Has dir morph,4175338,Adhesion
+4060043,morphology,Has dir morph,40599742,Lesion
+4061603,morphology,Has dir morph,4209441,Calculus
+4063759,morphology,Has dir morph,4147001,Hematoma
+4064938,morphology,Has dir morph,40599742,Lesion
+4065687,morphology,Has dir morph,4078373,Foreign body
+4065710,morphology,Has dir morph,40599742,Lesion
+4065715,morphology,Has dir morph,4263843,Deformity
+4065715,morphology,Has dir morph,4254066,Malposition
+4066636,morphology,Has dir morph,4239211,Perforated ulcer
+4067021,morphology,Has dir morph,40599742,Lesion
+4067028,morphology,Has dir morph,4078373,Foreign body
+4067128,morphology,Has dir morph,40599742,Lesion
+4067254,morphology,Has dir morph,40599742,Lesion
+4067329,morphology,Has dir morph,4179955,Hemorrhage
+4067379,morphology,Has dir morph,4187628,Polyp
+4067474,morphology,Has dir morph,4078373,Foreign body
+4067681,morphology,Has dir morph,4076390,Stoma
+4067706,morphology,Has dir morph,4078373,Foreign body
+4067825,morphology,Has dir morph,4078373,Foreign body
+4067932,morphology,Has dir morph,40599742,Lesion
+4068309,morphology,Has dir morph,40599742,Lesion
+4068317,morphology,Has dir morph,40599742,Lesion
+4068675,morphology,Has dir morph,40599742,Lesion
+4068911,morphology,Has dir morph,40599742,Lesion
+4068921,morphology,Has dir morph,4078373,Foreign body
+4069034,morphology,Has dir morph,40599742,Lesion
+4069384,morphology,Has dir morph,40599742,Lesion
+4069480,morphology,Has dir morph,40599742,Lesion
+4069779,morphology,Has dir morph,4245118,Thrombus
+4069969,morphology,Has dir morph,4279837,Retention
+4070327,morphology,Has dir morph,40599742,Lesion
+4070329,morphology,Has dir morph,40599742,Lesion
+4070398,morphology,Has dir morph,4217808,Fracture
+4070544,morphology,Has dir morph,4078373,Foreign body
+4070607,morphology,Has dir morph,4279699,Cyst
+4070608,morphology,Has dir morph,40599742,Lesion
+4070700,morphology,Has dir morph,4190388,Hernia
+4070758,morphology,Has dir morph,40599742,Lesion
+4070762,morphology,Has dir morph,4175338,Adhesion
+4071015,morphology,Has dir morph,40599742,Lesion
+4071109,morphology,Has dir morph,40599742,Lesion
+4072024,morphology,Has dir morph,4324949,Ganglion cyst
+4072156,morphology,Has dir morph,4121016,Persistent branchial cleft
+4072257,morphology,Has dir morph,40599742,Lesion
+4072697,morphology,Has dir morph,4078373,Foreign body
+4072855,morphology,Has dir morph,40599742,Lesion
+4073379,morphology,Has dir morph,4078373,Foreign body
+4073385,morphology,Has dir morph,40599742,Lesion
+4073860,morphology,Has dir morph,4029830,Varix
+4074018,morphology,Has dir morph,40599742,Lesion
+4074443,morphology,Has dir morph,4175338,Adhesion
+4074571,morphology,Has dir morph,4175338,Adhesion
+4074848,morphology,Has dir morph,40599742,Lesion
+4075026,morphology,Has dir morph,40599742,Lesion
+4075144,morphology,Has dir morph,4121016,Persistent branchial cleft
+4075360,morphology,Has dir morph,4029919,Wound
+4075598,morphology,Has indir morph,4168004,Burn injury
+4076441,morphology,Has dir morph,4217808,Fracture
+4076443,morphology,Has dir morph,4217808,Fracture
+4077763,morphology,Has dir morph,4078373,Foreign body
+4077778,morphology,Has dir morph,4217808,Fracture
+4078223,morphology,Has dir morph,4179955,Hemorrhage
+4079945,morphology,Has dir morph,4227147,Dislocation
+4080015,morphology,Has dir morph,4185788,Hernial opening
+4080019,morphology,Has dir morph,4185788,Hernial opening
+4080499,morphology,Has indir morph,4029919,Wound
+4080918,morphology,Has dir morph,4279699,Cyst
+4081837,morphology,Has dir morph,40599742,Lesion
+4081872,morphology,Has proc morph,4029919,Wound
+4082198,morphology,Has dir morph,4078373,Foreign body
+4084965,morphology,Has dir morph,4030314,Neoplasm
+4086912,morphology,Has dir morph,4136540,Ileostomy - stoma
+4086986,morphology,Has dir morph,4217808,Fracture
+4087889,morphology,Has dir morph,4209441,Calculus
+4088717,morphology,Has dir morph,4227147,Dislocation
+4094075,morphology,Has dir morph,4043006,Fistula
+4097890,morphology,Has dir morph,4217808,Fracture
+4100187,morphology,Has dir morph,4078373,Foreign body
+4102383,morphology,Has dir morph,4311963,Aneurysm
+4103380,morphology,Has dir morph,4187628,Polyp
+4103530,morphology,Has dir morph,4029919,Wound
+4105082,morphology,Has dir morph,4245118,Thrombus
+4105908,morphology,Has dir morph,4253777,Wound dehiscence
+4107081,morphology,Has dir morph,40599742,Lesion
+4107444,morphology,Has dir morph,4217808,Fracture
+4108316,morphology,Has dir morph,4195605,Abscess morphology
+4108316,morphology,Has indir morph,4195605,Abscess morphology
+4109007,morphology,Has dir morph,4043006,Fistula
+4113529,morphology,Has dir morph,4078373,Foreign body
+4114634,morphology,Has dir morph,4105753,Prolapse
+4114775,morphology,Has dir morph,4029919,Wound
+4117629,morphology,Has dir morph,4217808,Fracture
+4119988,morphology,Has dir morph,4078373,Foreign body
+4120786,morphology,Has dir morph,4163407,Congenital failure of fusion
+4120976,morphology,Has dir morph,4187628,Polyp
+4120998,morphology,Has proc morph,4029919,Wound
+4121234,morphology,Has dir morph,4078373,Foreign body
+4121414,morphology,Has dir morph,4217808,Fracture
+4122103,morphology,Has dir morph,40599742,Lesion
+4122234,morphology,Has dir morph,4155548,Gastrostomy
+4122330,morphology,Has indir morph,4029830,Varix
+4123747,morphology,Has dir morph,4078373,Foreign body
+4123886,morphology,Has dir morph,4078373,Foreign body
+4125153,morphology,Has dir morph,4155548,Gastrostomy
+4125153,morphology,Has dir morph,4235576,Stoma site
+4125170,morphology,Has dir morph,4078373,Foreign body
+4127079,morphology,Has dir morph,40599742,Lesion
+4127086,morphology,Has dir morph,4105753,Prolapse
+4127237,morphology,Has indir morph,4279699,Cyst
+4127779,morphology,Has dir morph,4043006,Fistula
+4128040,morphology,Has dir morph,4148390,Laceration
+4129188,morphology,Has dir morph,4238909,Supernumerary structure
+4130188,morphology,Has dir morph,4266337,Benign leiomyomatous neoplasm - category
+4130188,morphology,Has dir morph,37150972,Leiomyoma
+4135441,morphology,Has dir morph,4131949,Colostomy - stoma
+4135477,morphology,Has dir morph,4148390,Laceration
+4137588,morphology,Has dir morph,4248831,Filtering bleb
+4138691,morphology,Has dir morph,40599742,Lesion
+4140012,morphology,Has dir morph,40599742,Lesion
+4140091,morphology,Has dir morph,4298084,Hydrocele
+4140707,morphology,Has dir morph,40599742,Lesion
+4141922,morphology,Has dir morph,4078373,Foreign body
+4142625,morphology,Has dir morph,4209441,Calculus
+4142889,morphology,Has dir morph,4227147,Dislocation
+4143164,morphology,Has dir morph,4263843,Deformity
+4143164,morphology,Has dir morph,4254066,Malposition
+4143509,morphology,Has dir morph,4209441,Calculus
+4143686,morphology,Has dir morph,4168143,Atheroma
+4143686,morphology,Has dir morph,4245118,Thrombus
+4143728,morphology,Has dir morph,4090784,Tracheostomy stoma
+4144197,morphology,Has dir morph,4279699,Cyst
+4144723,morphology,Has dir morph,40599742,Lesion
+4144797,morphology,Has dir morph,4239211,Perforated ulcer
+4145225,morphology,Has dir morph,4136540,Ileostomy - stoma
+4145886,morphology,Has dir morph,4217808,Fracture
+4146119,morphology,Has dir morph,4217808,Fracture
+4146781,morphology,Has dir morph,4168143,Atheroma
+4147525,morphology,Has dir morph,4185788,Hernial opening
+4147545,morphology,Has dir morph,4150051,Diverticulum
+4147588,morphology,Has dir morph,40599742,Lesion
+4147839,morphology,Has dir morph,40599742,Lesion
+4148939,morphology,Has dir morph,4248831,Filtering bleb
+4149348,morphology,Has dir morph,4076390,Stoma
+4149741,morphology,Has dir morph,4136540,Ileostomy - stoma
+4150671,morphology,Has dir morph,40599742,Lesion
+4154120,morphology,Has dir morph,40599742,Lesion
+4154990,morphology,Has dir morph,40599742,Lesion
+4155658,morphology,Has dir morph,40599742,Lesion
+4157076,morphology,Has dir morph,4217808,Fracture
+4157076,morphology,Has dir morph,4178756,"Fracture, open"
+4158252,morphology,Has dir morph,4209441,Calculus
+4160163,morphology,Has dir morph,4076390,Stoma
+4162987,morphology,Has dir morph,4131949,Colostomy - stoma
+4163766,morphology,Has dir morph,4148390,Laceration
+4164745,morphology,Has dir morph,4217808,Fracture
+4164907,morphology,Has dir morph,4175338,Adhesion
+4166073,morphology,Has dir morph,4030314,Neoplasm
+4167173,morphology,Has dir morph,4093906,Obstruction
+4167420,morphology,Has dir morph,4227147,Dislocation
+4168088,morphology,Has dir morph,4179955,Hemorrhage
+4168628,morphology,Has dir morph,40599742,Lesion
+4169931,morphology,Has dir morph,4266337,Benign leiomyomatous neoplasm - category
+4169931,morphology,Has dir morph,37150972,Leiomyoma
+4171194,morphology,Has dir morph,40599742,Lesion
+4171196,morphology,Has dir morph,4298084,Hydrocele
+4177047,morphology,Has indir morph,4029967,Arteriovenous fistula
+4177047,morphology,Has dir morph,4245118,Thrombus
+4181623,morphology,Has dir morph,40599742,Lesion
+4183741,morphology,Has dir morph,40599742,Lesion
+4183841,morphology,Has dir morph,40599742,Lesion
+4185284,morphology,Has dir morph,4245118,Thrombus
+4185541,morphology,Has dir morph,4029830,Varix
+4185734,morphology,Has dir morph,4085566,Intestinal stoma
+4185738,morphology,Has dir morph,40599742,Lesion
+4187207,morphology,Has dir morph,4028246,Cataract
+4187207,morphology,Has dir morph,4134147,Opacity
+4188048,morphology,Has dir morph,40599742,Lesion
+4190437,morphology,Has dir morph,4078373,Foreign body
+4194124,morphology,Has dir morph,40599742,Lesion
+4194514,morphology,Has dir morph,4245118,Thrombus
+4194872,morphology,Has dir morph,4206914,Ulcer
+4195307,morphology,Has dir morph,4185788,Hernial opening
+4195651,morphology,Has dir morph,4029919,Wound
+4195720,morphology,Has dir morph,4043006,Fistula
+4195874,morphology,Has dir morph,40599742,Lesion
+4196678,morphology,Has dir morph,4185788,Hernial opening
+4196919,morphology,Has dir morph,4043006,Fistula
+4198228,morphology,Has dir morph,4130732,Ureterostomy - stoma
+4198242,morphology,Has dir morph,4131949,Colostomy - stoma
+4198857,morphology,Has dir morph,37151944,Pressure injury
+4198857,morphology,Has dir morph,4170576,Pressure ulcer
+4200565,morphology,Has dir morph,40599742,Lesion
+4201120,morphology,Has dir morph,4179955,Hemorrhage
+4202369,morphology,Has dir morph,4078373,Foreign body
+4202558,morphology,Has dir morph,4078373,Foreign body
+4202994,morphology,Has dir morph,4185788,Hernial opening
+4203473,morphology,Has dir morph,4078373,Foreign body
+4204677,morphology,Has dir morph,4155548,Gastrostomy
+4205529,morphology,Has dir morph,4028246,Cataract
+4205529,morphology,Has dir morph,4134147,Opacity
+4206479,morphology,Has dir morph,4148390,Laceration
+4207360,morphology,Has dir morph,40599742,Lesion
+4208846,morphology,Has dir morph,40599742,Lesion
+4208914,morphology,Has dir morph,4078373,Foreign body
+4209077,morphology,Has dir morph,4105753,Prolapse
+4209537,morphology,Has dir morph,4187628,Polyp
+4213291,morphology,Has dir morph,4147001,Hematoma
+4213796,morphology,Has dir morph,4263843,Deformity
+4214463,morphology,Has dir morph,40599742,Lesion
+4215600,morphology,Has dir morph,4279699,Cyst
+4216191,morphology,Has dir morph,4266518,Congenital septation
+4216250,morphology,Has dir morph,40599742,Lesion
+4216735,morphology,Has indir morph,4195605,Abscess morphology
+4217604,morphology,Has dir morph,40599742,Lesion
+4217641,morphology,Has dir morph,4148390,Laceration
+4217766,morphology,Has dir morph,4187628,Polyp
+4218111,morphology,Has dir morph,4050007,Scar
+4218385,morphology,Has dir morph,4105753,Prolapse
+4218467,morphology,Has dir morph,4168143,Atheroma
+4218467,morphology,Has dir morph,4245118,Thrombus
+4219029,morphology,Has dir morph,4217808,Fracture
+4219236,morphology,Has dir morph,4105753,Prolapse
+4221619,morphology,Has dir morph,40599742,Lesion
+4223084,morphology,Has dir morph,4215424,External hyperostosis
+4223363,morphology,Has dir morph,4028246,Cataract
+4223363,morphology,Has dir morph,4134147,Opacity
+4223934,morphology,Has dir morph,4028246,Cataract
+4223934,morphology,Has dir morph,4134147,Opacity
+4224154,morphology,Has dir morph,4245118,Thrombus
+4225375,morphology,Has dir morph,4168143,Atheroma
+4225775,morphology,Has dir morph,40599742,Lesion
+4227911,morphology,Has dir morph,4217808,Fracture
+4229118,morphology,Has dir morph,4209441,Calculus
+4229284,morphology,Has dir morph,40599742,Lesion
+4230527,morphology,Has dir morph,4185788,Hernial opening
+4231432,morphology,Has dir morph,4217808,Fracture
+4232599,morphology,Has dir morph,4209441,Calculus
+4233678,morphology,Has indir morph,4168004,Burn injury
+4236715,morphology,Has dir morph,4311963,Aneurysm
+4237682,morphology,Has dir morph,4027307,Fibrosis AND/OR repair abnormality
+4240107,morphology,Has dir morph,4105753,Prolapse
+4240584,morphology,Has dir morph,4227147,Dislocation
+4240701,morphology,Has dir morph,4175338,Adhesion
+4241329,morphology,Has dir morph,4043006,Fistula
+4241964,morphology,Has dir morph,40599742,Lesion
+4242877,morphology,Has dir morph,4147001,Hematoma
+4243629,morphology,Has dir morph,4217808,Fracture
+4243659,morphology,Has dir morph,40599742,Lesion
+4244381,morphology,Has dir morph,4168143,Atheroma
+4244381,morphology,Has dir morph,4245118,Thrombus
+4244871,morphology,Has dir morph,4217808,Fracture
+4245857,morphology,Has dir morph,4279699,Cyst
+4248822,morphology,Has dir morph,4168004,Burn injury
+4249749,morphology,Has dir morph,4148390,Laceration
+4251348,morphology,Has dir morph,4053885,Internal fistula
+4252234,morphology,Has dir morph,4163407,Congenital failure of fusion
+4252234,morphology,Has dir morph,4154268,Developmental failure of fusion
+4253787,morphology,Has dir morph,4150051,Diverticulum
+4259286,morphology,Has dir morph,4185788,Hernial opening
+4260104,morphology,Has dir morph,4155548,Gastrostomy
+4261365,morphology,Has dir morph,4131949,Colostomy - stoma
+4262407,morphology,Has dir morph,4179955,Hemorrhage
+4262433,morphology,Has dir morph,40599742,Lesion
+4262915,morphology,Has dir morph,40599742,Lesion
+4262936,morphology,Has dir morph,4168143,Atheroma
+4264661,morphology,Has dir morph,40599742,Lesion
+4264707,morphology,Has dir morph,4140663,Degeneration
+4264707,morphology,Has proc morph,4140663,Degeneration
+4264707,morphology,Has dir morph,4213241,Proliferative mass
+4265608,morphology,Has dir morph,4044047,Torsion
+4265676,morphology,Has dir morph,4029830,Varix
+4268043,morphology,Has dir morph,40599742,Lesion
+4268189,morphology,Has dir morph,4217808,Fracture
+4268746,morphology,Has dir morph,4279699,Cyst
+4269222,morphology,Has dir morph,4263947,Perforation
+4275880,morphology,Has dir morph,4100082,Stricture
+4277414,morphology,Has dir morph,4147001,Hematoma
+4278676,morphology,Has dir morph,4245118,Thrombus
+4279393,morphology,Has dir morph,4209441,Calculus
+4279916,morphology,Has dir morph,4175338,Adhesion
+4281511,morphology,Has dir morph,40599742,Lesion
+4282602,morphology,Has dir morph,4209441,Calculus
+4284252,morphology,Has dir morph,4245118,Thrombus
+4284254,morphology,Has dir morph,4029830,Varix
+4284555,morphology,Has dir morph,4148390,Laceration
+4287321,morphology,Has dir morph,4245118,Thrombus
+4287324,morphology,Has dir morph,4245118,Thrombus
+4287467,morphology,Has dir morph,4043006,Fistula
+4287790,morphology,Has dir morph,4105753,Prolapse
+4289590,morphology,Has dir morph,40599742,Lesion
+4291347,morphology,Has dir morph,4078373,Foreign body
+4291474,morphology,Has dir morph,4245118,Thrombus
+4293475,morphology,Has dir morph,4260668,Inversion
+4294825,morphology,Has dir morph,4150051,Diverticulum
+4295161,morphology,Has indir morph,4028351,Pseudocyst
+4296296,morphology,Has dir morph,40599742,Lesion
+4298166,morphology,Has dir morph,4209441,Calculus
+4298560,morphology,Has dir morph,4078373,Foreign body
+4300656,morphology,Has dir morph,4078373,Foreign body
+4300860,morphology,Has dir morph,40599742,Lesion
+4301065,morphology,Has dir morph,4209441,Calculus
+4301620,morphology,Has dir morph,40599742,Lesion
+4302672,morphology,Has dir morph,4279699,Cyst
+4303291,morphology,Has dir morph,4209441,Calculus
+4304998,morphology,Has dir morph,40599742,Lesion
+4307589,morphology,Has dir morph,4263843,Deformity
+4308888,morphology,Has dir morph,4029919,Wound
+4311023,morphology,Has dir morph,4076390,Stoma
+4311694,morphology,Has dir morph,4227147,Dislocation
+4312734,morphology,Has dir morph,4217808,Fracture
+4314436,morphology,Has dir morph,4085566,Intestinal stoma
+4314457,morphology,Has proc morph,4140663,Degeneration
+4314569,morphology,Has dir morph,40599742,Lesion
+4319321,morphology,Has dir morph,4175338,Adhesion
+4321098,morphology,Has dir morph,4217808,Fracture
+4321098,morphology,Has dir morph,4178756,"Fracture, open"
+4321430,morphology,Has dir morph,4078373,Foreign body
+4321596,morphology,Has dir morph,40599742,Lesion
+4321679,morphology,Has dir morph,4337954,Eschar
+4322623,morphology,Has dir morph,4146758,Verruca
+4323042,morphology,Has dir morph,4279699,Cyst
+4323685,morphology,Has dir morph,4133291,Ectropion
+4323816,morphology,Has dir morph,4076390,Stoma
+4325283,morphology,Has dir morph,4076390,Stoma
+4327488,morphology,Has dir morph,4311963,Aneurysm
+4327660,morphology,Has dir morph,4148390,Laceration
+4329458,morphology,Has dir morph,4078373,Foreign body
+4329726,morphology,Has dir morph,4168004,Burn injury
+4334716,morphology,Has dir morph,4046284,Epiretinal membrane
+4336916,morphology,Has dir morph,4235576,Stoma site
+4336916,morphology,Has dir morph,4090784,Tracheostomy stoma
+4337610,morphology,Has dir morph,1243745,Pulmonary bulla
+4338234,morphology,Has dir morph,40599742,Lesion
+4338539,morphology,Has proc morph,4140663,Degeneration
+4338818,morphology,Has dir morph,4217808,Fracture
+4339288,morphology,Has dir morph,4245118,Thrombus
+4339493,morphology,Has indir morph,4195605,Abscess morphology
+4339601,morphology,Has dir morph,4078373,Foreign body
+4340646,morphology,Has dir morph,4078373,Foreign body
+4343570,morphology,Has dir morph,40599742,Lesion
+4343792,morphology,Has dir morph,4217808,Fracture
+4343793,morphology,Has dir morph,4217808,Fracture
+4343794,morphology,Has dir morph,4217808,Fracture
+4346400,morphology,Has dir morph,4217808,Fracture
+35621840,morphology,Has dir morph,4046789,Penetrating wound
+36675314,morphology,Has dir morph,4185788,Hernial opening
+37016897,morphology,Has dir morph,4149485,Intussusception
+37016897,morphology,Has dir morph,4190400,Invagination
+37016979,morphology,Has dir morph,4179955,Hemorrhage
+37153174,morphology,Has dir morph,4254066,Malposition
+37156605,morphology,Has dir morph,4179955,Hemorrhage
+37169827,morphology,Has dir morph,40599742,Lesion
+40310989,morphology,Has dir morph,4217808,Fracture
+40480531,morphology,Has dir morph,4030314,Neoplasm
+40481144,morphology,Has dir morph,4279699,Cyst
+40483386,morphology,Has dir morph,4147210,Lymphatic edema
+40483561,morphology,Has proc morph,4029919,Wound
+40485980,morphology,Has dir morph,4187628,Polyp
+40487348,morphology,Has dir morph,4050007,Scar
+40487575,morphology,Has dir morph,4209441,Calculus
+40488324,morphology,Has dir morph,4209441,Calculus
+40489317,morphology,Has dir morph,4187628,Polyp
+40489321,morphology,Has dir morph,4029830,Varix
+40489325,morphology,Has indir morph,4029830,Varix
+40489836,morphology,Has dir morph,4279699,Cyst
+40490324,morphology,Has dir morph,4209441,Calculus
+40492771,morphology,Has dir morph,4093906,Obstruction
+40493228,morphology,Has dir morph,4195605,Abscess morphology
+42709769,morphology,Has dir morph,4217808,Fracture
+42872494,morphology,Has dir morph,40599742,Lesion
+42872568,morphology,Has dir morph,4266337,Benign leiomyomatous neoplasm - category
+42872568,morphology,Has dir morph,37150972,Leiomyoma
+42872569,morphology,Has dir morph,4279699,Cyst
+42872588,morphology,Has dir morph,4078373,Foreign body
+42872600,morphology,Has dir morph,40599742,Lesion
+42872674,morphology,Has dir morph,40599742,Lesion
+42872675,morphology,Has dir morph,40599742,Lesion
+42872876,morphology,Has dir morph,4131949,Colostomy - stoma
+43021498,morphology,Has dir morph,4029919,Wound
+43531082,morphology,Has dir morph,4217808,Fracture
+43531086,morphology,Has dir morph,4227147,Dislocation
+43531093,morphology,Has dir morph,4185788,Hernial opening
+43531134,morphology,Has dir morph,4185788,Hernial opening
+44807107,morphology,Has indir morph,4206914,Ulcer
+44808212,morphology,Has dir morph,4030314,Neoplasm
+45763875,morphology,Has dir morph,4140663,Degeneration
+45763875,morphology,Has proc morph,4140663,Degeneration
+45763875,morphology,Has dir morph,4213241,Proliferative mass
+46270663,morphology,Has dir morph,4175338,Adhesion
+46270686,morphology,Has dir morph,4185788,Hernial opening
+46272424,morphology,Has dir morph,4185788,Hernial opening
+46273693,morphology,Has dir morph,40599742,Lesion

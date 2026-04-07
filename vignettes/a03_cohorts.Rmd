@@ -1,0 +1,180 @@
+---
+title: "OHDSI Cohort Workflows"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{a03_cohorts}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Overview
+
+By default, `extract_all()` extracts data for all persons in the database. But often you want to compare specific subpopulations - patients from a particular hospital, a clinical trial cohort, or a phenotype definition.
+
+Syrona supports OHDSI-standard cohort tables for this. A cohort table has 4 columns:
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `cohort_definition_id` | INTEGER | Which cohort |
+| `subject_id` | INTEGER | person_id |
+| `cohort_start_date` | DATE | When they enter |
+| `cohort_end_date` | DATE | When they exit |
+
+When you pass a `cohort_id` to `extract_all()`, it restricts extraction to cohort members and clips all events to each person's cohort window.
+
+## Care-site cohorts
+
+The most common use case: compare hospitals within the same OMOP CDM database.
+
+```{r, eval=FALSE}
+library(syrona)
+
+# Connect with write access (needed to create cohort table)
+db <- syrona_connect_pg(
+  dbname = "omop",
+  user = "analyst",
+  cdm_schema = "ohdsi_cdm_202511",
+  write_schema = "results_analyst"
+)
+
+# Find available care sites
+list_care_sites(db$con, cdm_schema = "ohdsi_cdm_202511")
+#>   care_site_id    care_site_name  n_patients
+#> 1          101   Central Hospital      45000
+#> 2          205   University Clinic     28000
+#> 3          312   Regional Hospital     15000
+```
+
+### Create cohorts
+
+```{r, eval=FALSE}
+# Create a cohort for each hospital
+create_caresite_cohort(
+  con = db$con,
+  care_site_id = 101,
+  cohort_id = 1,
+  cohort_schema = "results_analyst",
+  cdm_schema = "ohdsi_cdm_202511"
+)
+
+create_caresite_cohort(
+  con = db$con,
+  care_site_id = 205,
+  cohort_id = 2,
+  cohort_schema = "results_analyst",
+  cdm_schema = "ohdsi_cdm_202511"
+)
+```
+
+Each person's cohort window runs from their first visit start date to their last visit end date at that care site. By default, these are clipped to observation period overlap (`restrict_to_observation = TRUE`).
+
+### Extract by cohort
+
+```{r, eval=FALSE}
+# Extract each hospital's data
+extract_all("Central_Hospital", db = db,
+            cohort_id = 1, cohort_schema = "results_analyst")
+
+extract_all("University_Clinic", db = db,
+            cohort_id = 2, cohort_schema = "results_analyst")
+
+# Then compare
+compare_all("Central_Hospital", "University_Clinic")
+```
+
+### Verify a cohort
+
+```{r, eval=FALSE}
+cohort_summary(db$con, cohort_id = 1, cohort_schema = "results_analyst")
+#>   cohort_definition_id n_entries n_persons  min_start    max_end
+#> 1                    1     45000     45000 2005-01-03 2023-11-28
+```
+
+### Delete a cohort
+
+```{r, eval=FALSE}
+delete_cohort(db$con, cohort_id = 1, cohort_schema = "results_analyst")
+```
+
+## Cohorts from data frames
+
+If you already have cohort membership computed locally (from a CSV, a phenotype algorithm, or another tool), use `insert_cohort()` to upload it via the modern omopgenerics pathway:
+
+```{r, eval=FALSE}
+# Build a cohort data frame
+cohort_df <- data.frame(
+  cohort_definition_id = 1L,
+  subject_id = c(1001L, 1002L, 1003L),
+  cohort_start_date = as.Date("2015-01-01"),
+  cohort_end_date = as.Date("2020-12-31")
+)
+
+# Upload to the CDM (requires writeSchema)
+db$cdm <- insert_cohort(db$cdm, cohort_df, name = "my_cohort")
+
+# The cohort is now a table in the database, usable by Syrona and other OHDSI tools
+```
+
+Note: `insert_cohort()` validates that cohort dates fall within each person's observation period, as required by the OHDSI standard.
+
+## Care-site cohort options
+
+`create_caresite_cohort()` has two optional parameters for fine-tuning:
+
+### Collapse strategy
+
+```{r, eval=FALSE}
+# Default: one row per person (first visit start to last visit end)
+create_caresite_cohort(..., collapse_strategy = "person_span")
+
+# Alternative: one row per visit (multiple cohort entries per person)
+create_caresite_cohort(..., collapse_strategy = "visit_occurrence")
+```
+
+`person_span` is the default and recommended for Syrona extraction - it produces one cohort window per person, which is the standard expectation.
+
+`visit_occurrence` keeps each visit as a separate entry. This can be useful for visit-level analyses but means a person may have multiple overlapping windows.
+
+### Observation period clipping
+
+```{r, eval=FALSE}
+# Default: clip to observation period overlap
+create_caresite_cohort(..., restrict_to_observation = TRUE)
+
+# Skip clipping (use raw visit dates)
+create_caresite_cohort(..., restrict_to_observation = FALSE)
+```
+
+Clipping ensures that the cohort window doesn't extend beyond the person's known observation period. This prevents counting events that happened outside the data capture window.
+
+## How cohort filtering works
+
+When `extract_all()` receives a `cohort_id`, it calls `apply_cohort_filter()` which modifies the CDM table references:
+
+- **person**: filtered to cohort members only
+- **observation_period**: clipped to the intersection of observation period and cohort window (affects the ACHILLES-116 denominator)
+- **death**: restricted to deaths within the cohort window
+- **condition_occurrence, procedure_occurrence, drug_exposure**: events restricted to within the cohort window
+
+This means all downstream extraction functions (denominators, prevalence, chapters, attributes) automatically operate on the filtered population without any changes to their logic.
+
+## Compatibility with other OHDSI tools
+
+The cohort table created by Syrona follows the standard OHDSI schema, so it is compatible with:
+
+- **CohortDiagnostics** - for cohort validation and diagnostics
+- **FeatureExtraction** - for baseline characterization
+- **CohortConstructor** - for matching and cohort operations
+
+```{r, eval=FALSE}
+# Example: use CohortConstructor to create a matched control cohort
+library(CohortConstructor)
+db$cdm$matched <- matchCohorts(db$cdm$my_cohort, ratio = 2, name = "matched")
+```

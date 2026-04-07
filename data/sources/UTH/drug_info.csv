@@ -1,0 +1,137 @@
+"concept_id","concept_name","concept_code","vocabulary_id","concept_class_id","n_patients_total","n_records_total"
+1344143,"albumin human, USP","828529","RxNorm","Ingredient",5047,9680
+1304850,"filgrastim","68442","RxNorm","Ingredient",1435,8873
+1360067,"iron","90176","RxNorm","Ingredient",1201,2305
+702006,"technetium","2571856","RxNorm","Ingredient",927,1050
+535714,"Rho(D) immune globulin","35465","RxNorm","Ingredient",649,819
+1780601,"iodine","5933","RxNorm","Ingredient",618,809
+37499271,"remdesivir","2284718","RxNorm","Ingredient",525,567
+1506270,"methylprednisolone","6902","RxNorm","Ingredient",469,2636
+729855,"botulinum toxin type A","1712","RxNorm","Ingredient",422,4300
+43009086,"erythropoietin","OMOP4700512","RxNorm Extension","Ingredient",329,787
+1309204,"adenosine","296","RxNorm","Ingredient",267,279
+40173184,"levosimendan","73107","RxNorm","Ingredient",157,209
+1757803,"ganciclovir","4678","RxNorm","Ingredient",147,228
+1307046,"metoprolol","6918","RxNorm","Ingredient",137,137
+19054702,"fibrinogen","4385","RxNorm","Ingredient",133,153
+1703063,"valganciclovir","275891","RxNorm","Ingredient",126,417
+19038440,"basiliximab","196102","RxNorm","Ingredient",122,159
+40798880,"Hexaminolevulinic Acid","OMOP2721213","RxNorm Extension","Ingredient",114,196
+44507865,"prothrombin","1441688","RxNorm","Ingredient",108,119
+19136207,"lymphocyte immune globulin, anti-thymocyte globulin","1011","RxNorm","Ingredient",97,120
+537647,"palivizumab","194279","RxNorm","Ingredient",92,485
+937368,"infliximab","191831","RxNorm","Ingredient",92,1152
+1134439,"caffeine","1886","RxNorm","Ingredient",88,140
+1314273,"rituximab","121191","RxNorm","Ingredient",79,290
+974166,"hydrochlorothiazide","5487","RxNorm","Ingredient",73,73
+1317640,"telmisartan","73494","RxNorm","Ingredient",59,59
+19007721,"thyrotropin","10579","RxNorm","Ingredient",59,115
+1334456,"ramipril","35296","RxNorm","Ingredient",58,58
+1549786,"ethinyl estradiol","4124","RxNorm","Ingredient",57,57
+1503297,"metformin","6809","RxNorm","Ingredient",50,50
+1332418,"amlodipine","17767","RxNorm","Ingredient",48,48
+1341927,"enalapril","3827","RxNorm","Ingredient",47,48
+1395557,"fludarabine","24698","RxNorm","Ingredient",47,47
+19042545,"treosulfan","38508","RxNorm","Ingredient",47,47
+1501700,"levothyroxine","10582","RxNorm","Ingredient",43,43
+1510813,"rosuvastatin","301542","RxNorm","Ingredient",40,40
+1545958,"atorvastatin","83367","RxNorm","Ingredient",36,37
+40171288,"tocilizumab","612865","RxNorm","Ingredient",32,32
+978555,"indapamide","5764","RxNorm","Ingredient",27,28
+1593467,"dupilumab","1876376","RxNorm","Ingredient",27,292
+1354698,"mesna","44","RxNorm","Ingredient",25,25
+42801287,"pertuzumab","1298944","RxNorm","Ingredient",24,145
+902427,"timolol","10600","RxNorm","Ingredient",23,23
+1304565,"rasburicase","283821","RxNorm","Ingredient",23,35
+1373225,"perindopril","54552","RxNorm","Ingredient",23,24
+923645,"omeprazole","7646","RxNorm","Ingredient",21,21
+19020068,"nitric oxide","7442","RxNorm","Ingredient",21,21
+19020477,"nitrogen","7456","RxNorm","Ingredient",21,21
+1512674,"drospirenone","11636","RxNorm","Ingredient",20,20
+1707687,"vancomycin","11124","RxNorm","Ingredient",20,25
+1308842,"valsartan","69749","RxNorm","Ingredient",19,19
+1314577,"nebivolol","31555","RxNorm","Ingredient",19,19
+1363749,"fosinopril","50166","RxNorm","Ingredient",19,19
+1539403,"simvastatin","36567","RxNorm","Ingredient",19,19
+1310317,"cyclophosphamide","3002","RxNorm","Ingredient",18,21
+19059796,"gliclazide","4816","RxNorm","Ingredient",18,18
+40684649,"Trimetazidine dihydrochloride","OMOP4754798","RxNorm Extension","Ingredient",18,18
+45775965,"pembrolizumab","1547545","RxNorm","Ingredient",18,127
+924566,"tamsulosin","77492","RxNorm","Ingredient",16,16
+1110942,"omalizumab","302379","RxNorm","Ingredient",16,439
+1304919,"pemetrexed","68446","RxNorm","Ingredient",16,115
+1310149,"warfarin","11289","RxNorm","Ingredient",16,16
+1124300,"diclofenac","3355","RxNorm","Ingredient",15,15
+1196677,"formoterol","25255","RxNorm","Ingredient",15,15
+1395573,"chondroitin sulfates","2473","RxNorm","Ingredient",15,150
+19062817,"riboflavin","9346","RxNorm","Ingredient",15,20
+789578,"levodopa","6375","RxNorm","Ingredient",14,377
+939259,"budesonide","19831","RxNorm","Ingredient",14,14
+954688,"latanoprost","43611","RxNorm","Ingredient",14,14
+1326303,"digoxin","3407","RxNorm","Ingredient",14,14
+1360332,"glucosamine","4845","RxNorm","Ingredient",14,14
+1367500,"losartan","52175","RxNorm","Ingredient",14,14
+19004539,"lacidipine","28382","RxNorm","Ingredient",14,14
+970250,"spironolactone","9997","RxNorm","Ingredient",13,13
+19092845,"temsirolimus","657797","RxNorm","Ingredient",13,114
+37499031,"eptinezumab","2282660","RxNorm","Ingredient",13,20
+1149380,"fluticasone","41126","RxNorm","Ingredient",12,12
+1167322,"allopurinol","519","RxNorm","Ingredient",12,12
+1383815,"isosorbide","6057","RxNorm","Ingredient",12,12
+1397141,"bevacizumab","253337","RxNorm","Ingredient",12,70
+35198096,"insulin aspart","OMOP4819461","RxNorm Extension","Ingredient",12,12
+904351,"aminolevulinic acid","683","RxNorm","Ingredient",11,11
+1137529,"salmeterol","36117","RxNorm","Ingredient",11,11
+1352213,"factor VIII","4257","RxNorm","Ingredient",11,112
+1597756,"glimepiride","25789","RxNorm","Ingredient",11,11
+19054876,"dienogest","22968","RxNorm","Ingredient",11,11
+740560,"carbidopa","2019","RxNorm","Ingredient",10,373
+904453,"esomeprazole","283742","RxNorm","Ingredient",10,10
+1353256,"propafenone","8754","RxNorm","Ingredient",10,10
+1588000,"desogestrel","22656","RxNorm","Ingredient",10,10
+1724700,"foscarnet","33562","RxNorm","Ingredient",10,12
+1154343,"albuterol","435","RxNorm","Ingredient",9,9
+1322184,"clopidogrel","32968","RxNorm","Ingredient",9,9
+1350504,"etoposide","4179","RxNorm","Ingredient",9,9
+1351557,"candesartan","214354","RxNorm","Ingredient",9,9
+1366610,"esketamine","2119365","RxNorm","Ingredient",9,264
+1370109,"sotalol","9947","RxNorm","Ingredient",9,9
+40241969,"brentuximab vedotin","1147320","RxNorm","Ingredient",9,61
+904501,"travoprost","283809","RxNorm","Ingredient",8,8
+942350,"torsemide","38413","RxNorm","Ingredient",8,8
+956874,"furosemide","4603","RxNorm","Ingredient",8,8
+19015802,"lercanidipine","135056","RxNorm","Ingredient",8,8
+19097684,"gestodene","25734","RxNorm","Ingredient",8,8
+981709,"dorzolamide","60207","RxNorm","Ingredient",7,7
+989482,"dutasteride","228790","RxNorm","Ingredient",7,7
+1353776,"felodipine","4316","RxNorm","Ingredient",7,7
+1548195,"estradiol","4083","RxNorm","Ingredient",7,7
+1580747,"sitagliptin","593411","RxNorm","Ingredient",7,7
+19095164,"cholecalciferol","2418","RxNorm","Ingredient",7,7
+19136187,"streptokinase","10106","RxNorm","Ingredient",7,8
+715939,"escitalopram","321988","RxNorm","Ingredient",6,6
+948078,"pantoprazole","40790","RxNorm","Ingredient",6,6
+961047,"ranitidine","9143","RxNorm","Ingredient",6,6
+1154161,"montelukast","88249","RxNorm","Ingredient",6,6
+1309944,"amiodarone","703","RxNorm","Ingredient",6,6
+1331247,"pentoxifylline","8013","RxNorm","Ingredient",6,6
+1344354,"epirubicin","3995","RxNorm","Ingredient",6,6
+1352141,"factor VIIa","4256","RxNorm","Ingredient",6,20
+1502905,"insulin glargine","274783","RxNorm","Ingredient",6,6
+1519936,"etonogestrel","14584","RxNorm","Ingredient",6,6
+19011021,"moxonidine","30257","RxNorm","Ingredient",6,6
+19078187,"ifosfamide","5657","RxNorm","Ingredient",6,6
+44785885,"von Willebrand factor","11274","RxNorm","Ingredient",6,291
+920458,"betamethasone","1514","RxNorm","Ingredient",5,5
+964339,"sulfasalazine","9524","RxNorm","Ingredient",5,5
+1112921,"ipratropium","7213","RxNorm","Ingredient",5,5
+1307863,"verapamil","11170","RxNorm","Ingredient",5,5
+1315942,"docetaxel","72962","RxNorm","Ingredient",5,17
+1363053,"doxazosin","49276","RxNorm","Ingredient",5,5
+1383925,"isosorbide dinitrate","6058","RxNorm","Ingredient",5,5
+1557272,"alendronate","46041","RxNorm","Ingredient",5,5
+19011355,"etoricoxib","307296","RxNorm","Ingredient",5,5
+19020061,"nitrendipine","7441","RxNorm","Ingredient",5,5
+40226742,"olmesartan","321064","RxNorm","Ingredient",5,5
+42873638,"carfilzomib","1302966","RxNorm","Ingredient",5,149
+42898933,"defibrotide","1311089","RxNorm","Ingredient",5,15

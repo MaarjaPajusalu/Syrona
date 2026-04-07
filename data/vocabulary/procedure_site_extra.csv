@@ -1,0 +1,618 @@
+concept_id,relationship,relationship_id,target_concept_id,target_concept_name
+604986,procedure_site,Has indir proc site,4096320,Vitreous cavity structure
+618912,procedure_site,Has indir proc site,4169744,Knee joint structure
+619762,procedure_site,Has indir proc site,4147841,Nerve structure
+1073322,procedure_site,Has indir proc site,4195956,Tracheal structure
+1242824,procedure_site,Has indir proc site,4169744,Knee joint structure
+1242869,procedure_site,Has indir proc site,4214466,Joint structure
+1243263,procedure_site,Has indir proc site,4214466,Joint structure
+1243851,procedure_site,Has indir proc site,4029619,Bone marrow structure
+1245979,procedure_site,Has indir proc site,4271699,Inferior vena cava structure
+1447443,procedure_site,Has indir proc site,4049896,Aortic structure
+4000739,procedure_site,Has proc site,4260843,Neck structure
+4001554,procedure_site,Has indir proc site,4196657,Eyelid structure
+4002066,procedure_site,Has indir proc site,4033554,Structure of large intestine
+4002243,procedure_site,Has proc site,4329658,Structure of urinary tract proper
+4002377,procedure_site,Has indir proc site,4310976,Hand structure
+4003219,procedure_site,Has indir proc site,4232481,Urinary bladder structure
+4004519,procedure_site,Has indir proc site,4301506,Lens clear
+4005223,procedure_site,Has indir proc site,4301506,Lens clear
+4007438,procedure_site,Has indir proc site,4088327,Nasal cavity structure
+4010247,procedure_site,Has proc site,4310976,Hand structure
+4012185,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4012317,procedure_site,Has proc site,4294042,Salivary gland structure
+4012907,procedure_site,Has proc site,4095277,Structure of musculoskeletal system
+4012925,procedure_site,Has proc site,4051578,Nasal sinus structure
+4013051,procedure_site,Has proc site,4325271,Cervix uteri structure
+4013355,procedure_site,Has indir proc site,4068271,Cardiac valve structure
+4013510,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4013570,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4014477,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4014990,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4015555,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4016212,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4017330,procedure_site,Has indir proc site,4144672,Ileal structure
+4018561,procedure_site,Has indir proc site,4300290,Structure of annulus fibrosus of aorta
+4019540,procedure_site,Has indir proc site,4308580,Cerebrum
+4021434,procedure_site,Has indir proc site,4337115,Ureteric structure
+4022794,procedure_site,Has indir proc site,4104340,Venous structure
+4023102,procedure_site,Has indir proc site,4337115,Ureteric structure
+4025680,procedure_site,Has indir proc site,4169744,Knee joint structure
+4025993,procedure_site,Has indir proc site,4288283,Stomach structure
+4026045,procedure_site,Has proc site,4305329,Eye structure
+4028217,procedure_site,Has proc site,4159864,Skin structure of upper limb
+4028623,procedure_site,Has indir proc site,4029619,Bone marrow structure
+4028875,procedure_site,Has indir proc site,4267861,Lower limb structure
+4029549,procedure_site,Has proc site,4200396,Upper limb structure
+4029550,procedure_site,Has indir proc site,4310976,Hand structure
+4030028,procedure_site,Has proc site,4267861,Lower limb structure
+4030239,procedure_site,Has indir proc site,4169744,Knee joint structure
+4030660,procedure_site,Has proc site,4172281,Digestive organ structure
+4030715,procedure_site,Has proc site,4240393,Bone structure of mandible
+4031174,procedure_site,Has indir proc site,4082516,Hip joint structure
+4031456,procedure_site,Has indir proc site,4237074,Pleural cavity structure
+4031777,procedure_site,Has indir proc site,4307671,Peritoneal cavity structure
+4032621,procedure_site,Has indir proc site,4179487,Endometrial cavity structure
+4032929,procedure_site,Has proc site,4232481,Urinary bladder structure
+4033087,procedure_site,Has indir proc site,4049448,Ovarian structure
+4034305,procedure_site,Has proc site,4214466,Joint structure
+4034458,procedure_site,Has proc site,4232203,Structure of intervertebral disc
+4034845,procedure_site,Has proc site,4029306,Urethral structure
+4035289,procedure_site,Has indir proc site,4200396,Upper limb structure
+4035290,procedure_site,Has indir proc site,4107527,Lower leg structure
+4036803,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4038335,procedure_site,Has proc site,4232009,Male genital structure
+4039376,procedure_site,Has proc site,4046957,Gastrointestinal tract structure
+4039628,procedure_site,Has indir proc site,4104340,Venous structure
+4040299,procedure_site,Has proc site,4288283,Stomach structure
+4040401,procedure_site,Has proc site,4219601,Skin structure
+4040446,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4040551,procedure_site,Has proc site,4242893,Blood vessel structure
+4040713,procedure_site,Has proc site,4100253,Middle ear structure
+4040722,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4040974,procedure_site,Has indir proc site,4297788,Structure of femoral artery
+4041263,procedure_site,Has proc site,4047487,Urinary system structure
+4041266,procedure_site,Has proc site,4233942,Structure of lymphatic system
+4041271,procedure_site,Has proc site,4107527,Lower leg structure
+4041978,procedure_site,Has proc site,4046957,Gastrointestinal tract structure
+4042323,procedure_site,Has proc site,4159864,Skin structure of upper limb
+4042325,procedure_site,Has proc site,4237077,Bone structure of face
+4042327,procedure_site,Has proc site,4142814,Bone structure of ankle joint region
+4042478,procedure_site,Has proc site,4146820,Biliary tract structure
+4042504,procedure_site,Has proc site,4282006,Limb structure
+4042650,procedure_site,Has proc site,4267861,Lower limb structure
+4042677,procedure_site,Has proc site,4199457,Arterial structure
+4042907,procedure_site,Has indir proc site,4215634,Colon structure
+4043020,procedure_site,Has proc site,4034504,Structure of endocrine system
+4043022,procedure_site,Has proc site,4042529,Trunk structure
+4043025,procedure_site,Has proc site,4200396,Upper limb structure
+4043031,procedure_site,Has proc site,4313445,Skin structure of trunk
+4043171,procedure_site,Has proc site,4207370,Pharyngeal structure
+4043177,procedure_site,Has proc site,4308890,Structure of lymphatic vessel
+4043178,procedure_site,Has proc site,4047651,Mouth region structure
+4043182,procedure_site,Has proc site,4197119,Digestive tract structure
+4043334,procedure_site,Has proc site,4305329,Eye structure
+4043335,procedure_site,Has proc site,4102766,Corneal structure
+4044027,procedure_site,Has proc site,4041251,Bone structure of pelvis
+4044367,procedure_site,Has proc site,4222767,Bone structure of foot
+4044888,procedure_site,Has proc site,4100605,Structure of bone of forearm
+4045610,procedure_site,Has indir proc site,4028247,Intracranial structure
+4045900,procedure_site,Has proc site,4014426,Skeletal system structure
+4045963,procedure_site,Has proc site,4028247,Intracranial structure
+4046707,procedure_site,Has indir proc site,4217142,Heart structure
+4047008,procedure_site,Has indir proc site,4092904,Intracranial vascular structure
+4047008,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4047082,procedure_site,Has indir proc site,4014241,Structure of cardiovascular system
+4047234,procedure_site,Has proc site,4051774,Adrenal structure
+4048327,procedure_site,Has proc site,4050631,Maxillary sinus structure
+4048335,procedure_site,Has proc site,4123604,Tonsil and adenoid structure
+4048438,procedure_site,Has indir proc site,4219982,Coronary artery structure
+4048702,procedure_site,Has indir proc site,4337115,Ureteric structure
+4048938,procedure_site,Has indir proc site,4090907,Brain cerebrospinal fluid pathway
+4048938,procedure_site,Has indir proc site,4261981,Brain ventricle structure
+4048938,procedure_site,Has indir proc site,4093400,Spinal cerebrospinal fluid pathway
+4049551,procedure_site,Has indir proc site,4135703,Common carotid artery structure
+4049553,procedure_site,Has indir proc site,4297788,Structure of femoral artery
+4049553,procedure_site,Has indir proc site,4136495,Structure of profunda femoris artery
+4049682,procedure_site,Has indir proc site,4014548,Thoracic aorta structure
+4049832,procedure_site,Has indir proc site,4225995,Structure of peripheral vein
+4050137,procedure_site,Has indir proc site,4301737,Abdominal aorta structure
+4050139,procedure_site,Has indir proc site,4172495,Superior mesenteric artery structure
+4050572,procedure_site,Has indir proc site,4217142,Heart structure
+4050864,procedure_site,Has indir proc site,4271678,Kidney structure
+4050866,procedure_site,Has indir proc site,4271678,Kidney structure
+4051014,procedure_site,Has indir proc site,4318955,External carotid artery structure
+4051017,procedure_site,Has indir proc site,4109754,Common femoral artery
+4051018,procedure_site,Has indir proc site,4111596,Superficial femoral artery
+4051157,procedure_site,Has indir proc site,4111596,Superficial femoral artery
+4051163,procedure_site,Has indir proc site,4104340,Venous structure
+4051171,procedure_site,Has indir proc site,4088153,Vein of spermatic cord
+4051932,procedure_site,Has proc site,4217142,Heart structure
+4052115,procedure_site,Has indir proc site,4286359,Carotid artery structure
+4052116,procedure_site,Has indir proc site,4063510,Structure of brachial artery
+4052413,procedure_site,Has indir proc site,4149003,Structure of vena cava
+4052415,procedure_site,Has indir proc site,4167648,Superior vena cava structure
+4052820,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4057078,procedure_site,Has indir proc site,4217142,Heart structure
+4059099,procedure_site,Has indir proc site,4049448,Ovarian structure
+4059308,procedure_site,Has proc site,4151384,Gallbladder structure
+4060257,procedure_site,Has indir proc site,4049896,Aortic structure
+4061603,procedure_site,Has indir proc site,4337115,Ureteric structure
+4061841,procedure_site,Has proc site,4153243,External ear structure
+4062769,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4062771,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4062855,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4062856,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4063398,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4063759,procedure_site,Has indir proc site,4353153,Extradural space of brain
+4064518,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4064522,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4064523,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4064533,procedure_site,Has proc site,4100253,Middle ear structure
+4065058,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4065062,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4065687,procedure_site,Has indir proc site,4196657,Eyelid structure
+4065834,procedure_site,Has indir proc site,4102766,Corneal structure
+4067028,procedure_site,Has indir proc site,4102766,Corneal structure
+4067474,procedure_site,Has indir proc site,4164276,Nasal structure
+4067681,procedure_site,Has indir proc site,4151384,Gallbladder structure
+4067706,procedure_site,Has indir proc site,4195956,Tracheal structure
+4067825,procedure_site,Has indir proc site,4179706,Structure of orbit proper
+4068921,procedure_site,Has indir proc site,4327174,Palatine tonsillar structure
+4069463,procedure_site,Has indir proc site,4289618,Pancreatic duct structure
+4069779,procedure_site,Has indir proc site,4027912,Structure of intracranial artery
+4069914,procedure_site,Has proc site,4166066,Vulval structure
+4069969,procedure_site,Has indir proc site,4149192,Uterine structure
+4070140,procedure_site,Has indir proc site,4262229,Laryngeal structure
+4070457,procedure_site,Has proc site,4285885,Structure of extraocular muscle
+4070544,procedure_site,Has indir proc site,4207370,Pharyngeal structure
+4070762,procedure_site,Has indir proc site,4046744,Structure of flexor tendon within wrist region
+4070834,procedure_site,Has indir proc site,4307671,Peritoneal cavity structure
+4070868,procedure_site,Has proc site,4288283,Stomach structure
+4071009,procedure_site,Has indir proc site,4244368,Tooth structure
+4071934,procedure_site,Has proc site,4182196,Scrotal and testis structures
+4072513,procedure_site,Has indir proc site,4065366,Structure of respiratory system
+4072697,procedure_site,Has indir proc site,4296022,Vaginal structure
+4072700,procedure_site,Has indir proc site,4207210,Structure of rectouterine pouch
+4072862,procedure_site,Has indir proc site,4083229,Ovarian follicle structure
+4073379,procedure_site,Has indir proc site,4214466,Joint structure
+4073391,procedure_site,Has indir proc site,4193513,Chest wall structure
+4073393,procedure_site,Has proc site,4193513,Chest wall structure
+4073521,procedure_site,Has proc site,4222297,Abdominal wall
+4073521,procedure_site,Has proc site,4244412,Anterior abdominal wall structure
+4073702,procedure_site,Has indir proc site,4165732,Prostate
+4073860,procedure_site,Has proc site,4088153,Vein of spermatic cord
+4073990,procedure_site,Has indir proc site,4337115,Ureteric structure
+4073996,procedure_site,Has proc site,4076570,Structure of prepuce of penis
+4074287,procedure_site,Has proc site,4182963,Structure of upper female genital system
+4074443,procedure_site,Has indir proc site,4151444,Fallopian tube structure
+4074571,procedure_site,Has indir proc site,4049448,Ovarian structure
+4074687,procedure_site,Has indir proc site,4213162,Lung structure
+4074831,procedure_site,Has proc site,4300066,Umbilical structure
+4074869,procedure_site,Has indir proc site,4179487,Endometrial cavity structure
+4075112,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4075290,procedure_site,Has proc site,4325458,Muscle structure
+4075598,procedure_site,Has indir proc site,4237609,Skin structure of head and/or neck
+4075967,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4076608,procedure_site,Has indir proc site,4310972,Glenohumeral joint structure
+4077078,procedure_site,Has indir proc site,4162264,Hip joint part
+4077763,procedure_site,Has indir proc site,4338971,Soft tissue
+4079401,procedure_site,Has indir proc site,4080221,Entire glenohumeral joint
+4079402,procedure_site,Has indir proc site,4080221,Entire glenohumeral joint
+4079602,procedure_site,Has indir proc site,4267861,Lower limb structure
+4079651,procedure_site,Has indir proc site,4353261,Component of knee joint
+4079653,procedure_site,Has indir proc site,4353261,Component of knee joint
+4079766,procedure_site,Has indir proc site,4104340,Venous structure
+4080918,procedure_site,Has indir proc site,4196657,Eyelid structure
+4081380,procedure_site,Has indir proc site,4029619,Bone marrow structure
+4082198,procedure_site,Has indir proc site,4242893,Blood vessel structure
+4083066,procedure_site,Has indir proc site,4237074,Pleural cavity structure
+4083534,procedure_site,Has indir proc site,4032953,Forearm structure
+4085558,procedure_site,Has indir proc site,4217142,Heart structure
+4085923,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4086912,procedure_site,Has indir proc site,4144672,Ileal structure
+4087552,procedure_site,Has proc site,4323581,Bone structure of femur
+4087575,procedure_site,Has proc site,4202233,Anal structure
+4087611,procedure_site,Has proc site,4065366,Structure of respiratory system
+4087889,procedure_site,Has indir proc site,4271678,Kidney structure
+4088016,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4091870,procedure_site,Has proc site,4164276,Nasal structure
+4093926,procedure_site,Has indir proc site,4219601,Skin structure
+4094533,procedure_site,Has indir proc site,4041251,Bone structure of pelvis
+4098039,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4098786,procedure_site,Has proc site,4148296,Peripheral nervous system structure
+4098793,procedure_site,Has proc site,4148296,Peripheral nervous system structure
+4099101,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4099462,procedure_site,Has indir proc site,4298444,Breast structure
+4099484,procedure_site,Has indir proc site,4217142,Heart structure
+4101113,procedure_site,Has proc site,4214466,Joint structure
+4102383,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4103962,procedure_site,Has indir proc site,4169744,Knee joint structure
+4105082,procedure_site,Has indir proc site,4043008,Artery of thorax
+4107087,procedure_site,Has indir proc site,4080222,Entire elbow joint
+4107428,procedure_site,Has indir proc site,4079208,Entire ankle joint
+4107731,procedure_site,Has indir proc site,4217988,Subcutaneous tissue structure
+4108845,procedure_site,Has indir proc site,4042529,Trunk structure
+4108866,procedure_site,Has indir proc site,4267861,Lower limb structure
+4113529,procedure_site,Has indir proc site,44782621,Structure of internal part of mouth
+4116186,procedure_site,Has indir proc site,4167648,Superior vena cava structure
+4118091,procedure_site,Has indir proc site,4202366,Temporomandibular joint structure
+4119985,procedure_site,Has indir proc site,4219601,Skin structure
+4119988,procedure_site,Has indir proc site,4219601,Skin structure
+4120120,procedure_site,Has indir proc site,4271678,Kidney structure
+4120148,procedure_site,Has proc site,4034270,Intestinal structure
+4120445,procedure_site,Has indir proc site,4029619,Bone marrow structure
+4120998,procedure_site,Has proc site,4219601,Skin structure
+4121234,procedure_site,Has indir proc site,4144541,Rectum structure
+4122234,procedure_site,Has indir proc site,4167501,Structure of gastric lumen
+4122330,procedure_site,Has indir proc site,4140098,Esophageal structure
+4123420,procedure_site,Has proc site,4234217,Structure of hemorrhoidal plexus
+4123434,procedure_site,Has proc site,4227148,Epididymis structure
+4123569,procedure_site,Has indir proc site,4319471,Structure of duodenal lumen
+4123747,procedure_site,Has indir proc site,4140098,Esophageal structure
+4123886,procedure_site,Has indir proc site,4302112,Duodenal structure
+4124391,procedure_site,Has proc site,4301915,Structure of oral frenum
+4125153,procedure_site,Has indir proc site,4288283,Stomach structure
+4125163,procedure_site,Has indir proc site,4302112,Duodenal structure
+4125170,procedure_site,Has indir proc site,4146765,Structure of small intestine
+4125943,procedure_site,Has proc site,4184295,Structure of gum and supporting structure of tooth
+4126771,procedure_site,Has proc site,4227271,Minor salivary gland structure
+4127237,procedure_site,Has indir proc site,4049448,Ovarian structure
+4127245,procedure_site,Has indir proc site,4274953,Structure of amniotic cavity
+4128362,procedure_site,Has indir proc site,4105096,Joint structure of shoulder girdle
+4128362,procedure_site,Has indir proc site,4151929,Joint structure of shoulder region
+4129658,procedure_site,Has indir proc site,4210181,Structure of esophageal lumen
+4129747,procedure_site,Has proc site,4203155,Female genital structure
+4132400,procedure_site,Has indir proc site,4219713,Pelvis and lower extremities
+4134148,procedure_site,Has proc site,4132420,Female genital organ structure
+4134857,procedure_site,Has indir proc site,4082516,Hip joint structure
+4135206,procedure_site,Has indir proc site,4296022,Vaginal structure
+4137375,procedure_site,Has indir proc site,4052689,Structure of lumbar intervertebral disc
+4137700,procedure_site,Has indir proc site,4217142,Heart structure
+4138740,procedure_site,Has indir proc site,4099331,Endometrial structure
+4138741,procedure_site,Has indir proc site,4179487,Endometrial cavity structure
+4138868,procedure_site,Has indir proc site,4079206,Entire hip joint
+4138870,procedure_site,Has indir proc site,4111908,Entire knee joint
+4138872,procedure_site,Has indir proc site,4111908,Entire knee joint
+4139773,procedure_site,Has indir proc site,4201588,Structure of vertebral region of back
+4139773,procedure_site,Has indir proc site,620053,Vertebral column region
+4139992,procedure_site,Has proc site,4154158,Bile duct structure
+4140161,procedure_site,Has proc site,4093709,Limiting membrane of retina
+4140397,procedure_site,Has indir proc site,4147841,Nerve structure
+4140455,procedure_site,Has indir proc site,4065366,Structure of respiratory system
+4141907,procedure_site,Has indir proc site,4323581,Bone structure of femur
+4141919,procedure_site,Has indir proc site,4237074,Pleural cavity structure
+4141922,procedure_site,Has indir proc site,37303863,Abdominopelvic cavity
+4141922,procedure_site,Has indir proc site,4199742,Abdominopelvic cavity structure
+4142080,procedure_site,Has indir proc site,4310972,Glenohumeral joint structure
+4142625,procedure_site,Has indir proc site,4336685,Salivary duct structure
+4143509,procedure_site,Has indir proc site,4337115,Ureteric structure
+4143510,procedure_site,Has proc site,4087995,Structure of female urinary bladder neck
+4143592,procedure_site,Has proc site,44784094,Skeletal muscle and/or tendon structure
+4143686,procedure_site,Has indir proc site,4043008,Artery of thorax
+4143686,procedure_site,Has indir proc site,4215757,Pulmonary artery structure
+4143728,procedure_site,Has indir proc site,4195956,Tracheal structure
+4144062,procedure_site,Has indir proc site,4104340,Venous structure
+4144078,procedure_site,Has proc site,4034270,Intestinal structure
+4144432,procedure_site,Has indir proc site,4079206,Entire hip joint
+4144525,procedure_site,Has indir proc site,4289928,Ankle joint structure
+4144552,procedure_site,Has indir proc site,4162263,Glenohumeral joint part
+4144552,procedure_site,Has indir proc site,4105096,Joint structure of shoulder girdle
+4144573,procedure_site,Has indir proc site,4135229,Anterior chamber of eye structure
+4144827,procedure_site,Has indir proc site,4305329,Eye structure
+4144861,procedure_site,Has indir proc site,4298557,Pericardial structure
+4144899,procedure_site,Has indir proc site,4217142,Heart structure
+4145225,procedure_site,Has indir proc site,4144672,Ileal structure
+4145362,procedure_site,Has indir proc site,4102766,Corneal structure
+4145382,procedure_site,Has indir proc site,4240970,Mastoid structure
+4146045,procedure_site,Has indir proc site,4274953,Structure of amniotic cavity
+4146781,procedure_site,Has indir proc site,4012567,Structure of iliac artery
+4148148,procedure_site,Has proc site,4159862,Skin structure of lower limb
+4149327,procedure_site,Has indir proc site,4217142,Heart structure
+4149348,procedure_site,Has indir proc site,4151384,Gallbladder structure
+4149741,procedure_site,Has indir proc site,4144672,Ileal structure
+4149930,procedure_site,Has indir proc site,4104246,Pericardial cavity structure
+4150502,procedure_site,Has indir proc site,4135229,Anterior chamber of eye structure
+4150538,procedure_site,Has indir proc site,4179487,Endometrial cavity structure
+4150990,procedure_site,Has indir proc site,4082516,Hip joint structure
+4151765,procedure_site,Has indir proc site,4305329,Eye structure
+4153287,procedure_site,Has indir proc site,4151444,Fallopian tube structure
+4155600,procedure_site,Has indir proc site,4091162,Scleral structure
+4158252,procedure_site,Has indir proc site,4232481,Urinary bladder structure
+4159882,procedure_site,Has proc site,4305329,Eye structure
+4159949,procedure_site,Has proc site,4338971,Soft tissue
+4159965,procedure_site,Has indir proc site,4277279,Structure of posterior chamber of eye
+4160163,procedure_site,Has indir proc site,4139602,Cecum structure
+4160183,procedure_site,Has indir proc site,4100253,Middle ear structure
+4160269,procedure_site,Has indir proc site,4200396,Upper limb structure
+4160270,procedure_site,Has indir proc site,4267861,Lower limb structure
+4160360,procedure_site,Has proc site,4159886,Eye region structure
+4160418,procedure_site,Has indir proc site,4278992,Structure of annulus fibrosus of mitral orifice
+4162987,procedure_site,Has indir proc site,4215634,Colon structure
+4163287,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4163968,procedure_site,Has proc site,4321259,Thymus gland structure
+4164731,procedure_site,Has indir proc site,4296022,Vaginal structure
+4164907,procedure_site,Has indir proc site,4035784,Structure of serous membrane of peritoneum
+4165348,procedure_site,Has indir proc site,4077311,Penile structure
+4165535,procedure_site,Has proc site,4156081,Respiratory tract structure
+4166711,procedure_site,Has indir proc site,37154624,Structure of lumen of lacrimal drainage system
+4167173,procedure_site,Has indir proc site,4219982,Coronary artery structure
+4168528,procedure_site,Has indir proc site,4178172,Tympanic membrane structure
+4170058,procedure_site,Has proc site,4140098,Esophageal structure
+4173712,procedure_site,Has indir proc site,4278992,Structure of annulus fibrosus of mitral orifice
+4173721,procedure_site,Has proc site,4008109,Tarsal plate structure
+4174057,procedure_site,Has proc site,4135229,Anterior chamber of eye structure
+4174214,procedure_site,Has indir proc site,37303863,Abdominopelvic cavity
+4174214,procedure_site,Has indir proc site,4199742,Abdominopelvic cavity structure
+4174389,procedure_site,Has proc site,4146820,Biliary tract structure
+4175627,procedure_site,Has proc site,4233942,Structure of lymphatic system
+4176323,procedure_site,Has indir proc site,4272388,Structure of subclavian artery
+4177047,procedure_site,Has indir proc site,4242893,Blood vessel structure
+4178833,procedure_site,Has indir proc site,4034504,Structure of endocrine system
+4178834,procedure_site,Has indir proc site,4219601,Skin structure
+4179027,procedure_site,Has proc site,4313445,Skin structure of trunk
+4179363,procedure_site,Has indir proc site,4217142,Heart structure
+4180279,procedure_site,Has indir proc site,4178172,Tympanic membrane structure
+4180860,procedure_site,Has indir proc site,4337115,Ureteric structure
+4181025,procedure_site,Has indir proc site,4219982,Coronary artery structure
+4181205,procedure_site,Has proc site,4150673,Pleural structure
+4181208,procedure_site,Has indir proc site,4305329,Eye structure
+4181450,procedure_site,Has indir proc site,4337115,Ureteric structure
+4181610,procedure_site,Has indir proc site,4297788,Structure of femoral artery
+4181778,procedure_site,Has indir proc site,4104340,Venous structure
+4181955,procedure_site,Has indir proc site,4242893,Blood vessel structure
+4182228,procedure_site,Has proc site,4222565,Ear ossicle structure
+4183274,procedure_site,Has proc site,4236847,Diaphragm structure
+4183687,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4184187,procedure_site,Has proc site,4063534,Structure of uterine ligament
+4185284,procedure_site,Has indir proc site,4014241,Structure of cardiovascular system
+4185578,procedure_site,Has proc site,4006785,Parathyroid structure
+4185734,procedure_site,Has indir proc site,4034270,Intestinal structure
+4187207,procedure_site,Has indir proc site,4305329,Eye structure
+4187207,procedure_site,Has indir proc site,4301506,Lens clear
+4187537,procedure_site,Has indir proc site,4217142,Heart structure
+4187965,procedure_site,Has proc site,4218107,Bone structure of lower limb
+4189286,procedure_site,Has proc site,4305329,Eye structure
+4189847,procedure_site,Has proc site,4151444,Fallopian tube structure
+4190187,procedure_site,Has indir proc site,4135229,Anterior chamber of eye structure
+4190437,procedure_site,Has indir proc site,4050631,Maxillary sinus structure
+4192247,procedure_site,Has proc site,4144541,Rectum structure
+4193388,procedure_site,Has indir proc site,4232481,Urinary bladder structure
+4194197,procedure_site,Has proc site,4241958,Structure of lymph node
+4194253,procedure_site,Has proc site,4298444,Breast structure
+4194514,procedure_site,Has indir proc site,4211548,Aortic arch structure
+4194672,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4195164,procedure_site,Has proc site,4177661,Structure of visual system
+4195603,procedure_site,Has proc site,4296022,Vaginal structure
+4195757,procedure_site,Has proc site,4149192,Uterine structure
+4195852,procedure_site,Has indir proc site,4068269,Structure of left side of heart
+4198228,procedure_site,Has indir proc site,4337115,Ureteric structure
+4198242,procedure_site,Has indir proc site,4244588,Sigmoid colon structure
+4199570,procedure_site,Has proc site,4047490,Thoracic spine structure
+4200280,procedure_site,Has indir proc site,4296022,Vaginal structure
+4201720,procedure_site,Has proc site,4046743,Structure of cervical vertebral column
+4202369,procedure_site,Has indir proc site,4156081,Respiratory tract structure
+4202558,procedure_site,Has indir proc site,4149192,Uterine structure
+4202832,procedure_site,Has indir proc site,4106705,Anatomical space structure
+4203425,procedure_site,Has indir proc site,4061414,Elbow joint structure
+4203428,procedure_site,Has indir proc site,4238088,Testis structure
+4203473,procedure_site,Has indir proc site,4305329,Eye structure
+4203771,procedure_site,Has indir proc site,4082516,Hip joint structure
+4203990,procedure_site,Has indir proc site,4307671,Peritoneal cavity structure
+4204395,procedure_site,Has indir proc site,4070760,Cardiac ventricular structure
+4204395,procedure_site,Has indir proc site,4217142,Heart structure
+4204677,procedure_site,Has indir proc site,4288283,Stomach structure
+4205529,procedure_site,Has indir proc site,4305329,Eye structure
+4205529,procedure_site,Has indir proc site,4301506,Lens clear
+4210602,procedure_site,Has indir proc site,4214466,Joint structure
+4212613,procedure_site,Has proc site,4287099,Nasal septum structure
+4212941,procedure_site,Has indir proc site,4179487,Endometrial cavity structure
+4213128,procedure_site,Has proc site,4329658,Structure of urinary tract proper
+4213288,procedure_site,Has indir proc site,4199457,Arterial structure
+4213291,procedure_site,Has indir proc site,4296022,Vaginal structure
+4213306,procedure_site,Has proc site,4086187,Structure of canthus
+4213312,procedure_site,Has proc site,4262229,Laryngeal structure
+4213552,procedure_site,Has proc site,4049448,Ovarian structure
+4216130,procedure_site,Has proc site,4219982,Coronary artery structure
+4216735,procedure_site,Has indir proc site,44782621,Structure of internal part of mouth
+4217211,procedure_site,Has indir proc site,4096320,Vitreous cavity structure
+4217346,procedure_site,Has indir proc site,4238728,Structure of pharyngotympanic tube
+4218109,procedure_site,Has indir proc site,4154333,Bone structure
+4218467,procedure_site,Has indir proc site,4294659,Structure of artery of upper limb
+4218755,procedure_site,Has indir proc site,4261981,Brain ventricle structure
+4220029,procedure_site,Has indir proc site,4271678,Kidney structure
+4220964,procedure_site,Has proc site,4302112,Duodenal structure
+4223020,procedure_site,Has indir proc site,4217142,Heart structure
+4223363,procedure_site,Has indir proc site,4301506,Lens clear
+4223626,procedure_site,Has indir proc site,4196917,Structure of right side of heart
+4223934,procedure_site,Has indir proc site,4301506,Lens clear
+4224154,procedure_site,Has indir proc site,4093066,Descending aorta structure
+4224173,procedure_site,Has proc site,4234217,Structure of hemorrhoidal plexus
+4225375,procedure_site,Has indir proc site,4323840,Structure of artery of lower limb
+4227277,procedure_site,Has indir proc site,4053843,Finger joint structure
+4227418,procedure_site,Has indir proc site,4167501,Structure of gastric lumen
+4228050,procedure_site,Has proc site,4164276,Nasal structure
+4228073,procedure_site,Has indir proc site,4225241,Peripheral nerve structure
+4229118,procedure_site,Has indir proc site,4151384,Gallbladder structure
+4231419,procedure_site,Has indir proc site,4307671,Peritoneal cavity structure
+4231506,procedure_site,Has indir proc site,4213162,Lung structure
+4231924,procedure_site,Has indir proc site,4200396,Upper limb structure
+4232099,procedure_site,Has indir proc site,4196642,Cochlear structure
+4232599,procedure_site,Has indir proc site,4146820,Biliary tract structure
+4232742,procedure_site,Has indir proc site,4219601,Skin structure
+4233386,procedure_site,Has indir proc site,4214466,Joint structure
+4233678,procedure_site,Has indir proc site,4219601,Skin structure
+4234743,procedure_site,Has indir proc site,4196642,Cochlear structure
+4237430,procedure_site,Has indir proc site,4278457,Structure of trigeminal ganglion
+4238814,procedure_site,Has proc site,4154333,Bone structure
+4239208,procedure_site,Has proc site,4305329,Eye structure
+4239302,procedure_site,Has indir proc site,4132420,Female genital organ structure
+4240305,procedure_site,Has indir proc site,4237074,Pleural cavity structure
+4240701,procedure_site,Has indir proc site,4034270,Intestinal structure
+4241102,procedure_site,Has indir proc site,4217142,Heart structure
+4242877,procedure_site,Has indir proc site,4301775,Intracranial subdural space structure
+4244381,procedure_site,Has indir proc site,4040384,Structure of artery of abdomen
+4245372,procedure_site,Has indir proc site,4104340,Venous structure
+4246185,procedure_site,Has proc site,4203155,Female genital structure
+4246527,procedure_site,Has indir proc site,4146820,Biliary tract structure
+4247782,procedure_site,Has proc site,4105476,Ciliary body structure
+4248955,procedure_site,Has proc site,4325271,Cervix uteri structure
+4249123,procedure_site,Has proc site,4196657,Eyelid structure
+4249161,procedure_site,Has proc site,4068271,Cardiac valve structure
+4250000,procedure_site,Has indir proc site,4029306,Urethral structure
+4251314,procedure_site,Has proc site,37303867,Abdomen
+4252594,procedure_site,Has indir proc site,4089916,Subconjunctival space
+4257824,procedure_site,Has indir proc site,4123621,Structure of urinary bladder and outflow
+4258554,procedure_site,Has indir proc site,4082516,Hip joint structure
+4259622,procedure_site,Has indir proc site,4096320,Vitreous cavity structure
+4260104,procedure_site,Has indir proc site,4288283,Stomach structure
+4261365,procedure_site,Has indir proc site,4171827,Transverse colon structure
+4262807,procedure_site,Has proc site,4021236,Female perineal structure
+4262936,procedure_site,Has indir proc site,4027912,Structure of intracranial artery
+4266224,procedure_site,Has indir proc site,4288283,Stomach structure
+4266232,procedure_site,Has indir proc site,4219601,Skin structure
+4267594,procedure_site,Has proc site,4337115,Ureteric structure
+4269993,procedure_site,Has indir proc site,4088327,Nasal cavity structure
+4272547,procedure_site,Has indir proc site,4135229,Anterior chamber of eye structure
+4272933,procedure_site,Has indir proc site,4098198,Cranial nerve structure
+4273546,procedure_site,Has proc site,4237077,Bone structure of face
+4275113,procedure_site,Has indir proc site,4149192,Uterine structure
+4275564,procedure_site,Has proc site,4217142,Heart structure
+4275736,procedure_site,Has indir proc site,4104340,Venous structure
+4275747,procedure_site,Has indir proc site,4217988,Subcutaneous tissue structure
+4277414,procedure_site,Has indir proc site,4166066,Vulval structure
+4277585,procedure_site,Has proc site,4049448,Ovarian structure
+4278676,procedure_site,Has indir proc site,4166532,"Structure of artery of head, neck AND/OR brain"
+4279393,procedure_site,Has indir proc site,4094242,Renal pelvis structure
+4279768,procedure_site,Has indir proc site,4215757,Pulmonary artery structure
+4279916,procedure_site,Has indir proc site,4151444,Fallopian tube structure
+4282460,procedure_site,Has indir proc site,4279557,Structure of umbilical vein
+4282602,procedure_site,Has indir proc site,4271678,Kidney structure
+4284252,procedure_site,Has indir proc site,4323840,Structure of artery of lower limb
+4284254,procedure_site,Has indir proc site,4080542,Esophageal venous plexus
+4287321,procedure_site,Has indir proc site,4104340,Venous structure
+4287324,procedure_site,Has indir proc site,4199457,Arterial structure
+4288992,procedure_site,Has proc site,4305329,Eye structure
+4291347,procedure_site,Has indir proc site,4287390,Head structure
+4291474,procedure_site,Has indir proc site,4040384,Structure of artery of abdomen
+4293738,procedure_site,Has indir proc site,4106705,Anatomical space structure
+4293870,procedure_site,Has indir proc site,4305329,Eye structure
+4295019,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+4295140,procedure_site,Has indir proc site,4217806,Knee region structure
+4295161,procedure_site,Has indir proc site,4049768,Pancreatic structure
+4297365,procedure_site,Has indir proc site,4162264,Hip joint part
+4297516,procedure_site,Has proc site,4288283,Stomach structure
+4297967,procedure_site,Has indir proc site,4310109,Body tissue structure
+4298166,procedure_site,Has indir proc site,4094242,Renal pelvis structure
+4298560,procedure_site,Has indir proc site,4262229,Laryngeal structure
+4299185,procedure_site,Has indir proc site,4151444,Fallopian tube structure
+4299447,procedure_site,Has proc site,4193513,Chest wall structure
+4299725,procedure_site,Has proc site,4216544,Mediastinal structure
+4300244,procedure_site,Has proc site,4199473,Thoracic structure
+4300372,procedure_site,Has proc site,4262229,Laryngeal structure
+4300656,procedure_site,Has indir proc site,4105319,Conjunctival structure
+4301065,procedure_site,Has indir proc site,4232481,Urinary bladder structure
+4301352,procedure_site,Has proc site,4213162,Lung structure
+4301559,procedure_site,Has indir proc site,4223398,External auditory canal structure
+4302414,procedure_site,Has proc site,4100253,Middle ear structure
+4302534,procedure_site,Has proc site,4301506,Lens clear
+4302674,procedure_site,Has proc site,4105319,Conjunctival structure
+4303291,procedure_site,Has indir proc site,4271678,Kidney structure
+4306749,procedure_site,Has indir proc site,4012567,Structure of iliac artery
+4307531,procedure_site,Has proc site,4294546,Structure of soft tissue within upper limb
+4307663,procedure_site,Has proc site,4032953,Forearm structure
+4309374,procedure_site,Has proc site,4099912,Spinal cord structure
+4310657,procedure_site,Has indir proc site,4112393,Entire radiocarpal joint
+4311038,procedure_site,Has proc site,4201588,Structure of vertebral region of back
+4311038,procedure_site,Has proc site,620053,Vertebral column region
+4311039,procedure_site,Has indir proc site,4169744,Knee joint structure
+4311417,procedure_site,Has indir proc site,4179706,Structure of orbit proper
+4312749,procedure_site,Has proc site,4283683,Appendix structure
+4314436,procedure_site,Has indir proc site,4034270,Intestinal structure
+4319321,procedure_site,Has indir proc site,4034054,Abdomen
+4319321,procedure_site,Has indir proc site,37303867,Abdomen
+4321430,procedure_site,Has indir proc site,4223398,External auditory canal structure
+4322820,procedure_site,Has proc site,4177661,Structure of visual system
+4324124,procedure_site,Has indir proc site,4271678,Kidney structure
+4326683,procedure_site,Has proc site,4314892,Structure of digestive system
+4327115,procedure_site,Has proc site,4107083,Hip region structure
+4327488,procedure_site,Has proc site,4014241,Structure of cardiovascular system
+4328205,procedure_site,Has proc site,4138680,Anterior eyeball segment structure
+4329453,procedure_site,Has proc site,4336841,Bartholin's gland structure
+4329458,procedure_site,Has indir proc site,4199473,Thoracic structure
+4331674,procedure_site,Has indir proc site,4321375,Thyroid structure
+4333131,procedure_site,Has indir proc site,37158920,Structure of cavity of lacrimal sac
+4333973,procedure_site,Has proc site,4096320,Vitreous cavity structure
+4333973,procedure_site,Has indir proc site,4096320,Vitreous cavity structure
+4334590,procedure_site,Has indir proc site,4096320,Vitreous cavity structure
+4334716,procedure_site,Has proc site,4165531,Vitreous body structure
+4334717,procedure_site,Has proc site,4165531,Vitreous body structure
+4334718,procedure_site,Has proc site,4165531,Vitreous body structure
+4335865,procedure_site,Has indir proc site,1243094,Structure of subretinal space
+4335868,procedure_site,Has proc site,4165531,Vitreous body structure
+4336143,procedure_site,Has proc site,4223398,External auditory canal structure
+4336544,procedure_site,Has proc site,4195956,Tracheal structure
+4336764,procedure_site,Has proc site,4242112,Atrial structure
+4336914,procedure_site,Has indir proc site,4230487,Airway structure
+4337047,procedure_site,Has indir proc site,4096086,Structure of tracheal lumen
+4337049,procedure_site,Has indir proc site,4244890,Structure of bronchial lumen
+4338312,procedure_site,Has proc site,4263328,Structure of leaflet of mitral valve
+4338441,procedure_site,Has proc site,4305339,Structure of cusp of aortic valve
+4338539,procedure_site,Has proc site,4135229,Anterior chamber of eye structure
+4338746,procedure_site,Has proc site,4208981,Retinal structure
+4338746,procedure_site,Has proc site,4165531,Vitreous body structure
+4339288,procedure_site,Has indir proc site,4219982,Coronary artery structure
+4339412,procedure_site,Has indir proc site,4301506,Lens clear
+4339493,procedure_site,Has indir proc site,4313990,Peripharyngeal area structure
+4339493,procedure_site,Has indir proc site,37303927,Peripharyngeal space
+4339601,procedure_site,Has indir proc site,4262229,Laryngeal structure
+4340646,procedure_site,Has indir proc site,4288283,Stomach structure
+4341896,procedure_site,Has indir proc site,4232481,Urinary bladder structure
+4343012,procedure_site,Has indir proc site,4337115,Ureteric structure
+4353741,procedure_site,Has proc site,4217142,Heart structure
+37153525,procedure_site,Has indir proc site,4045430,Tendon structure
+37153529,procedure_site,Has indir proc site,4214466,Joint structure
+37153627,procedure_site,Has proc site,4242893,Blood vessel structure
+37156605,procedure_site,Has indir proc site,4179487,Endometrial cavity structure
+37157813,procedure_site,Has indir proc site,4217142,Heart structure
+37158794,procedure_site,Has indir proc site,4101845,"Tooth, gum, and/or supporting structure"
+37159018,procedure_site,Has indir proc site,4168010,Structure of urinary bladder cavity
+37163781,procedure_site,Has proc site,4051578,Nasal sinus structure
+37163788,procedure_site,Has proc site,4066714,Scrotal structure
+37167470,procedure_site,Has indir proc site,4168010,Structure of urinary bladder cavity
+37204555,procedure_site,Has proc site,40481827,Anatomical or acquired body structure
+37394520,procedure_site,Has indir proc site,4230487,Airway structure
+40307721,procedure_site,Has indir proc site,4325271,Cervix uteri structure
+40479651,procedure_site,Has indir proc site,4242893,Blood vessel structure
+40480947,procedure_site,Has indir proc site,4300290,Structure of annulus fibrosus of aorta
+40482207,procedure_site,Has indir proc site,4298444,Breast structure
+40482949,procedure_site,Has indir proc site,4229593,Vagus nerve structure
+40483386,procedure_site,Has indir proc site,4233942,Structure of lymphatic system
+40487536,procedure_site,Has indir proc site,37219062,Structure of lumen of respiratory tract
+40487575,procedure_site,Has indir proc site,4154158,Bile duct structure
+40488324,procedure_site,Has indir proc site,4232481,Urinary bladder structure
+40488365,procedure_site,Has indir proc site,4123621,Structure of urinary bladder and outflow
+40488485,procedure_site,Has indir proc site,4202366,Temporomandibular joint structure
+40489321,procedure_site,Has indir proc site,4140098,Esophageal structure
+40489325,procedure_site,Has indir proc site,4140098,Esophageal structure
+40489804,procedure_site,Has indir proc site,4133034,Brain structure
+40490324,procedure_site,Has indir proc site,4094242,Renal pelvis structure
+40492529,procedure_site,Has indir proc site,4214466,Joint structure
+40492771,procedure_site,Has indir proc site,4094242,Renal pelvis structure
+40493292,procedure_site,Has indir proc site,4140098,Esophageal structure
+42872469,procedure_site,Has indir proc site,4271678,Kidney structure
+42872588,procedure_site,Has indir proc site,4321847,Skin structure of head
+42872876,procedure_site,Has indir proc site,4215634,Colon structure
+43531531,procedure_site,Has indir proc site,4287390,Head structure
+43531648,procedure_site,Has indir proc site,4169744,Knee joint structure
+44789813,procedure_site,Has indir proc site,4146820,Biliary tract structure
+44790187,procedure_site,Has indir proc site,4254083,Wrist joint structure
+44793142,procedure_site,Has proc site,4110209,Structure of outlet of urinary bladder
+44801964,procedure_site,Has indir proc site,4104340,Venous structure
+44806220,procedure_site,Has indir proc site,4096320,Vitreous cavity structure
+44807107,procedure_site,Has indir proc site,4267861,Lower limb structure
+45766058,procedure_site,Has proc site,4216845,Genital structure
+45766060,procedure_site,Has proc site,4216845,Genital structure
+46270663,procedure_site,Has indir proc site,4035784,Structure of serous membrane of peritoneum
+46271144,procedure_site,Has indir proc site,4154158,Bile duct structure
+46285669,procedure_site,Has indir proc site,4133034,Brain structure

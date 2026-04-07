@@ -1,0 +1,127 @@
+---
+title: "Introduction"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{a00_introduction}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## What is Syrona?
+
+**Syrona** compares health datasets built on the OMOP Common Data Model. Given two OMOP CDM databases (or two cohorts within the same database), it:
+
+1.  **Extracts** stratified prevalence tables across three clinical domains (conditions, procedures, drugs)
+2.  **Compares** paired datasets by computing log2 prevalence ratios per stratum
+3.  **Synthesizes** (pools) results via multi-level random-effects meta-analysis
+
+The output is a set of CSV tables that can be explored in the Syrona dashboard or consumed by downstream tools.
+
+## How it differs from other OHDSI tools
+
+| Tool | Purpose |
+|-----------------------------|-------------------------------------------|
+| ACHILLES | Profile a single database (aggregate statistics) |
+| CohortDiagnostics | Validate cohort definitions (incidence, attrition) |
+| CohortContrast | Feature selection: target vs control within one database |
+| **Syrona** | **Compare the same population across different databases/sites** |
+
+Syrona is designed for multi-site comparisons where you want to understand how prevalence patterns differ between institutions, countries, or data sources.
+
+## Installation
+
+```{r, eval=FALSE}
+# From GitHub:
+# install.packages("remotes")
+remotes::install_github("HealthInformaticsUT/syrona")
+```
+
+### Dependencies
+
+-   [CDMConnector](https://CRAN.R-project.org/package=CDMConnector) (\>= 2.0.0) for database access
+-   [omopgenerics](https://CRAN.R-project.org/package=omopgenerics) (\>= 1.3.0) for cohort table operations
+-   [meta](https://CRAN.R-project.org/package=meta) for random-effects meta-analysis
+-   [duckdb](https://CRAN.R-project.org/package=duckdb) for local DuckDB files
+
+## Quick start
+
+### 1. Connect to a database
+
+```{r, eval=FALSE}
+library(syrona)
+
+# Local DuckDB file (read-only by default)
+db <- syrona_connect("path/to/omop.duckdb")
+
+# PostgreSQL (e.g. via SSH tunnel)
+db <- syrona_connect_pg(
+  dbname = "omop",
+  user = "analyst",
+  cdm_schema = "cdm",
+  write_schema = "results_analyst"
+)
+```
+
+### 2. Extract a dataset
+
+```{r, eval=FALSE}
+# Extract all three domains
+tables <- extract_all("Dataset_A", db = db)
+
+# Or a single domain (faster for large databases)
+tables <- extract_all("Dataset_A", db = db, domains = "conditions")
+```
+
+### 3. Compare two datasets
+
+```{r, eval=FALSE}
+# After extracting both datasets:
+compare_all("Dataset_A", "Dataset_B")
+```
+
+### 4. Disconnect
+
+```{r, eval=FALSE}
+syrona_disconnect(db)
+```
+
+## Output structure
+
+Syrona writes CSV files to two directories:
+
+```         
+data/
+  sources/                        # Phase 1: extracted datasets
+    Dataset_A/
+      _metadata.csv
+      condition_prevalence.csv    # concept x year x sex x age_group
+      condition_info.csv          # concept metadata
+      condition_chapters.csv      # SNOMED/ICD-10 chapter assignments
+      condition_attributes.csv    # SNOMED relationship targets
+      demographics.csv            # birth year x sex counts
+      death_counts.csv            # deaths by stratum
+      ...                         # same pattern for procedures + drugs
+    Dataset_B/
+      ...
+  comparisons/                    # Phase 2-3: comparison results
+    Dataset_A_vs_Dataset_B/
+      _metadata.csv
+      condition_yearly.csv        # per-stratum prevalence ratios
+      condition_meta_agegroups.csv # meta across years
+      condition_meta_by_sex.csv   # meta across age groups
+      condition_meta_summary.csv  # final summary (one row per concept)
+      ...                         # same pattern for procedures + drugs
+```
+
+## Next steps
+
+-   [Extraction](a01_extraction.html) - detailed extraction guide with all parameters
+-   [Comparison](a02_comparison.html) - comparison pipeline and meta-analysis
+-   [Cohorts](a03_cohorts.html) - OHDSI cohort-based extraction workflows

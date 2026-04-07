@@ -1,0 +1,42 @@
+Package: syrona
+Type: Package
+Title: Stratified Prevalence Comparison Across OMOP CDM Datasets
+Version: 0.1.0
+Authors@R: person("Maarja", "Pajusalu", email = "maarja@maarjapajusalu.ee",
+    role = c("aut", "cre"))
+Description: Extracts stratified prevalence tables from OMOP CDM databases
+    (conditions, procedures, drugs), computes log2 prevalence ratios between
+    paired datasets, and synthesizes them via random-effects meta-analysis
+    at multiple aggregation levels (year, age group, sex).
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Imports:
+    dplyr (>= 1.1.0),
+    dbplyr (>= 2.3.0),
+    DBI (>= 1.2.0),
+    CDMConnector (>= 2.0.0),
+    omopgenerics (>= 1.3.0),
+    tibble,
+    tidyr,
+    cli,
+    rlang,
+    shiny,
+    ggplot2,
+    ggiraph,
+    ggtext,
+    scales,
+    grDevices,
+    stats
+Suggests:
+    testthat (>= 3.0.0),
+    duckdb (>= 0.9.0),
+    RPostgres,
+    CohortConstructor (>= 0.6.0),
+    meta,
+    DT,
+    shinycssloaders,
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
+VignetteBuilder: knitr

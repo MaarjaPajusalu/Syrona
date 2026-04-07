@@ -1,0 +1,77 @@
+url: ~
+
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left: [intro, reference, articles]
+    right: [search, github]
+
+articles:
+  - title: Getting Started
+    navbar: ~
+    contents:
+      - a00_introduction
+      - a01_extraction
+  - title: Analysis
+    contents:
+      - a02_comparison
+      - a03_cohorts
+
+reference:
+  - title: Connection
+    desc: Connect to OMOP CDM databases
+    contents:
+      - syrona_connect
+      - syrona_connect_pg
+      - syrona_disconnect
+
+  - title: Extraction
+    desc: Phase 1 - extract stratified prevalence tables
+    contents:
+      - extract_all
+      - load_dataset
+      - list_datasets
+
+  - title: Comparison
+    desc: Phase 2-3 - compare datasets and meta-analysis
+    contents:
+      - compare_all
+      - compare_yearly
+      - compare_meta_agegroups
+      - compare_meta_by_sex
+      - compare_meta_summary
+      - load_comparison
+      - list_comparisons
+
+  - title: Cohorts
+    desc: OHDSI cohort operations
+    contents:
+      - create_caresite_cohort
+      - insert_cohort
+      - apply_cohort_filter
+      - cohort_summary
+      - delete_cohort
+      - list_care_sites
+
+  - title: Dashboard
+    desc: Interactive Shiny dashboard
+    contents:
+      - run_app
+      - build_heatmap
+      - build_forest_detail
+      - build_point_diff
+      - build_forest_summary
+      - build_forest_overview
+      - build_pyramid
+      - build_pr_distribution
+      - build_pr_distribution_chapters
+
+  - title: Formatting
+    desc: Design tokens and formatting helpers
+    contents:
+      - format_fold
+      - format_pval
+      - truncate_name
+      - weight_color

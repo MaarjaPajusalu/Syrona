@@ -1,0 +1,169 @@
+---
+title: "Comparison & Meta-Analysis"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{a02_comparison}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Overview
+
+Phases 2-3 compare two extracted datasets by computing stratified prevalence ratios and synthesizing them via multi-level random-effects meta-analysis.
+
+The pipeline has 4 steps, each producing a more aggregated table:
+
+```         
+yearly               concept x year x sex x age_group    (raw PR per stratum)
+  |
+  v  meta across years
+meta_agegroups       concept x sex x age_group           (pooled across years)
+  |
+  v  meta across age groups
+meta_by_sex          concept x sex                       (pooled across age groups)
+  |
+  v  meta across sexes
+meta_summary         concept (sex = "Both")              (final summary)
+```
+
+## Running a comparison
+
+### All domains
+
+```{r, eval=FALSE}
+library(syrona)
+
+# Both datasets must already be extracted (in data/sources/)
+compare_all("Hospital_A", "Hospital_B")
+```
+
+This loads both datasets, runs the 4-step pipeline for each domain present in both, and saves results to `data/comparisons/Hospital_A_vs_Hospital_B/`.
+
+### Single domain
+
+```{r, eval=FALSE}
+compare_all("Hospital_A", "Hospital_B", domains = "conditions")
+```
+
+### Without saving
+
+```{r, eval=FALSE}
+results <- compare_all("Hospital_A", "Hospital_B", save = FALSE)
+names(results)
+#> [1] "condition_yearly" "condition_meta_agegroups"
+#> [3] "condition_meta_by_sex" "condition_meta_summary"
+```
+
+## Step-by-step usage
+
+You can also run each step individually for more control:
+
+```{r, eval=FALSE}
+d1 <- load_dataset("Hospital_A")
+d2 <- load_dataset("Hospital_B")
+
+# Step 1: Yearly comparison (inner join on concept x year x sex x age_group)
+yearly <- compare_yearly(d1, d2, prev_table = "condition_prevalence")
+
+# Step 2: Meta across years
+meta_ag <- compare_meta_agegroups(yearly)
+
+# Step 3: Meta across age groups
+meta_sex <- compare_meta_by_sex(meta_ag)
+
+# Step 4: Meta across sexes
+meta_sum <- compare_meta_summary(meta_sex)
+```
+
+## Prevalence ratio formula
+
+For each matched stratum, Syrona computes:
+
+**Log2 prevalence ratio:**
+
+```         
+log2_pr = log2(p2 / p1)
+```
+
+Where p1 and p2 are the prevalence values in dataset 1 (reference) and dataset 2 (comparison).
+
+**Standard error (on log2 scale):**
+
+```         
+SE = sqrt((1 - p1) / (p1 * n1) + (1 - p2) / (p2 * n2)) / ln(2)
+```
+
+Where n1 and n2 are the denominators (persons observed in that stratum).
+
+**95% confidence interval:**
+
+```         
+CI = log2_pr +/- 1.96 * SE
+```
+
+**Significance:** A stratum is significant if the CI excludes zero on the log2 scale (i.e., the fold difference excludes 1.0).
+
+## Output columns
+
+Each comparison table contains these columns:
+
+| Column | Description |
+|----|----|
+| `concept_id` | OMOP concept ID |
+| `log2_pr` | Log2 prevalence ratio |
+| `se` | Standard error (log2 scale) |
+| `ci_low`, `ci_high` | 95% CI bounds (log2 scale) |
+| `fold_diff` | Natural-scale fold difference (2\^log2_pr) |
+| `fold_ci_low`, `fold_ci_high` | Natural-scale CI bounds |
+| `fold_symmetric` | max(fold, 1/fold) - useful for ranking |
+| `p_value` | Two-sided p-value |
+| `sig` | TRUE if CI excludes zero |
+| `meta_model_type` | "Random-Effects", "Fixed-Effect", or "Pass-Through" |
+| `n_strata` | Number of strata pooled |
+| `tau2` | Between-study variance (heterogeneity) |
+| `I2` | Percentage of variance due to heterogeneity |
+| `Q` | Cochran's Q statistic |
+| `pval_Q` | P-value for Q test |
+
+## Meta-analysis strategy
+
+For each group of strata to be pooled, Syrona uses this fallback strategy:
+
+1.  **Single stratum** - Pass-Through (returns the estimate as-is, no pooling)
+2.  **Multiple strata** - Random-effects meta-analysis with Paule-Mandel tau estimator (`meta::metagen`)
+3.  **If RE fails** - Fixed-effect (common-effect) model
+4.  **If both fail** - Group is skipped
+
+The Paule-Mandel estimator is preferred because it handles small numbers of studies better than DerSimonian-Laird.
+
+## Heterogeneity metrics
+
+The meta-analysis cascade produces heterogeneity metrics at each aggregation level:
+
+-   **tau2** - between-study variance. High tau2 means the prevalence ratio varies substantially across strata (e.g., a condition that is more prevalent in young women but less prevalent in older men).
+-   **I2** - percentage of total variance attributable to heterogeneity (0-100%). I2 \> 75% is conventionally considered "high".
+-   **Q** and **pval_Q** - Cochran's Q test for heterogeneity. A significant Q (p \< 0.05) means the strata are not homogeneous.
+-   **lower_predict**, **upper_predict** - prediction interval (where a new study's effect would likely fall).
+
+These metrics help identify concepts where the summary prevalence ratio masks meaningful variation across strata.
+
+## Loading and listing comparisons
+
+```{r, eval=FALSE}
+# List available comparisons
+list_comparisons()
+#> [1] "Hospital_A_vs_Hospital_B"
+
+# Load a comparison
+comp <- load_comparison("Hospital_A", "Hospital_B")
+names(comp)
+#> [1] "condition_yearly" "condition_meta_agegroups"
+#> [3] "condition_meta_by_sex" "condition_meta_summary"
+```

@@ -1,0 +1,706 @@
+concept_id,relationship,relationship_id,target_concept_id,target_concept_name
+604177,device,Using device,4104600,Flexible bronchoscope
+606227,device,Using device,4033677,Prosthetic implant
+618912,device,Using device,45768386,Aspiration needle
+619762,device,Has dir device,4093739,Neurostimulator
+761010,device,Using device,4149433,Orthopedic internal fixation system
+1242824,device,Has dir device,4030970,Knee joint prosthesis
+1242869,device,Has dir device,4035455,Joint prosthesis
+1243263,device,Has dir device,4035455,Joint prosthesis
+1243618,device,Has dir device,4280677,Stent
+1245449,device,Using device,4313302,Laparoscope
+1447443,device,Using device,4150246,Angioplasty catheter
+1447443,device,Has dir device,45767944,Aortic stent
+1447474,device,Using device,4038538,Breast implant
+1447834,device,Using device,4313302,Laparoscope
+1450216,device,Using acc device,1245222,Echoendoscope
+1450216,device,Using device,1245222,Echoendoscope
+1450216,device,Using device,4044383,Fine biopsy needle
+4001543,device,Using device,4290594,Endoscope
+4004241,device,Using device,4290594,Endoscope
+4004241,device,Using acc device,4290594,Endoscope
+4007438,device,Has dir device,4106026,Pack
+4010253,device,Using device,4290594,Endoscope
+4012330,device,Using device,4097825,Surgical suture
+4013347,device,Using device,4097825,Surgical suture
+4013574,device,Using device,4213560,Automated static perimeter
+4016391,device,Using device,4214857,Perimeter
+4018561,device,Using device,4080458,Artificial cardiac valve prosthesis
+4018561,device,Has dir device,45768116,Mechanical cardiac valve prosthesis
+4019134,device,Using device,4038662,Biopsy needle
+4019228,device,Using device,4232673,Patent ductus closure prosthesis
+4021414,device,Using acc device,4048015,Cystoscope
+4021414,device,Using device,4048015,Cystoscope
+4021414,device,Using device,4046730,Laser device
+4021434,device,Using acc device,4048015,Cystoscope
+4021434,device,Using device,4048015,Cystoscope
+4021434,device,Has dir device,4120252,Ureteric stent
+4021585,device,Using device,4060422,Catheter
+4022011,device,Using device,4149926,Thoracoscope
+4022627,device,Using device,4150246,Angioplasty catheter
+4022794,device,Has dir device,4122363,Vascular cannula
+4023102,device,Using acc device,4048015,Cystoscope
+4023102,device,Using device,4048015,Cystoscope
+4023102,device,Has dir device,4120252,Ureteric stent
+4023106,device,Using acc device,4048015,Cystoscope
+4023106,device,Using device,4048015,Cystoscope
+4025680,device,Using device,4049103,Arthroscope
+4026040,device,Has dir device,4246497,Hearing aid
+4026045,device,Has dir device,4208975,Intraocular lens implant
+4028987,device,Using device,4049103,Arthroscope
+4029550,device,Has dir device,4223622,Implant
+4030239,device,Has dir device,4030970,Knee joint prosthesis
+4031777,device,Has dir device,4236069,Peritoneal dialysis catheter
+4032014,device,Using device,4313302,Laparoscope
+4032241,device,Has proc device,4169265,Device
+4032404,device,Using device,4084319,Bronchoscope
+4032613,device,Using device,4310698,Colposcope
+4032631,device,Using device,4313302,Laparoscope
+4032735,device,Using device,4313302,Laparoscope
+4032774,device,Using device,4149926,Thoracoscope
+4033396,device,Using device,4313302,Laparoscope
+4033398,device,Using device,4232823,Suction equipment
+4033557,device,Using device,4313572,Electrocardiographic monitor and recorder
+4034524,device,Using acc device,4260387,Laryngoscope
+4034524,device,Using device,4260387,Laryngoscope
+4035289,device,Has dir device,4142036,Plaster cast
+4035290,device,Has dir device,4142036,Plaster cast
+4036250,device,Has dir device,4161452,Brachytherapy device
+4036697,device,Using device,4279164,Microscope
+4036943,device,Using device,4313302,Laparoscope
+4039376,device,Using device,4290594,Endoscope
+4041637,device,Using device,4149433,Orthopedic internal fixation system
+4041643,device,Has dir device,4040386,Cast
+4042005,device,Using acc device,4095054,Feeding tube
+4045610,device,Has dir device,4232664,Intracranial pressure measuring device
+4046290,device,Using device,4320473,Lithotripter
+4046707,device,Has dir device,4173309,"Permanent cardiac pacemaker, device"
+4046932,device,Using device,4093739,Neurostimulator
+4047082,device,Has dir device,1448963,Implantable electrocardiographic monitor and loop recorder
+4047237,device,Using device,4097825,Surgical suture
+4048938,device,Has dir device,4120356,Cerebrospinal fluid shunt tubing
+4048938,device,Has dir device,4122288,Ventricular shunt
+4049252,device,Using device,45768015,Electrocautery system
+4049547,device,Using device,4150246,Angioplasty catheter
+4049682,device,Has dir device,4230987,Arterial stent
+4049734,device,Using device,4232804,Surgical band
+4049832,device,Has dir device,3661484,Peripheral venous cannula
+4049987,device,Using device,4134654,Radiofrequency controlled thermal probe
+4050114,device,Using device,4300940,Surgical clip
+4050128,device,Using device,4150246,Angioplasty catheter
+4050572,device,Has dir device,4232661,Automatic cardiac defibrillator
+4051157,device,Has dir device,45767942,Peripheral artery stent
+4051163,device,Has dir device,40480634,Venous stent
+4051171,device,Using device,4313302,Laparoscope
+4051762,device,Using device,4300940,Surgical clip
+4051945,device,Using device,4150246,Angioplasty catheter
+4052106,device,Using device,4259287,Angioplasty balloon catheter
+4052113,device,Using device,4010190,Percutaneous transluminal angioplasty balloon
+4052413,device,Has dir device,4124293,Venous cannula
+4052415,device,Has dir device,4124293,Venous cannula
+4052532,device,Using device,4106960,Hysteroscope
+4060257,device,Has dir device,4044874,Intra-aortic balloon pump
+4061134,device,Using device,1245222,Echoendoscope
+4061603,device,Using device,4149295,Shock wave lithotripter
+4062876,device,Using device,4133890,Stereotactic device
+4063802,device,Using device,4149433,Orthopedic internal fixation system
+4063911,device,Using device,4254627,Fundus camera
+4065834,device,Has dir device,4097825,Surgical suture
+4065926,device,Using device,45767736,Ophthalmic laser system
+4066401,device,Using acc device,37163208,Fiberoptic esophagoscope
+4066401,device,Using device,37163208,Fiberoptic esophagoscope
+4066625,device,Using acc device,4148032,Rigid esophagoscope
+4066625,device,Using device,4148032,Rigid esophagoscope
+4066634,device,Using acc device,4290594,Endoscope
+4066634,device,Using device,4290594,Endoscope
+4067329,device,Using acc device,45773516,Flexible fiberoptic sigmoidoscope
+4067329,device,Using device,45773516,Flexible fiberoptic sigmoidoscope
+4067489,device,Using device,4290594,Endoscope
+4067489,device,Using acc device,4290594,Endoscope
+4067706,device,Using acc device,45764589,Flexible fiberoptic bronchoscope
+4067706,device,Using device,45764589,Flexible fiberoptic bronchoscope
+4068675,device,Using device,4290594,Endoscope
+4068675,device,Using acc device,4260387,Laryngoscope
+4068676,device,Using device,4306803,"Microlaryngoscope, device"
+4068770,device,Has dir device,4125343,Ophthalmological device
+4069110,device,Using device,4232804,Surgical band
+4070140,device,Has dir device,4234453,Prosthetic voice box
+4070327,device,Using device,4046730,Laser device
+4070610,device,Using device,4097825,Surgical suture
+4070947,device,Using device,4010190,Percutaneous transluminal angioplasty balloon
+4072862,device,Using device,602773,Oocyte aspiration needle
+4073391,device,Has dir device,4205702,Prosthesis
+4073424,device,Using device,4297077,Vacuum extractor
+4073702,device,Using acc device,4290594,Endoscope
+4073702,device,Has dir device,4231011,Prostatic urethra stent
+4073990,device,Has dir device,4120252,Ureteric stent
+4074293,device,Using device,4097825,Surgical suture
+4074298,device,Has proc device,40355609,Intrauterine contraceptive device
+4074443,device,Using device,4313302,Laparoscope
+4074562,device,Using device,4290594,Endoscope
+4074562,device,Using acc device,4290594,Endoscope
+4074571,device,Using device,4313302,Laparoscope
+4074848,device,Using device,4290594,Endoscope
+4074848,device,Using acc device,4290594,Endoscope
+4075026,device,Using device,4313302,Laparoscope
+4075026,device,Using acc device,4313302,Laparoscope
+4075598,device,Has dir device,4222679,Wound dressing
+4076188,device,Using device,4049103,Arthroscope
+4076608,device,Has dir device,45768066,Implantable shoulder prosthesis
+4077078,device,Has dir device,4281994,Hip prosthesis
+4079401,device,Has dir device,4127145,Total shoulder replacement prosthesis
+4079402,device,Has dir device,4127145,Total shoulder replacement prosthesis
+4079602,device,Has dir device,4142036,Plaster cast
+4079651,device,Has dir device,4197312,Unicompartmental knee joint prosthesis
+4079653,device,Has dir device,4197312,Unicompartmental knee joint prosthesis
+4079766,device,Has dir device,4134858,Implantable venous access port
+4080499,device,Has dir device,4222679,Wound dressing
+4080522,device,Using device,4290594,Endoscope
+4080807,device,Has dir device,4274503,Bandage
+4083534,device,Has dir device,4142036,Plaster cast
+4085558,device,Has dir device,4173468,"Temporary cardiac pacemaker, device"
+4087381,device,Using device,4149289,Sigmoidoscope
+4087611,device,Using device,4237060,Hyperbaric chamber
+4087889,device,Using device,4149295,Shock wave lithotripter
+4088084,device,Using device,4106017,Obstetric forceps
+4093926,device,Has dir device,4222679,Wound dressing
+4094533,device,Has dir device,4149433,Orthopedic internal fixation system
+4097552,device,Using device,4097825,Surgical suture
+4097988,device,Using device,4097825,Surgical suture
+4098786,device,Using device,4009789,Electromyographic monitor and recorder
+4099370,device,Using device,4265038,Syringe
+4099462,device,Has dir device,4038538,Breast implant
+4099484,device,Has dir device,4194226,Transvenous electrode
+4099524,device,Using device,4009789,Electromyographic monitor and recorder
+4100187,device,Using acc device,4290594,Endoscope
+4100187,device,Using device,4290594,Endoscope
+4100718,device,Using device,4149926,Thoracoscope
+4103380,device,Using device,4290594,Endoscope
+4103380,device,Using acc device,4290594,Endoscope
+4103530,device,Using device,4097825,Surgical suture
+4105083,device,Using device,4005994,Rhinoscope
+4105167,device,Using acc device,4169907,Proctoscope
+4105167,device,Using device,4169907,Proctoscope
+4105908,device,Using device,4097825,Surgical suture
+4106463,device,Using device,4098108,Bone plate
+4107087,device,Has dir device,4117614,Total elbow joint replacement prosthesis
+4107428,device,Has dir device,4197313,Total ankle joint prosthesis
+4107444,device,Using device,4223817,Intramedullary rod
+4108844,device,Has dir device,4142036,Plaster cast
+4108845,device,Has dir device,4142036,Plaster cast
+4108866,device,Has dir device,4067647,Leg prosthesis
+4109727,device,Using device,4290594,Endoscope
+4112122,device,Has dir device,4223622,Implant
+4112234,device,Using device,4290594,Endoscope
+4115487,device,Using acc device,4084319,Bronchoscope
+4115487,device,Using device,4084319,Bronchoscope
+4116186,device,Has dir device,4124293,Venous cannula
+4118091,device,Has dir device,4125210,Temporomandibular joint prosthesis
+4118895,device,Has dir device,4205702,Prosthesis
+4119985,device,Has dir device,4097825,Surgical suture
+4120973,device,Has proc device,4122288,Ventricular shunt
+4121041,device,Using device,4133890,Stereotactic device
+4121859,device,Using device,4130103,External fixation system
+4121863,device,Using device,4049103,Arthroscope
+4122234,device,Using acc device,4290594,Endoscope
+4122234,device,Has dir device,45763425,Gastrostomy tube
+4122596,device,Using device,4097825,Surgical suture
+4123569,device,Has dir device,4118292,Gastrointestinal tube
+4123735,device,Using device,4207031,Digestive endoscope
+4123735,device,Using device,45767882,Enteroscope
+4123999,device,Using device,4038662,Biopsy needle
+4124526,device,Using device,4120689,Rigid endoscope
+4124529,device,Using device,4097825,Surgical suture
+4124557,device,Using device,4049103,Arthroscope
+4125163,device,Has dir device,4205702,Prosthesis
+4127240,device,Using device,4106960,Hysteroscope
+4127887,device,Using device,4313302,Laparoscope
+4128031,device,Using device,4237304,Instrument
+4128302,device,Using device,4146953,Mediastinoscope
+4128560,device,Using device,4207031,Digestive endoscope
+4128560,device,Using device,45767882,Enteroscope
+4129658,device,Has dir device,4117424,Esophageal tubal prosthesis
+4129658,device,Using acc device,4284400,Esophagoscope
+4130185,device,Using device,4313302,Laparoscope
+4132403,device,Using device,4097825,Surgical suture
+4134709,device,Using device,4290594,Endoscope
+4134857,device,Has dir device,4281994,Hip prosthesis
+4135206,device,Has dir device,4188085,Pessary
+4137375,device,Has dir device,4205702,Prosthesis
+4137700,device,Has dir device,4217646,Implantable defibrillator
+4138868,device,Has dir device,4126168,Total hip replacement prosthesis
+4138870,device,Has dir device,4196441,Total knee joint prosthesis
+4138872,device,Has dir device,4196441,Total knee joint prosthesis
+4139773,device,Has dir device,4093739,Neurostimulator
+4140473,device,Using device,4313572,Electrocardiographic monitor and recorder
+4140707,device,Using device,4290594,Endoscope
+4140707,device,Using acc device,4290594,Endoscope
+4141448,device,Using device,45760465,External beam radiation therapy radionuclide system
+4141907,device,Has dir device,4149433,Orthopedic internal fixation system
+4141919,device,Has dir device,4121351,Chest drain
+4142080,device,Has dir device,4230997,Humeral head prosthesis
+4142889,device,Has indir device,4281994,Hip prosthesis
+4143164,device,Using device,4128275,Cryoprobe
+4143509,device,Using acc device,4048015,Cystoscope
+4143509,device,Using device,4048015,Cystoscope
+4143660,device,Using device,4097825,Surgical suture
+4143985,device,Using device,45761018,Video capsule endoscopy system capsule
+4144197,device,Using device,4313302,Laparoscope
+4144432,device,Has dir device,4126168,Total hip replacement prosthesis
+4144552,device,Has dir device,4230997,Humeral head prosthesis
+4144573,device,Has dir device,4123454,Anterior chamber drainage tube
+4144797,device,Using device,4313302,Laparoscope
+4144800,device,Using device,4313302,Laparoscope
+4144899,device,Has dir device,4217646,Implantable defibrillator
+4144921,device,Has dir device,4030875,Cardiac pacemaker
+4145382,device,Has dir device,45762009,Anchored bone-conduction hearing aid
+4145382,device,Has dir device,4142300,Bone anchored hearing aid
+4146045,device,Using device,45768386,Aspiration needle
+4146072,device,Using device,4046730,Laser device
+4146391,device,Using device,4097825,Surgical suture
+4147839,device,Using device,4313302,Laparoscope
+4149327,device,Has dir device,4041473,Pacemaker pulse generator
+4149930,device,Using device,45768386,Aspiration needle
+4150502,device,Using device,45768386,Aspiration needle
+4150538,device,Using device,4232823,Suction equipment
+4150737,device,Has dir device,4215980,Ophthalmic prosthesis
+4150990,device,Has dir device,4281994,Hip prosthesis
+4151765,device,Has dir device,4097825,Surgical suture
+4154104,device,Using device,4046730,Laser device
+4154603,device,Has dir device,4223622,Implant
+4155600,device,Has dir device,4158243,Scleral buckle (device)
+4157076,device,Using device,4149433,Orthopedic internal fixation system
+4159965,device,Has dir device,4130094,Posterior chamber lens
+4160183,device,Using device,45768386,Aspiration needle
+4160269,device,Has dir device,4042424,Splint
+4160270,device,Has dir device,4042424,Splint
+4160418,device,Using device,4080458,Artificial cardiac valve prosthesis
+4160418,device,Has dir device,45768116,Mechanical cardiac valve prosthesis
+4163842,device,Using device,4290594,Endoscope
+4163971,device,Using device,4313302,Laparoscope
+4164278,device,Has dir device,4060422,Catheter
+4164726,device,Using acc device,4146953,Mediastinoscope
+4164726,device,Using device,4146953,Mediastinoscope
+4164731,device,Has dir device,4231012,Supporting suppository
+4165348,device,Has dir device,4205127,Penile prosthesis
+4165384,device,Has dir device,4102679,Cardiac valve prosthesis
+4165535,device,Using device,45761109,Therapeutic positive pressure breathing ventilator
+4166132,device,Using device,4206270,Ophthalmoscope
+4166711,device,Has dir device,4232668,Nasolacrimal duct tube
+4167262,device,Using device,4038662,Biopsy needle
+4168082,device,Using device,4272781,"Surgical metal nail, device"
+4168528,device,Has dir device,4218005,Tympanic ventilation tube
+4170407,device,Using device,4253067,Probe
+4170872,device,Using device,4097825,Surgical suture
+4171183,device,Using device,4290594,Endoscope
+4171571,device,Using device,4169907,Proctoscope
+4171863,device,Using device,4044383,Fine biopsy needle
+4173008,device,Using device,45767899,Brain electrical stimulation system
+4173506,device,Using device,4038662,Biopsy needle
+4173589,device,Using acc device,4260387,Laryngoscope
+4173589,device,Using device,4260387,Laryngoscope
+4173712,device,Has dir device,4085258,Biologic cardiac valve prosthesis
+4176323,device,Has dir device,4230987,Arterial stent
+4176717,device,Using device,4220610,Flexible fiberoptic laryngoscope
+4176809,device,Using acc device,4290594,Endoscope
+4176809,device,Using device,4290594,Endoscope
+4177224,device,Using device,45768197,Ventilator
+4177376,device,Using device,4313302,Laparoscope
+4178798,device,Using device,4097825,Surgical suture
+4178833,device,Using device,45768386,Aspiration needle
+4178834,device,Using device,45768386,Aspiration needle
+4179363,device,Has dir device,45767329,Cardiac resynchronization therapy implantable pacemaker
+4179713,device,Using device,4290594,Endoscope
+4179713,device,Using acc device,4290594,Endoscope
+4179815,device,Using device,4009789,Electromyographic monitor and recorder
+4180279,device,Has dir device,4218005,Tympanic ventilation tube
+4180860,device,Has dir device,4166079,Ureteral catheter
+4181025,device,Using device,45768093,Coronary angioplasty balloon catheter
+4181025,device,Has dir device,45767945,Coronary artery stent
+4181208,device,Using device,45768386,Aspiration needle
+4181450,device,Has dir device,4120252,Ureteric stent
+4181610,device,Has dir device,45767942,Peripheral artery stent
+4181955,device,Has dir device,4280677,Stent
+4183058,device,Has dir device,4246497,Hearing aid
+4184832,device,Using device,45770937,Coronary angioplasty catheter
+4186308,device,Using acc device,4106960,Hysteroscope
+4186308,device,Using device,4106960,Hysteroscope
+4186393,device,Using device,4279164,Microscope
+4187078,device,Using device,4313572,Electrocardiographic monitor and recorder
+4187207,device,Has dir device,4208975,Intraocular lens implant
+4187207,device,Using device,4190637,Phacoemulsification machine
+4187537,device,Has dir device,4231009,Cardiac pacemaker electrode
+4189015,device,Using device,4197813,Physiologic monitoring system
+4189205,device,Using device,4297077,Vacuum extractor
+4189219,device,Using device,4097825,Surgical suture
+4189586,device,Using device,4310698,Colposcope
+4190187,device,Has dir device,4105218,Anterior chamber lens
+4193388,device,Has dir device,4117842,Cystostomy tube
+4194049,device,Has dir device,4042424,Splint
+4194260,device,Using device,4290594,Endoscope
+4195648,device,Using device,4313302,Laparoscope
+4195852,device,Has dir device,4121349,Vascular catheter
+4196148,device,Using device,4313302,Laparoscope
+4196355,device,Using device,4290594,Endoscope
+4196355,device,Using device,4313302,Laparoscope
+4196378,device,Using device,45773516,Flexible fiberoptic sigmoidoscope
+4198603,device,Using device,4290594,Endoscope
+4198603,device,Using acc device,4290594,Endoscope
+4199675,device,Has dir device,4139147,Drain
+4199705,device,Using acc device,4290594,Endoscope
+4199705,device,Using device,4290594,Endoscope
+4200280,device,Has dir device,45770936,Perineo-gynecological surgical mesh
+4200684,device,Using device,4207031,Digestive endoscope
+4200684,device,Using device,45767882,Enteroscope
+4201033,device,Using device,4313302,Laparoscope
+4201639,device,Using device,4313302,Laparoscope
+4202369,device,Using acc device,4084319,Bronchoscope
+4202369,device,Using device,4084319,Bronchoscope
+4202517,device,Using device,4290594,Endoscope
+4202517,device,Using acc device,4290594,Endoscope
+4202832,device,Has dir device,4306146,Tube
+4203425,device,Has dir device,4295726,Elbow prosthesis
+4203425,device,Has dir device,45768063,Implantable elbow prosthesis
+4203428,device,Has dir device,4301772,Testicular prosthesis
+4203609,device,Using device,4290594,Endoscope
+4203609,device,Using acc device,4313302,Laparoscope
+4203621,device,Using device,4097825,Surgical suture
+4203771,device,Has dir device,4281994,Hip prosthesis
+4203990,device,Using device,4313302,Laparoscope
+4203990,device,Has dir device,4236069,Peritoneal dialysis catheter
+4204395,device,Has dir device,45765309,Intracardiac pacemaker
+4204395,device,Has dir device,4173309,"Permanent cardiac pacemaker, device"
+4204395,device,Has dir device,4194226,Transvenous electrode
+4205229,device,Using device,4049103,Arthroscope
+4205231,device,Using device,4049103,Arthroscope
+4205529,device,Has dir device,4208975,Intraocular lens implant
+4206027,device,Using acc device,4084319,Bronchoscope
+4206027,device,Using device,4084319,Bronchoscope
+4206400,device,Using device,4313302,Laparoscope
+4208524,device,Using device,4049103,Arthroscope
+4208914,device,Using acc device,4106960,Hysteroscope
+4208914,device,Using device,4106960,Hysteroscope
+4209077,device,Using device,4313302,Laparoscope
+4209537,device,Using device,4233512,Colonoscope
+4209537,device,Using acc device,4233512,Colonoscope
+4209904,device,Has dir device,4236068,Cardiac pacemaker lead
+4210602,device,Has dir device,4035455,Joint prosthesis
+4213005,device,Using device,4097825,Surgical suture
+4213288,device,Has dir device,4118298,Arterial catheter
+4214034,device,Using device,4290594,Endoscope
+4214122,device,Using device,4097825,Surgical suture
+4215577,device,Using device,45760465,External beam radiation therapy radionuclide system
+4215577,device,Using device,4133890,Stereotactic device
+4216485,device,Has dir device,4217646,Implantable defibrillator
+4216758,device,Has dir device,4205702,Prosthesis
+4217346,device,Has dir device,4060422,Catheter
+4218109,device,Has dir device,4149433,Orthopedic internal fixation system
+4218755,device,Has dir device,4122288,Ventricular shunt
+4219551,device,Has proc device,4046730,Laser device
+4219893,device,Using device,4097825,Surgical suture
+4220029,device,Has dir device,4113459,Nephrostomy tube
+4223020,device,Has dir device,4121349,Vascular catheter
+4223228,device,Using acc device,4084319,Bronchoscope
+4223228,device,Using device,4084319,Bronchoscope
+4223363,device,Using device,4190637,Phacoemulsification machine
+4223626,device,Has dir device,4121349,Vascular catheter
+4227277,device,Has dir device,45768058,Finger joint prosthesis
+4227418,device,Has dir device,4063122,Nasogastric tube
+4227911,device,Using device,4223817,Intramedullary rod
+4230233,device,Using device,4150246,Angioplasty catheter
+4230660,device,Using device,4081566,Anoscope
+4231419,device,Using device,45768386,Aspiration needle
+4231432,device,Using device,4223817,Intramedullary rod
+4231432,device,Using device,4272781,"Surgical metal nail, device"
+4231454,device,Using device,4097825,Surgical suture
+4231506,device,Using device,4149926,Thoracoscope
+4231924,device,Has dir device,4042171,Below elbow cast
+4232099,device,Has dir device,4182413,Cochlear prosthesis
+4232599,device,Using acc device,4290594,Endoscope
+4232599,device,Using device,4290594,Endoscope
+4232599,device,Using device,4320473,Lithotripter
+4232742,device,Using device,42872974,Negative pressure wound dressing
+4233078,device,Using device,4097825,Surgical suture
+4233291,device,Using device,4313302,Laparoscope
+4233305,device,Using acc device,4084319,Bronchoscope
+4233305,device,Using device,4084319,Bronchoscope
+4233386,device,Using device,45768386,Aspiration needle
+4233678,device,Has dir device,4222679,Wound dressing
+4234544,device,Using device,4211223,Trephine
+4234743,device,Has dir device,4182413,Cochlear prosthesis
+4238384,device,Using device,4097825,Surgical suture
+4240305,device,Using device,45768386,Aspiration needle
+4241102,device,Using device,4030875,Cardiac pacemaker
+4241102,device,Has proc device,4173468,"Temporary cardiac pacemaker, device"
+4241964,device,Using device,45765214,Cryotherapy system
+4243973,device,Using device,4313302,Laparoscope
+4244210,device,Using device,4149926,Thoracoscope
+4244431,device,Using device,4097825,Surgical suture
+4244871,device,Using device,4223817,Intramedullary rod
+4245372,device,Using device,4194531,Needle
+4246527,device,Has proc device,4205702,Prosthesis
+4247555,device,Using device,4290594,Endoscope
+4248955,device,Using acc device,4294897,Amnihook
+4249749,device,Using device,4097825,Surgical suture
+4249893,device,Using device,4233512,Colonoscope
+4250000,device,Has dir device,4145603,Urethral catheter
+4250344,device,Using device,1244435,Electrocoagulation system
+4251314,device,Using device,4313302,Laparoscope
+4251737,device,Has proc device,4169265,Device
+4254204,device,Using acc device,4294897,Amnihook
+4257824,device,Has dir device,4070667,Urinary catheter
+4259495,device,Using device,4287945,Slit lamp biomicroscope
+4260104,device,Using device,4313302,Laparoscope
+4262301,device,Using device,4120692,Rigid bronchoscope
+4262915,device,Using device,45768015,Electrocautery system
+4265898,device,Using device,4097825,Surgical suture
+4266224,device,Has dir device,45763425,Gastrostomy tube
+4268189,device,Using device,4149433,Orthopedic internal fixation system
+4269993,device,Has dir device,4106026,Pack
+4270077,device,Using acc device,4290594,Endoscope
+4270363,device,Has dir device,4030875,Cardiac pacemaker
+4272324,device,Using device,4129272,Cardiopulmonary bypass circuit
+4272547,device,Using device,45768386,Aspiration needle
+4274801,device,Using device,4046730,Laser device
+4275113,device,Has dir device,40355609,Intrauterine contraceptive device
+4275736,device,Has dir device,45768178,Implantable infusion pump
+4275747,device,Has dir device,4030875,Cardiac pacemaker
+4276044,device,Using device,4093739,Neurostimulator
+4276189,device,Using device,4097825,Surgical suture
+4277906,device,Using acc device,4005994,Rhinoscope
+4277906,device,Using device,4005994,Rhinoscope
+4279443,device,Using device,4149926,Thoracoscope
+4279443,device,Using acc device,4149926,Thoracoscope
+4279768,device,Has dir device,4262295,Pulmonary artery catheter
+4279768,device,Has dir device,4197924,"Swan-Ganz catheter, device"
+4280418,device,Using device,4097825,Surgical suture
+4282460,device,Using device,45768386,Aspiration needle
+4284555,device,Using device,4097825,Surgical suture
+4284837,device,Using device,4260387,Laryngoscope
+4285891,device,Using device,4211223,Trephine
+4287484,device,Using acc device,4084319,Bronchoscope
+4287484,device,Using device,4084319,Bronchoscope
+4287484,device,Using device,45762712,Flexible endoscope washer
+4287941,device,Using device,4097825,Surgical suture
+4287998,device,Has dir device,4205702,Prosthesis
+4288878,device,Using device,4049103,Arthroscope
+4288992,device,Has dir device,4208975,Intraocular lens implant
+4290938,device,Using device,4097825,Surgical suture
+4293738,device,Has dir device,4161452,Brachytherapy device
+4293870,device,Has dir device,4208975,Intraocular lens implant
+4293870,device,Using device,4190637,Phacoemulsification machine
+4294382,device,Using device,4290594,Endoscope
+4294805,device,Using device,4313302,Laparoscope
+4295265,device,Using device,4264723,Otoscope
+4297365,device,Has dir device,4281994,Hip prosthesis
+4297516,device,Using device,4290594,Endoscope
+4297706,device,Has dir device,4169265,Device
+4297967,device,Has dir device,4216073,Tissue expander
+4298398,device,Using device,4147878,Urethroscope
+4298560,device,Using device,4290594,Endoscope
+4298560,device,Using acc device,4290594,Endoscope
+4300759,device,Using acc device,4220610,Flexible fiberoptic laryngoscope
+4300759,device,Using device,4220610,Flexible fiberoptic laryngoscope
+4301065,device,Using device,4320473,Lithotripter
+4301429,device,Using device,4151640,Ureteroscope
+4301600,device,Using device,4260387,Laryngoscope
+4302979,device,Using device,4097825,Surgical suture
+4303291,device,Using device,4320473,Lithotripter
+4303291,device,Using acc device,4146952,Nephroscope
+4303291,device,Using device,4146952,Nephroscope
+4304943,device,Using device,4290594,Endoscope
+4304943,device,Using acc device,4290594,Endoscope
+4305063,device,Using device,4048015,Cystoscope
+4305074,device,Using device,45767886,Ureterorenoscope
+4305581,device,Has dir device,4222679,Wound dressing
+4306749,device,Has dir device,45767942,Peripheral artery stent
+4308888,device,Using device,4097825,Surgical suture
+4309374,device,Has dir device,4230998,Neurostimulator electrode
+4310657,device,Has dir device,45768057,Implantable wrist prosthesis
+4310657,device,Has dir device,4118297,Wrist joint prosthesis
+4311039,device,Has dir device,4030970,Knee joint prosthesis
+4311817,device,Using device,606499,Fiberoptic bronchoscope
+4311817,device,Using device,45764589,Flexible fiberoptic bronchoscope
+4313285,device,Using device,45768386,Aspiration needle
+4313889,device,Using device,4290594,Endoscope
+4315036,device,Using device,4149433,Orthopedic internal fixation system
+4319321,device,Using device,4313302,Laparoscope
+4321098,device,Using device,4149433,Orthopedic internal fixation system
+4321878,device,Using device,4044510,Core biopsy needle
+4322820,device,Has dir device,4173573,Eyeglasses
+4323896,device,Using device,45760465,External beam radiation therapy radionuclide system
+4323896,device,Using device,45759481,Stereotactic radiosurgical head frame
+4324546,device,Using device,4097825,Surgical suture
+4324613,device,Using device,4044383,Fine biopsy needle
+4325212,device,Has proc device,4236069,Peritoneal dialysis catheter
+4326580,device,Using device,4097825,Surgical suture
+4327129,device,Using device,1245222,Echoendoscope
+4327660,device,Using device,4097825,Surgical suture
+4328240,device,Using device,4149926,Thoracoscope
+4330920,device,Using device,45770937,Coronary angioplasty catheter
+4333131,device,Has dir device,4232668,Nasolacrimal duct tube
+4334402,device,Using device,4279164,Microscope
+4334487,device,Using device,4301694,Surgical staple
+4334592,device,Using device,4046730,Laser device
+4334652,device,Using device,4134654,Radiofrequency controlled thermal probe
+4335864,device,Using device,45762277,Endotherapy electrosurgical diathermy system
+4336699,device,Using acc device,4260387,Laryngoscope
+4336699,device,Using device,4260387,Laryngoscope
+4336914,device,Using device,4084319,Bronchoscope
+4336914,device,Using acc device,4084319,Bronchoscope
+4336914,device,Has dir device,4230993,Tracheobronchial stent
+4337047,device,Has dir device,4044008,Tracheostomy tube
+4337049,device,Has dir device,4232675,Endobronchial blocker
+4337061,device,Using device,1244240,Cardiac annuloplasty ring
+4337061,device,Using device,4230990,Prosthetic cardiac annuloplasty ring
+4337206,device,Using device,4234585,Prosthetic chorda tendinae
+4339412,device,Has dir device,4208975,Intraocular lens implant
+4340102,device,Using device,4149927,Choledochoscope
+4340646,device,Using acc device,4290594,Endoscope
+4340646,device,Using device,4290594,Endoscope
+4342523,device,Using device,4097825,Surgical suture
+4343012,device,Using acc device,4048015,Cystoscope
+4343012,device,Using device,4048015,Cystoscope
+4343012,device,Has dir device,4120252,Ureteric stent
+4343108,device,Using device,4038662,Biopsy needle
+4343792,device,Using device,4239189,Bone screw
+4343793,device,Using device,4098108,Bone plate
+4343794,device,Using device,4149433,Orthopedic internal fixation system
+4346400,device,Using device,4130103,External fixation system
+4352647,device,Using acc device,606499,Fiberoptic bronchoscope
+4352647,device,Using device,606499,Fiberoptic bronchoscope
+4352647,device,Using acc device,45764589,Flexible fiberoptic bronchoscope
+4352647,device,Using device,45764589,Flexible fiberoptic bronchoscope
+36675314,device,Using device,4313302,Laparoscope
+37017256,device,Using device,4097825,Surgical suture
+37108568,device,Using acc device,4290594,Endoscope
+37153077,device,Using device,4040919,Flexible fiberoptic endoscope
+37153789,device,Using device,45761907,"Dermatoscope, digital"
+37154070,device,Using device,4313302,Laparoscope
+37154360,device,Using device,4313302,Laparoscope
+37156605,device,Has dir device,4124393,Balloon dilatation catheter
+37156605,device,Has dir device,45762700,Intrauterine balloon
+37157813,device,Has dir device,45767328,Cardiac resynchronization therapy implantable defibrillator
+37158185,device,Using device,4313302,Laparoscope
+37158404,device,Using device,45768197,Ventilator
+37158794,device,Has dir device,4213730,Denture
+37159748,device,Using device,45760465,External beam radiation therapy radionuclide system
+37163186,device,Using acc device,4048015,Cystoscope
+37163186,device,Using device,4048015,Cystoscope
+37163781,device,Using acc device,4290594,Endoscope
+37163781,device,Using device,4290594,Endoscope
+37165394,device,Using device,4220976,Robotic arm
+37165394,device,Using device,4149926,Thoracoscope
+37166976,device,Has dir device,40355609,Intrauterine contraceptive device
+37167470,device,Using device,45768386,Aspiration needle
+37208338,device,Using device,4084319,Bronchoscope
+37208338,device,Using device,42537032,Electromagnetic and optical surgical navigation device tracking system
+37394520,device,Using device,4290594,Endoscope
+37394520,device,Has dir device,4280677,Stent
+37395291,device,Using device,4232823,Suction equipment
+40307721,device,Has dir device,45761222,Cervical cerclage
+40479379,device,Has dir device,40481924,"Single chamber pulse generator, device"
+40479651,device,Has dir device,37163237,Endovascular stent graft
+40480519,device,Using device,45760465,External beam radiation therapy radionuclide system
+40480642,device,Using device,4044510,Core biopsy needle
+40480729,device,Using device,4233512,Colonoscope
+40480947,device,Has dir device,4085258,Biologic cardiac valve prosthesis
+40481144,device,Using device,4313302,Laparoscope
+40482207,device,Has dir device,4038538,Breast implant
+40482949,device,Has dir device,40490845,Vagal nerve stimulator
+40483386,device,Has dir device,4038672,Pressure dressing
+40484969,device,Using device,4044383,Fine biopsy needle
+40485447,device,Using device,4149926,Thoracoscope
+40485980,device,Using acc device,4290594,Endoscope
+40486140,device,Using device,4290594,Endoscope
+40486140,device,Using acc device,4290594,Endoscope
+40486199,device,Using device,4049103,Arthroscope
+40486467,device,Using device,4313302,Laparoscope
+40486941,device,Using device,4093739,Neurostimulator
+40487173,device,Using device,4149433,Orthopedic internal fixation system
+40487346,device,Using device,4038662,Biopsy needle
+40487349,device,Using device,4313302,Laparoscope
+40487536,device,Has dir device,4306146,Tube
+40487569,device,Using device,4149433,Orthopedic internal fixation system
+40487575,device,Using acc device,4290594,Endoscope
+40488324,device,Using acc device,4048015,Cystoscope
+40488324,device,Using device,4048015,Cystoscope
+40488324,device,Using device,4148813,Laser lithotripter
+40488365,device,Has dir device,4035421,Indwelling urinary catheter
+40488381,device,Using device,4313302,Laparoscope
+40488431,device,Has proc device,4030875,Cardiac pacemaker
+40488485,device,Using device,45768386,Aspiration needle
+40488930,device,Using device,4130103,External fixation system
+40489317,device,Using acc device,4290594,Endoscope
+40489317,device,Using device,4290594,Endoscope
+40489321,device,Using acc device,4290594,Endoscope
+40489321,device,Using device,4290594,Endoscope
+40489321,device,Using device,4232804,Surgical band
+40489325,device,Using acc device,4290594,Endoscope
+40489325,device,Using device,4290594,Endoscope
+40489328,device,Using acc device,4233512,Colonoscope
+40489328,device,Using device,4233512,Colonoscope
+40489804,device,Has dir device,4039956,Electrode
+40489804,device,Using device,4133890,Stereotactic device
+40489836,device,Using device,4313302,Laparoscope
+40489848,device,Using device,4313302,Laparoscope
+40489881,device,Using device,45761018,Video capsule endoscopy system capsule
+40490002,device,Using device,4049103,Arthroscope
+40490324,device,Using device,4313302,Laparoscope
+40490399,device,Using device,4313302,Laparoscope
+40491343,device,Using device,4290594,Endoscope
+40491343,device,Using acc device,4290594,Endoscope
+40492244,device,Using device,4290594,Endoscope
+40492244,device,Using acc device,4290594,Endoscope
+40492254,device,Using acc device,4290594,Endoscope
+40492529,device,Has dir device,4205702,Prosthesis
+40493292,device,Has dir device,4280677,Stent
+42535816,device,Using device,4297077,Vacuum extractor
+42536901,device,Has dir device,45761716,External breast prosthesis
+42709769,device,Using device,4149433,Orthopedic internal fixation system
+42872444,device,Using device,4313302,Laparoscope
+42872469,device,Has dir device,4113459,Nephrostomy tube
+42872475,device,Using acc device,37163208,Fiberoptic esophagoscope
+42872475,device,Using device,37163208,Fiberoptic esophagoscope
+42872496,device,Using device,4313302,Laparoscope
+42872509,device,Using device,4313302,Laparoscope
+42872509,device,Has dir device,4106981,Tube drain
+42872565,device,Using device,1245222,Echoendoscope
+42872568,device,Using device,4313302,Laparoscope
+42872569,device,Using device,4313302,Laparoscope
+42872810,device,Using device,4149433,Orthopedic internal fixation system
+42872831,device,Using device,4313302,Laparoscope
+42872923,device,Using device,4290594,Endoscope
+42872923,device,Using device,4260387,Laryngoscope
+43531093,device,Using device,4313302,Laparoscope
+43531134,device,Using device,4313302,Laparoscope
+43531163,device,Using device,4279164,Microscope
+43531512,device,Using device,4313302,Laparoscope
+43531531,device,Has dir device,4169265,Device
+43531553,device,Using device,4313302,Laparoscope
+43531648,device,Has dir device,4030970,Knee joint prosthesis
+44782864,device,Has dir device,4217646,Implantable defibrillator
+44783078,device,Using device,4049103,Arthroscope
+44784222,device,Using device,4189588,Optical coherence tomography scanner
+44790298,device,Has dir device,4030875,Cardiac pacemaker
+44790501,device,Has dir device,4030875,Cardiac pacemaker
+44791438,device,Using device,4046730,Laser device
+44807107,device,Has dir device,4222679,Wound dressing
+44808212,device,Using device,4313302,Laparoscope
+44808725,device,Using device,4313302,Laparoscope
+45763838,device,Has dir device,4161452,Brachytherapy device
+46270642,device,Using device,4313302,Laparoscope
+46270663,device,Using device,4313302,Laparoscope
+46270674,device,Using device,4313302,Laparoscope
+46270686,device,Using device,4149926,Thoracoscope
+46270731,device,Using device,4093739,Neurostimulator
+46270838,device,Using device,4313302,Laparoscope
+46270879,device,Using device,4150246,Angioplasty catheter
+46270896,device,Using device,4313302,Laparoscope
+46270974,device,Using device,4313302,Laparoscope
+46271144,device,Has dir device,4234567,Biliary stent
+46271144,device,Using acc device,4290594,Endoscope
+46272424,device,Using device,4313302,Laparoscope
+46273536,device,Using device,4313302,Laparoscope
+46273604,device,Using device,45763026,Flexible video thoracoscope
+46285669,device,Has dir device,4093739,Neurostimulator
